@@ -1,11 +1,606 @@
 {
-  "version": 1,
+  "version": 2,
+  "rule": "Each Unit = 50 words; quiz segments = 1-25 / 26-50 / all",
   "units": [
     {
+      "unitId": "1",
+      "name": "Unit 1 (a—addicted)",
+      "order": 1,
+      "rangeFrom": "a",
+      "rangeTo": "addicted",
+      "wordsPerUnit": 50,
+      "file": "unit_1.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "2",
+      "name": "Unit 2 (addiction—along)",
+      "order": 2,
+      "rangeFrom": "addiction",
+      "rangeTo": "along",
+      "wordsPerUnit": 50,
+      "file": "unit_2.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "3",
+      "name": "Unit 3 (alongside—appetite)",
+      "order": 3,
+      "rangeFrom": "alongside",
+      "rangeTo": "appetite",
+      "wordsPerUnit": 50,
+      "file": "unit_3.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "4",
+      "name": "Unit 4 (applaud—attend)",
+      "order": 4,
+      "rangeFrom": "applaud",
+      "rangeTo": "attend",
+      "wordsPerUnit": 50,
+      "file": "unit_4.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "5",
+      "name": "Unit 5 (attention—bat)",
+      "order": 5,
+      "rangeFrom": "attention",
+      "rangeTo": "bat",
+      "wordsPerUnit": 50,
+      "file": "unit_5.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "6",
+      "name": "Unit 6 (bath—birthday)",
+      "order": 6,
+      "rangeFrom": "bath",
+      "rangeTo": "birthday",
+      "wordsPerUnit": 50,
+      "file": "unit_6.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "7",
+      "name": "Unit 7 (biscuit—branch)",
+      "order": 7,
+      "rangeFrom": "biscuit",
+      "rangeTo": "branch",
+      "wordsPerUnit": 50,
+      "file": "unit_7.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "8",
+      "name": "Unit 8 (brave—campaign)",
+      "order": 8,
+      "rangeFrom": "brave",
+      "rangeTo": "campaign",
+      "wordsPerUnit": 50,
+      "file": "unit_8.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "9",
+      "name": "Unit 9 (campus—certainly)",
+      "order": 9,
+      "rangeFrom": "campus",
+      "rangeTo": "certainly",
+      "wordsPerUnit": 50,
+      "file": "unit_9.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "10",
+      "name": "Unit 10 (certificate—circuit)",
+      "order": 10,
+      "rangeFrom": "certificate",
+      "rangeTo": "circuit",
+      "wordsPerUnit": 50,
+      "file": "unit_10.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "11",
+      "name": "Unit 11 (circumstance—column)",
+      "order": 11,
+      "rangeFrom": "circumstance",
+      "rangeTo": "column",
+      "wordsPerUnit": 50,
+      "file": "unit_11.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "12",
+      "name": "Unit 12 (combine—confuse)",
+      "order": 12,
+      "rangeFrom": "combine",
+      "rangeTo": "confuse",
+      "wordsPerUnit": 50,
+      "file": "unit_12.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "13",
+      "name": "Unit 13 (congratulate—cottage)",
+      "order": 13,
+      "rangeFrom": "congratulate",
+      "rangeTo": "cottage",
+      "wordsPerUnit": 50,
+      "file": "unit_13.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "14",
+      "name": "Unit 14 (cotton—cycle)",
+      "order": 14,
+      "rangeFrom": "cotton",
+      "rangeTo": "cycle",
+      "wordsPerUnit": 50,
+      "file": "unit_14.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "15",
+      "name": "Unit 15 (daily—depress)",
+      "order": 15,
+      "rangeFrom": "daily",
+      "rangeTo": "depress",
+      "wordsPerUnit": 50,
+      "file": "unit_15.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "16",
+      "name": "Unit 16 (depth—disadvantage)",
+      "order": 16,
+      "rangeFrom": "depth",
+      "rangeTo": "disadvantage",
+      "wordsPerUnit": 50,
+      "file": "unit_16.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "17",
+      "name": "Unit 17 (disagree—drag)",
+      "order": 17,
+      "rangeFrom": "disagree",
+      "rangeTo": "drag",
+      "wordsPerUnit": 50,
+      "file": "unit_17.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "18",
+      "name": "Unit 18 (dragon—elderly)",
+      "order": 18,
+      "rangeFrom": "dragon",
+      "rangeTo": "elderly",
+      "wordsPerUnit": 50,
+      "file": "unit_18.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "19",
+      "name": "Unit 19 (election—equipment)",
+      "order": 19,
+      "rangeFrom": "election",
+      "rangeTo": "equipment",
+      "wordsPerUnit": 50,
+      "file": "unit_19.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "20",
+      "name": "Unit 20 (era—expense)",
+      "order": 20,
+      "rangeFrom": "era",
+      "rangeTo": "expense",
+      "wordsPerUnit": 50,
+      "file": "unit_20.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "21",
+      "name": "Unit 21 (expensive—father)",
+      "order": 21,
+      "rangeFrom": "expensive",
+      "rangeTo": "father",
+      "wordsPerUnit": 50,
+      "file": "unit_21.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "22",
+      "name": "Unit 22 (farther—flour)",
+      "order": 22,
+      "rangeFrom": "farther",
+      "rangeTo": "flour",
+      "wordsPerUnit": 50,
+      "file": "unit_22.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "23",
+      "name": "Unit 23 (flow—frog)",
+      "order": 23,
+      "rangeFrom": "flow",
+      "rangeTo": "frog",
+      "wordsPerUnit": 50,
+      "file": "unit_23.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "24",
+      "name": "Unit 24 (front—goal)",
+      "order": 24,
+      "rangeFrom": "front",
+      "rangeTo": "goal",
+      "wordsPerUnit": 50,
+      "file": "unit_24.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "25",
+      "name": "Unit 25 (goat—habitat)",
+      "order": 25,
+      "rangeFrom": "goat",
+      "rangeTo": "habitat",
+      "wordsPerUnit": 50,
+      "file": "unit_25.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "26",
+      "name": "Unit 26 (hair—highlight)",
+      "order": 26,
+      "rangeFrom": "hair",
+      "rangeTo": "highlight",
+      "wordsPerUnit": 50,
+      "file": "unit_26.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "27",
+      "name": "Unit 27 (hike—ice)",
+      "order": 27,
+      "rangeFrom": "hike",
+      "rangeTo": "ice",
+      "wordsPerUnit": 50,
+      "file": "unit_27.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "28",
+      "name": "Unit 28 (ice—cream—information)",
+      "order": 28,
+      "rangeFrom": "ice",
+      "rangeTo": "cream—information",
+      "wordsPerUnit": 50,
+      "file": "unit_28.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "29",
+      "name": "Unit 29 (initial—invest)",
+      "order": 29,
+      "rangeFrom": "initial",
+      "rangeTo": "invest",
+      "wordsPerUnit": 50,
+      "file": "unit_29.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "30",
+      "name": "Unit 30 (invite—knee)",
+      "order": 30,
+      "rangeFrom": "invite",
+      "rangeTo": "knee",
+      "wordsPerUnit": 50,
+      "file": "unit_30.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "31",
+      "name": "Unit 31 (knife—lesson)",
+      "order": 31,
+      "rangeFrom": "knife",
+      "rangeTo": "lesson",
+      "wordsPerUnit": 50,
+      "file": "unit_31.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "32",
+      "name": "Unit 32 (let—love)",
+      "order": 32,
+      "rangeFrom": "let",
+      "rangeTo": "love",
+      "wordsPerUnit": 50,
+      "file": "unit_32.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "33",
+      "name": "Unit 33 (lovely—means)",
+      "order": 33,
+      "rangeFrom": "lovely",
+      "rangeTo": "means",
+      "wordsPerUnit": 50,
+      "file": "unit_33.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "34",
+      "name": "Unit 34 (measure—mist)",
+      "order": 34,
+      "rangeFrom": "measure",
+      "rangeTo": "mist",
+      "wordsPerUnit": 50,
+      "file": "unit_34.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "35",
+      "name": "Unit 35 (mistake—museum)",
+      "order": 35,
+      "rangeFrom": "mistake",
+      "rangeTo": "museum",
+      "wordsPerUnit": 50,
+      "file": "unit_35.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "36",
+      "name": "Unit 36 (mushroom—no)",
+      "order": 36,
+      "rangeFrom": "mushroom",
+      "rangeTo": "no",
+      "wordsPerUnit": 50,
+      "file": "unit_36.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "37",
+      "name": "Unit 37 (noble—old)",
+      "order": 37,
+      "rangeFrom": "noble",
+      "rangeTo": "old",
+      "wordsPerUnit": 50,
+      "file": "unit_37.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "38",
+      "name": "Unit 38 (Olympics—Pacific)",
+      "order": 38,
+      "rangeFrom": "Olympics",
+      "rangeTo": "Pacific",
+      "wordsPerUnit": 50,
+      "file": "unit_38.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "39",
+      "name": "Unit 39 (pack—percent)",
+      "order": 39,
+      "rangeFrom": "pack",
+      "rangeTo": "percent",
+      "wordsPerUnit": 50,
+      "file": "unit_39.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "40",
+      "name": "Unit 40 (percentage—playground)",
+      "order": 40,
+      "rangeFrom": "percentage",
+      "rangeTo": "playground",
+      "wordsPerUnit": 50,
+      "file": "unit_40.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "41",
+      "name": "Unit 41 (pleasant—pound)",
+      "order": 41,
+      "rangeFrom": "pleasant",
+      "rangeTo": "pound",
+      "wordsPerUnit": 50,
+      "file": "unit_41.json",
+      "hasContent": false
+    },
+    {
       "unitId": "42",
-      "name": "Unit 42",
+      "name": "Unit 42 (pour—progress)",
       "order": 42,
-      "file": "unit_42.json"
+      "rangeFrom": "pour",
+      "rangeTo": "progress",
+      "wordsPerUnit": 50,
+      "file": "unit_42.json",
+      "hasContent": true
+    },
+    {
+      "unitId": "43",
+      "name": "Unit 43 (prohibit—radiation)",
+      "order": 43,
+      "rangeFrom": "prohibit",
+      "rangeTo": "radiation",
+      "wordsPerUnit": 50,
+      "file": "unit_43.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "44",
+      "name": "Unit 44 (radio—reduce)",
+      "order": 44,
+      "rangeFrom": "radio",
+      "rangeTo": "reduce",
+      "wordsPerUnit": 50,
+      "file": "unit_44.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "45",
+      "name": "Unit 45 (refer—resistance)",
+      "order": 45,
+      "rangeFrom": "refer",
+      "rangeTo": "resistance",
+      "wordsPerUnit": 50,
+      "file": "unit_45.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "46",
+      "name": "Unit 46 (resolution—routine)",
+      "order": 46,
+      "rangeFrom": "resolution",
+      "rangeTo": "routine",
+      "wordsPerUnit": 50,
+      "file": "unit_46.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "47",
+      "name": "Unit 47 (row—sculpture)",
+      "order": 47,
+      "rangeFrom": "row",
+      "rangeTo": "sculpture",
+      "wordsPerUnit": 50,
+      "file": "unit_47.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "48",
+      "name": "Unit 48 (sea—sheep)",
+      "order": 48,
+      "rangeFrom": "sea",
+      "rangeTo": "sheep",
+      "wordsPerUnit": 50,
+      "file": "unit_48.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "49",
+      "name": "Unit 49 (sheet—size)",
+      "order": 49,
+      "rangeFrom": "sheet",
+      "rangeTo": "size",
+      "wordsPerUnit": 50,
+      "file": "unit_49.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "50",
+      "name": "Unit 50 (skate—sometimes)",
+      "order": 50,
+      "rangeFrom": "skate",
+      "rangeTo": "sometimes",
+      "wordsPerUnit": 50,
+      "file": "unit_50.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "51",
+      "name": "Unit 51 (somewhat—starve)",
+      "order": 51,
+      "rangeFrom": "somewhat",
+      "rangeTo": "starve",
+      "wordsPerUnit": 50,
+      "file": "unit_51.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "52",
+      "name": "Unit 52 (state—subjective)",
+      "order": 52,
+      "rangeFrom": "state",
+      "rangeTo": "subjective",
+      "wordsPerUnit": 50,
+      "file": "unit_52.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "53",
+      "name": "Unit 53 (submit—swim)",
+      "order": 53,
+      "rangeFrom": "submit",
+      "rangeTo": "swim",
+      "wordsPerUnit": 50,
+      "file": "unit_53.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "54",
+      "name": "Unit 54 (swing—textbook)",
+      "order": 54,
+      "rangeFrom": "swing",
+      "rangeTo": "textbook",
+      "wordsPerUnit": 50,
+      "file": "unit_54.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "55",
+      "name": "Unit 55 (than—tonight)",
+      "order": 55,
+      "rangeFrom": "than",
+      "rangeTo": "tonight",
+      "wordsPerUnit": 50,
+      "file": "unit_55.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "56",
+      "name": "Unit 56 (too—turkey)",
+      "order": 56,
+      "rangeFrom": "too",
+      "rangeTo": "turkey",
+      "wordsPerUnit": 50,
+      "file": "unit_56.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "57",
+      "name": "Unit 57 (turn—various)",
+      "order": 57,
+      "rangeFrom": "turn",
+      "rangeTo": "various",
+      "wordsPerUnit": 50,
+      "file": "unit_57.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "58",
+      "name": "Unit 58 (vase—water)",
+      "order": 58,
+      "rangeFrom": "vase",
+      "rangeTo": "water",
+      "wordsPerUnit": 50,
+      "file": "unit_58.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "59",
+      "name": "Unit 59 (watermelon—wind)",
+      "order": 59,
+      "rangeFrom": "watermelon",
+      "rangeTo": "wind",
+      "wordsPerUnit": 50,
+      "file": "unit_59.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "60",
+      "name": "Unit 60 (windy—zoo)",
+      "order": 60,
+      "rangeFrom": "windy",
+      "rangeTo": "zoo",
+      "wordsPerUnit": 50,
+      "file": "unit_60.json",
+      "hasContent": false
     }
   ]
 }

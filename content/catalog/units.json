@@ -1,0 +1,1509 @@
+{
+  "version": 1,
+  "source": "3500_units_directory.txt",
+  "rule": "Strictly 50 headwords per Unit; quiz may split into segments 1-25 and 26-50.",
+  "unitCount": 60,
+  "wordsPerUnit": 50,
+  "units": [
+    {
+      "unitId": "1",
+      "order": 1,
+      "name": "Unit 1",
+      "rangeFrom": "a",
+      "rangeTo": "addicted",
+      "displayName": "Unit 1 (a—addicted)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_1.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "2",
+      "order": 2,
+      "name": "Unit 2",
+      "rangeFrom": "addiction",
+      "rangeTo": "along",
+      "displayName": "Unit 2 (addiction—along)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_2.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "3",
+      "order": 3,
+      "name": "Unit 3",
+      "rangeFrom": "alongside",
+      "rangeTo": "appetite",
+      "displayName": "Unit 3 (alongside—appetite)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_3.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "4",
+      "order": 4,
+      "name": "Unit 4",
+      "rangeFrom": "applaud",
+      "rangeTo": "attend",
+      "displayName": "Unit 4 (applaud—attend)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_4.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "5",
+      "order": 5,
+      "name": "Unit 5",
+      "rangeFrom": "attention",
+      "rangeTo": "bat",
+      "displayName": "Unit 5 (attention—bat)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_5.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "6",
+      "order": 6,
+      "name": "Unit 6",
+      "rangeFrom": "bath",
+      "rangeTo": "birthday",
+      "displayName": "Unit 6 (bath—birthday)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_6.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "7",
+      "order": 7,
+      "name": "Unit 7",
+      "rangeFrom": "biscuit",
+      "rangeTo": "branch",
+      "displayName": "Unit 7 (biscuit—branch)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_7.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "8",
+      "order": 8,
+      "name": "Unit 8",
+      "rangeFrom": "brave",
+      "rangeTo": "campaign",
+      "displayName": "Unit 8 (brave—campaign)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_8.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "9",
+      "order": 9,
+      "name": "Unit 9",
+      "rangeFrom": "campus",
+      "rangeTo": "certainly",
+      "displayName": "Unit 9 (campus—certainly)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_9.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "10",
+      "order": 10,
+      "name": "Unit 10",
+      "rangeFrom": "certificate",
+      "rangeTo": "circuit",
+      "displayName": "Unit 10 (certificate—circuit)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_10.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "11",
+      "order": 11,
+      "name": "Unit 11",
+      "rangeFrom": "circumstance",
+      "rangeTo": "column",
+      "displayName": "Unit 11 (circumstance—column)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_11.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "12",
+      "order": 12,
+      "name": "Unit 12",
+      "rangeFrom": "combine",
+      "rangeTo": "confuse",
+      "displayName": "Unit 12 (combine—confuse)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_12.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "13",
+      "order": 13,
+      "name": "Unit 13",
+      "rangeFrom": "congratulate",
+      "rangeTo": "cottage",
+      "displayName": "Unit 13 (congratulate—cottage)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_13.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "14",
+      "order": 14,
+      "name": "Unit 14",
+      "rangeFrom": "cotton",
+      "rangeTo": "cycle",
+      "displayName": "Unit 14 (cotton—cycle)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_14.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "15",
+      "order": 15,
+      "name": "Unit 15",
+      "rangeFrom": "daily",
+      "rangeTo": "depress",
+      "displayName": "Unit 15 (daily—depress)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_15.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "16",
+      "order": 16,
+      "name": "Unit 16",
+      "rangeFrom": "depth",
+      "rangeTo": "disadvantage",
+      "displayName": "Unit 16 (depth—disadvantage)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_16.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "17",
+      "order": 17,
+      "name": "Unit 17",
+      "rangeFrom": "disagree",
+      "rangeTo": "drag",
+      "displayName": "Unit 17 (disagree—drag)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_17.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "18",
+      "order": 18,
+      "name": "Unit 18",
+      "rangeFrom": "dragon",
+      "rangeTo": "elderly",
+      "displayName": "Unit 18 (dragon—elderly)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_18.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "19",
+      "order": 19,
+      "name": "Unit 19",
+      "rangeFrom": "election",
+      "rangeTo": "equipment",
+      "displayName": "Unit 19 (election—equipment)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_19.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "20",
+      "order": 20,
+      "name": "Unit 20",
+      "rangeFrom": "era",
+      "rangeTo": "expense",
+      "displayName": "Unit 20 (era—expense)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_20.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "21",
+      "order": 21,
+      "name": "Unit 21",
+      "rangeFrom": "expensive",
+      "rangeTo": "father",
+      "displayName": "Unit 21 (expensive—father)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_21.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "22",
+      "order": 22,
+      "name": "Unit 22",
+      "rangeFrom": "farther",
+      "rangeTo": "flour",
+      "displayName": "Unit 22 (farther—flour)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_22.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "23",
+      "order": 23,
+      "name": "Unit 23",
+      "rangeFrom": "flow",
+      "rangeTo": "frog",
+      "displayName": "Unit 23 (flow—frog)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_23.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "24",
+      "order": 24,
+      "name": "Unit 24",
+      "rangeFrom": "front",
+      "rangeTo": "goal",
+      "displayName": "Unit 24 (front—goal)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_24.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "25",
+      "order": 25,
+      "name": "Unit 25",
+      "rangeFrom": "goat",
+      "rangeTo": "habitat",
+      "displayName": "Unit 25 (goat—habitat)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_25.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "26",
+      "order": 26,
+      "name": "Unit 26",
+      "rangeFrom": "hair",
+      "rangeTo": "highlight",
+      "displayName": "Unit 26 (hair—highlight)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_26.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "27",
+      "order": 27,
+      "name": "Unit 27",
+      "rangeFrom": "hike",
+      "rangeTo": "ice",
+      "displayName": "Unit 27 (hike—ice)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_27.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "28",
+      "order": 28,
+      "name": "Unit 28",
+      "rangeFrom": "ice",
+      "rangeTo": "cream—information",
+      "displayName": "Unit 28 (ice—cream—information)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_28.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "29",
+      "order": 29,
+      "name": "Unit 29",
+      "rangeFrom": "initial",
+      "rangeTo": "invest",
+      "displayName": "Unit 29 (initial—invest)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_29.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "30",
+      "order": 30,
+      "name": "Unit 30",
+      "rangeFrom": "invite",
+      "rangeTo": "knee",
+      "displayName": "Unit 30 (invite—knee)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_30.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "31",
+      "order": 31,
+      "name": "Unit 31",
+      "rangeFrom": "knife",
+      "rangeTo": "lesson",
+      "displayName": "Unit 31 (knife—lesson)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_31.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "32",
+      "order": 32,
+      "name": "Unit 32",
+      "rangeFrom": "let",
+      "rangeTo": "love",
+      "displayName": "Unit 32 (let—love)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_32.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "33",
+      "order": 33,
+      "name": "Unit 33",
+      "rangeFrom": "lovely",
+      "rangeTo": "means",
+      "displayName": "Unit 33 (lovely—means)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_33.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "34",
+      "order": 34,
+      "name": "Unit 34",
+      "rangeFrom": "measure",
+      "rangeTo": "mist",
+      "displayName": "Unit 34 (measure—mist)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_34.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "35",
+      "order": 35,
+      "name": "Unit 35",
+      "rangeFrom": "mistake",
+      "rangeTo": "museum",
+      "displayName": "Unit 35 (mistake—museum)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_35.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "36",
+      "order": 36,
+      "name": "Unit 36",
+      "rangeFrom": "mushroom",
+      "rangeTo": "no",
+      "displayName": "Unit 36 (mushroom—no)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_36.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "37",
+      "order": 37,
+      "name": "Unit 37",
+      "rangeFrom": "noble",
+      "rangeTo": "old",
+      "displayName": "Unit 37 (noble—old)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_37.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "38",
+      "order": 38,
+      "name": "Unit 38",
+      "rangeFrom": "Olympics",
+      "rangeTo": "Pacific",
+      "displayName": "Unit 38 (Olympics—Pacific)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_38.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "39",
+      "order": 39,
+      "name": "Unit 39",
+      "rangeFrom": "pack",
+      "rangeTo": "percent",
+      "displayName": "Unit 39 (pack—percent)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_39.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "40",
+      "order": 40,
+      "name": "Unit 40",
+      "rangeFrom": "percentage",
+      "rangeTo": "playground",
+      "displayName": "Unit 40 (percentage—playground)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_40.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "41",
+      "order": 41,
+      "name": "Unit 41",
+      "rangeFrom": "pleasant",
+      "rangeTo": "pound",
+      "displayName": "Unit 41 (pleasant—pound)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_41.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "42",
+      "order": 42,
+      "name": "Unit 42",
+      "rangeFrom": "pour",
+      "rangeTo": "progress",
+      "displayName": "Unit 42 (pour—progress)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_42.json",
+      "hasContent": true
+    },
+    {
+      "unitId": "43",
+      "order": 43,
+      "name": "Unit 43",
+      "rangeFrom": "prohibit",
+      "rangeTo": "radiation",
+      "displayName": "Unit 43 (prohibit—radiation)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_43.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "44",
+      "order": 44,
+      "name": "Unit 44",
+      "rangeFrom": "radio",
+      "rangeTo": "reduce",
+      "displayName": "Unit 44 (radio—reduce)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_44.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "45",
+      "order": 45,
+      "name": "Unit 45",
+      "rangeFrom": "refer",
+      "rangeTo": "resistance",
+      "displayName": "Unit 45 (refer—resistance)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_45.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "46",
+      "order": 46,
+      "name": "Unit 46",
+      "rangeFrom": "resolution",
+      "rangeTo": "routine",
+      "displayName": "Unit 46 (resolution—routine)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_46.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "47",
+      "order": 47,
+      "name": "Unit 47",
+      "rangeFrom": "row",
+      "rangeTo": "sculpture",
+      "displayName": "Unit 47 (row—sculpture)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_47.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "48",
+      "order": 48,
+      "name": "Unit 48",
+      "rangeFrom": "sea",
+      "rangeTo": "sheep",
+      "displayName": "Unit 48 (sea—sheep)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_48.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "49",
+      "order": 49,
+      "name": "Unit 49",
+      "rangeFrom": "sheet",
+      "rangeTo": "size",
+      "displayName": "Unit 49 (sheet—size)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_49.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "50",
+      "order": 50,
+      "name": "Unit 50",
+      "rangeFrom": "skate",
+      "rangeTo": "sometimes",
+      "displayName": "Unit 50 (skate—sometimes)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_50.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "51",
+      "order": 51,
+      "name": "Unit 51",
+      "rangeFrom": "somewhat",
+      "rangeTo": "starve",
+      "displayName": "Unit 51 (somewhat—starve)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_51.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "52",
+      "order": 52,
+      "name": "Unit 52",
+      "rangeFrom": "state",
+      "rangeTo": "subjective",
+      "displayName": "Unit 52 (state—subjective)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_52.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "53",
+      "order": 53,
+      "name": "Unit 53",
+      "rangeFrom": "submit",
+      "rangeTo": "swim",
+      "displayName": "Unit 53 (submit—swim)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_53.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "54",
+      "order": 54,
+      "name": "Unit 54",
+      "rangeFrom": "swing",
+      "rangeTo": "textbook",
+      "displayName": "Unit 54 (swing—textbook)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_54.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "55",
+      "order": 55,
+      "name": "Unit 55",
+      "rangeFrom": "than",
+      "rangeTo": "tonight",
+      "displayName": "Unit 55 (than—tonight)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_55.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "56",
+      "order": 56,
+      "name": "Unit 56",
+      "rangeFrom": "too",
+      "rangeTo": "turkey",
+      "displayName": "Unit 56 (too—turkey)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_56.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "57",
+      "order": 57,
+      "name": "Unit 57",
+      "rangeFrom": "turn",
+      "rangeTo": "various",
+      "displayName": "Unit 57 (turn—various)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_57.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "58",
+      "order": 58,
+      "name": "Unit 58",
+      "rangeFrom": "vase",
+      "rangeTo": "water",
+      "displayName": "Unit 58 (vase—water)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_58.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "59",
+      "order": 59,
+      "name": "Unit 59",
+      "rangeFrom": "watermelon",
+      "rangeTo": "wind",
+      "displayName": "Unit 59 (watermelon—wind)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_59.json",
+      "hasContent": false
+    },
+    {
+      "unitId": "60",
+      "order": 60,
+      "name": "Unit 60",
+      "rangeFrom": "windy",
+      "rangeTo": "zoo",
+      "displayName": "Unit 60 (windy—zoo)",
+      "wordsPerUnit": 50,
+      "segments": [
+        {
+          "id": "1-25",
+          "label": "前25词",
+          "wordFrom": 1,
+          "wordTo": 25
+        },
+        {
+          "id": "26-50",
+          "label": "后25词",
+          "wordFrom": 26,
+          "wordTo": 50
+        }
+      ],
+      "file": "unit_60.json",
+      "hasContent": false
+    }
+  ]
+}

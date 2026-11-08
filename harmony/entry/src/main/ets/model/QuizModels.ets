@@ -16,6 +16,7 @@ export class QuizItem {
   tags: Array<string> = [];
   relatedGroupId: string = '';
   sourceRef: string = '';
+  segment: string = '';
 }
 
 export class UnitBank {
@@ -23,6 +24,9 @@ export class UnitBank {
   name: string = '';
   order: number = 0;
   items: Array<QuizItem> = [];
+  rangeFrom: string = '';
+  rangeTo: string = '';
+  wordsPerUnit: number = 50;
 }
 
 export class UnitMeta {
@@ -30,6 +34,10 @@ export class UnitMeta {
   name: string = '';
   order: number = 0;
   file: string = '';
+  rangeFrom: string = '';
+  rangeTo: string = '';
+  wordsPerUnit: number = 50;
+  hasContent: boolean = false;
 }
 
 export class ManifestRoot {
@@ -48,4 +56,10 @@ export class QuizModeConst {
   static readonly CLOZE: string = 'cloze';
   static readonly MIXED: string = 'mixed';
   static readonly WRONG_ONLY: string = 'wrong_only';
+}
+
+export class QuizSegmentConst {
+  static readonly ALL: string = 'all';
+  static readonly FIRST_25: string = '1-25';
+  static readonly LAST_25: string = '26-50';
 }

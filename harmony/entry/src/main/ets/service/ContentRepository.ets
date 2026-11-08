@@ -22,6 +22,18 @@ export class ContentRepository {
       meta.name = row['name'] as string;
       meta.order = row['order'] as number;
       meta.file = row['file'] as string;
+      if (row['rangeFrom'] !== undefined && row['rangeFrom'] !== null) {
+        meta.rangeFrom = row['rangeFrom'] as string;
+      }
+      if (row['rangeTo'] !== undefined && row['rangeTo'] !== null) {
+        meta.rangeTo = row['rangeTo'] as string;
+      }
+      if (row['wordsPerUnit'] !== undefined && row['wordsPerUnit'] !== null) {
+        meta.wordsPerUnit = row['wordsPerUnit'] as number;
+      }
+      if (row['hasContent'] !== undefined && row['hasContent'] !== null) {
+        meta.hasContent = row['hasContent'] as boolean;
+      }
       list.push(meta);
     }
     list.sort((a: UnitMeta, b: UnitMeta): number => {
@@ -37,6 +49,15 @@ export class ContentRepository {
     bank.unitId = rootObj['unitId'] as string;
     bank.name = rootObj['name'] as string;
     bank.order = rootObj['order'] as number;
+    if (rootObj['rangeFrom'] !== undefined && rootObj['rangeFrom'] !== null) {
+      bank.rangeFrom = rootObj['rangeFrom'] as string;
+    }
+    if (rootObj['rangeTo'] !== undefined && rootObj['rangeTo'] !== null) {
+      bank.rangeTo = rootObj['rangeTo'] as string;
+    }
+    if (rootObj['wordsPerUnit'] !== undefined && rootObj['wordsPerUnit'] !== null) {
+      bank.wordsPerUnit = rootObj['wordsPerUnit'] as number;
+    }
     const itemsObj: Object = rootObj['items'];
     const itemsArr: Array<Object> = itemsObj as Array<Object>;
     const items: Array<QuizItem> = [];
@@ -66,6 +87,9 @@ export class ContentRepository {
     }
     if (row['sourceRef'] !== undefined && row['sourceRef'] !== null) {
       item.sourceRef = row['sourceRef'] as string;
+    }
+    if (row['segment'] !== undefined && row['segment'] !== null) {
+      item.segment = row['segment'] as string;
     }
     return item;
   }

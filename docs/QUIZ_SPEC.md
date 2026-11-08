@@ -40,9 +40,15 @@ Android (Kotlin) 与 HarmonyOS (ArkTS) 必须按本规格实现判分与抽题�
 
 ## 抽题
 
-### 范围
+### 范围（严格对齐目录）
 
-- `unitId` 列表 + 可选 `segment`：`all` / `1-25` / `26-50`（按 `sourceRef` 中序号或 items 顺序切分）
+- 权威目录：`content/catalog/units.json`（源自桌面 `3500.txt`）
+- **每个 Unit = 50 个中心词**，带首尾词区间，例如 Unit 42 = `pour—progress`
+- 抽查分段 `segment`：
+  - `1-25`：该 Unit 前 25 词对应考点
+  - `26-50`：该 Unit 后 25 词对应考点
+  - `all`：整 Unit
+- 过滤优先用条目字段 `segment`；若缺失，则按 items 顺序对半切分
 
 ### 模式
 

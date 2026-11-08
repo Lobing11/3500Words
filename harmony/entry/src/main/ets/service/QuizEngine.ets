@@ -1,6 +1,19 @@
-import { QuizItem, QuizModeConst } from '../model/QuizModels';
+import { QuizItem, QuizModeConst, QuizSegmentConst } from '../model/QuizModels';
 
 export class QuizEngine {
+  static filterBySegment(items: Array<QuizItem>, segment: string): Array<QuizItem> {
+    if (segment === QuizSegmentConst.ALL) {
+      return items;
+    }
+    if (segment === QuizSegmentConst.FIRST_25) {
+      return QuizEngine.filterSegmentOrHalf(items, '1-25', true);
+    }
+    if (segment === QuizSegmentConst.LAST_25) {
+      return QuizEngine.filterSegmentOrHalf(items, '26-50', false);
+    }
+    return items;
+  }
+
   static filterByMode(items: Array<QuizItem>, mode: string, wrongIds: Array<string>): Array<QuizItem> {
     const result: Array<QuizItem> = [];
     for (let i: number = 0; i < items.length; i++) {
@@ -40,6 +53,33 @@ export class QuizEngine {
       session.push(ordered[i]);
     }
     return session;
+  }
+
+  private static filterSegmentOrHalf(items: Array<QuizItem>, segmentId: string, takeFirstHalf: boolean): Array<QuizItem> {
+    const tagged: Array<QuizItem> = [];
+    for (let i: number = 0; i < items.length; i++) {
+      if (items[i].segment === segmentId) {
+        tagged.push(items[i]);
+      }
+    }
+    if (tagged.length > 0) {
+      return tagged;
+    }
+    if (items.length === 0) {
+      return [];
+    }
+    const mid: number = Math.floor((items.length + 1) / 2);
+    const result: Array<QuizItem> = [];
+    if (takeFirstHalf) {
+      for (let i: number = 0; i < mid; i++) {
+        result.push(items[i]);
+      }
+    } else {
+      for (let i: number = mid; i < items.length; i++) {
+        result.push(items[i]);
+      }
+    }
+    return result;
   }
 
   private static containsId(ids: Array<string>, id: string): boolean {

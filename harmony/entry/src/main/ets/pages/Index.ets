@@ -1,4 +1,4 @@
-import { GradeVerdictConst, QuizItem, QuizModeConst, UnitMeta } from '../model/QuizModels';
+import { GradeVerdictConst, QuizItem, QuizModeConst, QuizSegmentConst, UnitMeta } from '../model/QuizModels';
 import { AppServices } from '../common/AppServices';
 import { Grader } from '../service/Grader';
 import { QuizEngine } from '../service/QuizEngine';
@@ -12,7 +12,9 @@ struct Index {
   @State selectedUnitId: string = '';
   @State selectedUnitName: string = '';
   @State selectedFile: string = '';
+  @State selectedHasContent: boolean = false;
   @State mode: string = QuizModeConst.MIXED;
+  @State segment: string = QuizSegmentConst.FIRST_25;
   @State wrongCount: number = 0;
   @State message: string = '';
   @State inSession: boolean = false;
@@ -38,10 +40,21 @@ struct Index {
     }
     const units: Array<UnitMeta> = await content.loadManifest();
     this.units = units;
-    if (units.length > 0) {
-      this.selectedUnitId = units[0].unitId;
-      this.selectedUnitName = units[0].name;
-      this.selectedFile = units[0].file;
+    let preferred: UnitMeta | null = null;
+    for (let i: number = 0; i < units.length; i++) {
+      if (units[i].hasContent) {
+        preferred = units[i];
+        break;
+      }
+    }
+    if (preferred === null && units.length > 0) {
+      preferred = units[0];
+    }
+    if (preferred !== null) {
+      this.selectedUnitId = preferred.unitId;
+      this.selectedUnitName = preferred.name;
+      this.selectedFile = preferred.file;
+      this.selectedHasContent = preferred.hasContent;
     }
     this.wrongCount = wrongBook.wrongIds().length;
   }
@@ -50,10 +63,16 @@ struct Index {
     this.selectedUnitId = unit.unitId;
     this.selectedUnitName = unit.name;
     this.selectedFile = unit.file;
+    this.selectedHasContent = unit.hasContent;
+    this.message = '';
   }
 
   private selectMode(mode: string): void {
     this.mode = mode;
+  }
+
+  private selectSegment(segment: string): void {
+    this.segment = segment;
   }
 
   private async startSession(count: number): Promise<void> {
@@ -67,8 +86,13 @@ struct Index {
       this.message = '请先选择 Unit';
       return;
     }
+    if (!this.selectedHasContent) {
+      this.message = `${this.selectedUnitName} 词库尚未入库（目录已对齐，内容待补充）`;
+      return;
+    }
     const bank = await content.loadUnit(this.selectedFile);
-    const pool: Array<QuizItem> = QuizEngine.filterByMode(bank.items, this.mode, wrongBook.wrongIds());
+    const bySegment: Array<QuizItem> = QuizEngine.filterBySegment(bank.items, this.segment);
+    const pool: Array<QuizItem> = QuizEngine.filterByMode(bySegment, this.mode, wrongBook.wrongIds());
     const session: Array<QuizItem> = QuizEngine.pickSession(pool, count, this.mode);
     if (session.length === 0) {
       this.message = '当前范围没有可抽题目';
@@ -230,11 +254,11 @@ struct Index {
       Text('3500 词汇抽背')
         .fontSize(28)
         .fontWeight(FontWeight.Bold)
-      Text('还原课堂：中译英 / 填空 / 混合抽查')
+      Text('目录：每 Unit 50 词；抽查可拆前/后 25 词')
         .fontSize(14)
         .fontColor('#666666')
 
-      Text('选择 Unit')
+      Text('选择 Unit（1–60）')
         .fontSize(18)
         .margin({ top: 8 })
 
@@ -250,10 +274,25 @@ struct Index {
           }
         }, (unit: UnitMeta): string => unit.unitId)
       }
-      .height(140)
+      .height(160)
+
+      Text('分段（每 Unit 约 50 词）').fontSize(18)
+      Row({ space: 8 }) {
+        Button('前25')
+          .onClick(() => {
+            this.selectSegment(QuizSegmentConst.FIRST_25);
+          })
+        Button('后25')
+          .onClick(() => {
+            this.selectSegment(QuizSegmentConst.LAST_25);
+          })
+        Button('整Unit')
+          .onClick(() => {
+            this.selectSegment(QuizSegmentConst.ALL);
+          })
+      }
 
       Text('抽背模式').fontSize(18)
-
       Row({ space: 8 }) {
         Button('中译英')
           .onClick(() => {
@@ -273,7 +312,7 @@ struct Index {
           })
       }
 
-      Text(`当前模式：${this.modeLabel()} · 错题 ${this.wrongCount}`)
+      Text(`分段：${this.segmentLabel()} · 模式：${this.modeLabel()} · 错题 ${this.wrongCount}`)
 
       if (this.message.length > 0) {
         Text(this.message).fontColor('#B00020')
@@ -295,10 +334,24 @@ struct Index {
   }
 
   private unitLabel(unit: UnitMeta): string {
-    if (unit.unitId === this.selectedUnitId) {
-      return `● ${unit.name}`;
+    let mark: string = '';
+    if (!unit.hasContent) {
+      mark = ' · 待入库';
     }
-    return `○ ${unit.name}`;
+    if (unit.unitId === this.selectedUnitId) {
+      return `● ${unit.name}${mark}`;
+    }
+    return `○ ${unit.name}${mark}`;
+  }
+
+  private segmentLabel(): string {
+    if (this.segment === QuizSegmentConst.FIRST_25) {
+      return '前25词';
+    }
+    if (this.segment === QuizSegmentConst.LAST_25) {
+      return '后25词';
+    }
+    return '整Unit';
   }
 
   private modeLabel(): string {

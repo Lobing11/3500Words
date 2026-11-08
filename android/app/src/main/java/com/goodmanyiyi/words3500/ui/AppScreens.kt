@@ -22,6 +22,7 @@ import androidx.compose.ui.Modifier.Modifier
 import androidx.compose.ui.unit.dp
 import com.goodmanyiyi.words3500.domain.GradeVerdict
 import com.goodmanyiyi.words3500.domain.QuizMode
+import com.goodmanyiyi.words3500.domain.QuizSegment
 
 @Composable
 fun HomeScreen(vm: QuizViewModel) {
@@ -42,19 +43,36 @@ fun HomeScreen(vm: QuizViewModel) {
         verticalArrangement = Arrangement.spacedBy(12.dp)
     ) {
         Text("3500 词汇抽背", style = MaterialTheme.typography.headlineMedium)
-        Text("还原课堂：中译英 / 填空 / 混合抽查", style = MaterialTheme.typography.bodyMedium)
+        Text(
+            "目录：每 Unit 50 词；抽查可拆前/后 25 词",
+            style = MaterialTheme.typography.bodyMedium
+        )
 
-        Text("选择 Unit", style = MaterialTheme.typography.titleMedium)
-        LazyColumn(modifier = Modifier.height(160.dp)) {
+        Text("选择 Unit（1–60）", style = MaterialTheme.typography.titleMedium)
+        LazyColumn(modifier = Modifier.height(180.dp)) {
             items(state.units) { unit ->
                 val selected = state.selectedUnit?.unitId == unit.unitId
+                val mark = if (unit.hasContent) "" else " · 待入库"
                 Text(
-                    text = if (selected) "● ${unit.name}" else "○ ${unit.name}",
+                    text = if (selected) "● ${unit.name}$mark" else "○ ${unit.name}$mark",
                     modifier = Modifier
                         .fillMaxWidth()
                         .clickable { vm.selectUnit(unit) }
                         .padding(vertical = 8.dp)
                 )
+            }
+        }
+
+        Text("分段（每 Unit 约 50 词）", style = MaterialTheme.typography.titleMedium)
+        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            ModeChip("前25", state.segment == QuizSegment.FIRST_25) {
+                vm.selectSegment(QuizSegment.FIRST_25)
+            }
+            ModeChip("后25", state.segment == QuizSegment.LAST_25) {
+                vm.selectSegment(QuizSegment.LAST_25)
+            }
+            ModeChip("整Unit", state.segment == QuizSegment.ALL) {
+                vm.selectSegment(QuizSegment.ALL)
             }
         }
 

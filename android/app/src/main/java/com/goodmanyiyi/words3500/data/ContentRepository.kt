@@ -21,7 +21,11 @@ class ContentRepository(private val context: Context) {
                     unitId = u.getString("unitId"),
                     name = u.getString("name"),
                     order = u.optInt("order", 0),
-                    file = u.getString("file")
+                    file = u.getString("file"),
+                    rangeFrom = u.optString("rangeFrom", ""),
+                    rangeTo = u.optString("rangeTo", ""),
+                    wordsPerUnit = u.optInt("wordsPerUnit", 50),
+                    hasContent = u.optBoolean("hasContent", false)
                 )
             )
         }
@@ -40,7 +44,10 @@ class ContentRepository(private val context: Context) {
             unitId = root.getString("unitId"),
             name = root.getString("name"),
             order = root.optInt("order", 0),
-            items = items
+            items = items,
+            rangeFrom = root.optString("rangeFrom", ""),
+            rangeTo = root.optString("rangeTo", ""),
+            wordsPerUnit = root.optInt("wordsPerUnit", 50)
         )
     }
 
@@ -56,7 +63,8 @@ class ContentRepository(private val context: Context) {
             hint = obj.optString("hint", ""),
             tags = obj.optJSONArray("tags").toStringList(),
             relatedGroupId = obj.optString("relatedGroupId", ""),
-            sourceRef = obj.optString("sourceRef", "")
+            sourceRef = obj.optString("sourceRef", ""),
+            segment = obj.optString("segment", "")
         )
     }
 

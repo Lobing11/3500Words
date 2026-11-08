@@ -3,7 +3,9 @@
 高考英语词汇课堂抽背 App（**HarmonyOS 7 ArkTS** + **Android Kotlin**）。
 
 共享词库：`content/curated/`  
-抽题/判分契约：`docs/QUIZ_SPEC.md`
+Unit 目录（每 Unit 50 词）：`content/catalog/units.json`  
+抽题/判分契约：`docs/QUIZ_SPEC.md`  
+抽查分段：前 25 / 后 25 / 整 Unit
 
 ## 快速开始
 

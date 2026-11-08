@@ -13,6 +13,7 @@ import com.goodmanyiyi.words3500.domain.Grader
 import com.goodmanyiyi.words3500.domain.QuizEngine
 import com.goodmanyiyi.words3500.domain.QuizItem
 import com.goodmanyiyi.words3500.domain.QuizMode
+import com.goodmanyiyi.words3500.domain.QuizSegment
 import com.goodmanyiyi.words3500.domain.UnitMeta
 import java.util.Locale
 
@@ -20,6 +21,7 @@ data class QuizUiState(
     val units: List<UnitMeta> = emptyList(),
     val selectedUnit: UnitMeta? = null,
     val mode: QuizMode = QuizMode.MIXED,
+    val segment: QuizSegment = QuizSegment.FIRST_25,
     val session: List<QuizItem> = emptyList(),
     val index: Int = 0,
     val input: String = "",
@@ -47,25 +49,35 @@ class QuizViewModel(app: Application) : AndroidViewModel(app) {
             }
         }
         val units = repo.loadManifest()
+        val preferred = units.firstOrNull { it.hasContent } ?: units.firstOrNull()
         state = state.copy(
             units = units,
-            selectedUnit = units.firstOrNull(),
+            selectedUnit = preferred,
             wrongIds = wrongBook.wrongIds()
         )
     }
 
     fun selectUnit(unit: UnitMeta) {
-        state = state.copy(selectedUnit = unit)
+        state = state.copy(selectedUnit = unit, message = "")
     }
 
     fun selectMode(mode: QuizMode) {
         state = state.copy(mode = mode)
     }
 
+    fun selectSegment(segment: QuizSegment) {
+        state = state.copy(segment = segment)
+    }
+
     fun startSession(count: Int = 25) {
         val unit = state.selectedUnit ?: return
+        if (!unit.hasContent) {
+            state = state.copy(message = "${unit.name} 词库尚未入库（目录已对齐，内容待补充）")
+            return
+        }
         val bank = repo.loadUnit(unit.file)
-        val pool = QuizEngine.filterByMode(bank.items, state.mode, wrongBook.wrongIds())
+        val bySegment = QuizEngine.filterBySegment(bank.items, state.segment)
+        val pool = QuizEngine.filterByMode(bySegment, state.mode, wrongBook.wrongIds())
         val session = QuizEngine.pickSession(pool, count, state.mode)
         if (session.isEmpty()) {
             state = state.copy(message = "当前范围没有可抽题目")
