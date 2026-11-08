@@ -1,0 +1,571 @@
+{
+  "unitId": "20",
+  "name": "Unit 20 (era—expense)",
+  "order": 20,
+  "rangeFrom": "era",
+  "rangeTo": "expense",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u20-101",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "时代；纪元",
+      "answerPrimary": "era",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-102",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "擦掉；橡皮擦",
+      "answerPrimary": "erase / eraser",
+      "answerAlts": [
+        "erase",
+        "eraser"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-103",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "错误；误差",
+      "answerPrimary": "error / by error",
+      "answerAlts": [
+        "error",
+        "mistake"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-104",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "爆发；喷发",
+      "answerPrimary": "erupt",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-105",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "逃跑；逃脱",
+      "answerPrimary": "escape / escape from",
+      "answerAlts": [
+        "escape",
+        "escape from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-106",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "尤其；特别",
+      "answerPrimary": "especially / specially",
+      "answerAlts": [
+        "especially",
+        "specially"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-107",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "文章；短文",
+      "answerPrimary": "essay",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-108",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "欧洲；欧洲的",
+      "answerPrimary": "Europe / European",
+      "answerAlts": [
+        "Europe",
+        "European"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-109",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "评估；评价",
+      "answerPrimary": "evaluate / evaluation",
+      "answerAlts": [
+        "evaluate",
+        "evaluation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-110",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "前夕；甚至",
+      "answerPrimary": "eve / even / even if / even though",
+      "answerAlts": [
+        "eve",
+        "even",
+        "even if",
+        "even though"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-111",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "晚上；傍晚",
+      "answerPrimary": "evening",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-112",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "事件；最终",
+      "answerPrimary": "event / eventually",
+      "answerAlts": [
+        "event",
+        "eventually"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-113",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "曾经；永远",
+      "answerPrimary": "ever / forever",
+      "answerAlts": [
+        "ever",
+        "for ever"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-114a",
+      "unitId": "20",
+      "type": "phrase_cluster",
+      "prompt": "每个；一切",
+      "answerPrimary": "every / everybody / everything",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u20-every"
+    },
+    {
+      "id": "u20-114b",
+      "unitId": "20",
+      "type": "phrase_cluster",
+      "prompt": "到处",
+      "answerPrimary": "everywhere",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u20-every"
+    },
+    {
+      "id": "u20-115",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "证据；明显的",
+      "answerPrimary": "evidence / evident",
+      "answerAlts": [
+        "evidence",
+        "evident",
+        "It is evident that"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-116",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "进化；演变",
+      "answerPrimary": "evolution / evolve",
+      "answerAlts": [
+        "evolution",
+        "evolve"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-117",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "确切的；精确的",
+      "answerPrimary": "exact / exactly",
+      "answerAlts": [
+        "exact",
+        "exactly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-118",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "考试；检查",
+      "answerPrimary": "exam / examination / examine",
+      "answerAlts": [
+        "exam",
+        "examination",
+        "examine"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-119",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "例子；榜样",
+      "answerPrimary": "example / for example / set an example",
+      "answerAlts": [
+        "example",
+        "for example",
+        "set an example"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u20-120",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "优秀的",
+      "answerPrimary": "excellent",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-121",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "除了；除外",
+      "answerPrimary": "except / except for / exception",
+      "answerAlts": [
+        "except",
+        "except for",
+        "exception"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-122",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "交换；交流",
+      "answerPrimary": "exchange / in exchange for",
+      "answerAlts": [
+        "exchange",
+        "in exchange for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-123",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "使兴奋；激动的",
+      "answerPrimary": "excite / excited / exciting / excitement",
+      "answerAlts": [
+        "excite",
+        "excited",
+        "exciting",
+        "excitement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-124",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "借口；原谅",
+      "answerPrimary": "excuse / excuse me",
+      "answerAlts": [
+        "excuse",
+        "excuse me"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-125",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "练习；锻炼",
+      "answerPrimary": "exercise",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-126",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "展览；展览会",
+      "answerPrimary": "exhibition",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-127",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "存在",
+      "answerPrimary": "exist / existence",
+      "answerAlts": [
+        "exist",
+        "existence"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-128",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "出口；退出",
+      "answerPrimary": "exit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-129",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "扩大；扩展",
+      "answerPrimary": "expand / expansion",
+      "answerAlts": [
+        "expand",
+        "expansion"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-130",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "期望；预料",
+      "answerPrimary": "expect / expectation / as expected",
+      "answerAlts": [
+        "expect",
+        "expectation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-131",
+      "unitId": "20",
+      "type": "zh2en",
+      "prompt": "费用；开支",
+      "answerPrimary": "expense / at the expense of",
+      "answerAlts": [
+        "expense",
+        "at the expense of",
+        "expenses"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-132",
+      "unitId": "20",
+      "type": "pattern",
+      "prompt": "即使下雨我们也要去",
+      "answerPrimary": "Even if it rains, we will go",
+      "answerAlts": [
+        "Even though it rains, we will go"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u20-133",
+      "unitId": "20",
+      "type": "cloze",
+      "prompt": "Nobody can escape ____ destiny.",
+      "answerPrimary": "from",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "from",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

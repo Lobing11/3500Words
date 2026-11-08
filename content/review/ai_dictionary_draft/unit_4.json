@@ -1,0 +1,800 @@
+{
+  "unitId": "4",
+  "name": "Unit 4 (applaud—attend)",
+  "order": 4,
+  "rangeFrom": "applaud",
+  "rangeTo": "attend",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u4-101",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "鼓掌；称赞",
+      "answerPrimary": "applaud",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-102",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "苹果",
+      "answerPrimary": "apple",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-103",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "申请人 / 申请",
+      "answerPrimary": "applicant / application / apply for",
+      "answerAlts": [
+        "applicant",
+        "application",
+        "apply for",
+        "apply to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-104",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "任命；约定",
+      "answerPrimary": "appoint / appointment",
+      "answerAlts": [
+        "appoint",
+        "appointment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-105",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "欣赏；感激",
+      "answerPrimary": "appreciate / appreciation",
+      "answerAlts": [
+        "appreciate",
+        "appreciation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-106",
+      "unitId": "4",
+      "type": "pattern",
+      "prompt": "如能早日回复，我将不胜感激",
+      "answerPrimary": "I would appreciate it if you could reply soon",
+      "answerAlts": [
+        "I would appreciate it if"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-107",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "接近；方法",
+      "answerPrimary": "approach",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-108",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "适当的",
+      "answerPrimary": "appropriate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-109",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "批准；赞同",
+      "answerPrimary": "approve of / approval",
+      "answerAlts": [
+        "approve of",
+        "approval"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-110",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "大约",
+      "answerPrimary": "approximately / about",
+      "answerAlts": [
+        "approximately",
+        "about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-111",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "任意的；武断的",
+      "answerPrimary": "arbitrary",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-112",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "建筑师 / 建筑学",
+      "answerPrimary": "architect / architecture",
+      "answerAlts": [
+        "architect",
+        "architecture"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-113",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "北极的",
+      "answerPrimary": "arctic / Arctic",
+      "answerAlts": [
+        "arctic",
+        "Arctic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-114",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "地区；面积",
+      "answerPrimary": "area",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-115",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "争论；论点",
+      "answerPrimary": "argue / argument / argue with",
+      "answerAlts": [
+        "argue",
+        "argument",
+        "argue with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-116",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "产生；出现（arise）",
+      "answerPrimary": "arise / arise from",
+      "answerAlts": [
+        "arise",
+        "arise from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-117",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "手臂；武器",
+      "answerPrimary": "arm / arms",
+      "answerAlts": [
+        "arm",
+        "arms"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-118",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "军队",
+      "answerPrimary": "army",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-119",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "在……周围；大约",
+      "answerPrimary": "around",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u4-120",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "安排",
+      "answerPrimary": "arrange / arrangement",
+      "answerAlts": [
+        "arrange",
+        "arrangement",
+        "arrange for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-121",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "逮捕",
+      "answerPrimary": "arrest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-122",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "到达",
+      "answerPrimary": "arrive / arrival / arrive at / arrive in",
+      "answerAlts": [
+        "arrive",
+        "arrival",
+        "arrive at",
+        "arrive in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-123",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "箭",
+      "answerPrimary": "arrow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-124",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "艺术；文章；物品",
+      "answerPrimary": "art / article / artist",
+      "answerAlts": [
+        "art",
+        "article",
+        "artist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-125",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "人造的",
+      "answerPrimary": "artificial",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-126a",
+      "unitId": "4",
+      "type": "phrase_cluster",
+      "prompt": "作为；当作",
+      "answerPrimary": "as / as ... as",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u4-as"
+    },
+    {
+      "id": "u4-126b",
+      "unitId": "4",
+      "type": "phrase_cluster",
+      "prompt": "只要",
+      "answerPrimary": "as long as",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u4-as"
+    },
+    {
+      "id": "u4-126c",
+      "unitId": "4",
+      "type": "phrase_cluster",
+      "prompt": "一……就……",
+      "answerPrimary": "as soon as",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u4-as"
+    },
+    {
+      "id": "u4-126d",
+      "unitId": "4",
+      "type": "phrase_cluster",
+      "prompt": "结果",
+      "answerPrimary": "as a result",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u4-as"
+    },
+    {
+      "id": "u4-127",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "灰；ashamed",
+      "answerPrimary": "ash / be ashamed of",
+      "answerAlts": [
+        "ash",
+        "be ashamed of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-128",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "在旁边；说闲话",
+      "answerPrimary": "aside / set aside",
+      "answerAlts": [
+        "aside",
+        "set aside"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-129",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "询问；请求",
+      "answerPrimary": "ask / ask for",
+      "answerAlts": [
+        "ask",
+        "ask for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-130",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "睡着的",
+      "answerPrimary": "asleep / fall asleep",
+      "answerAlts": [
+        "asleep",
+        "fall asleep"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-131",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "方面",
+      "answerPrimary": "aspect",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-132",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "评估；评价",
+      "answerPrimary": "assess / assessment",
+      "answerAlts": [
+        "assess",
+        "assessment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-133",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "帮助；助手",
+      "answerPrimary": "assist / assistance / assistant",
+      "answerAlts": [
+        "assist",
+        "assistance",
+        "assistant"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-134",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "联想；协会",
+      "answerPrimary": "associate with / association",
+      "answerAlts": [
+        "associate with",
+        "association"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-135",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "假定；假设",
+      "answerPrimary": "assume / assumption",
+      "answerAlts": [
+        "assume",
+        "assumption"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-136",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "使惊讶",
+      "answerPrimary": "astonish / be astonished at",
+      "answerAlts": [
+        "astonish",
+        "astonished"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-137",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "宇航员 / 天文学",
+      "answerPrimary": "astronaut / astronomy",
+      "answerAlts": [
+        "astronaut",
+        "astronomy",
+        "astronomer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-138",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "运动员 / 运动的",
+      "answerPrimary": "athlete / athletic",
+      "answerAlts": [
+        "athlete",
+        "athletic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-139",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "大气；气氛",
+      "answerPrimary": "atmosphere",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-140",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "原子",
+      "answerPrimary": "atom",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-141",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "附上；依恋",
+      "answerPrimary": "attach / be attached to",
+      "answerAlts": [
+        "attach",
+        "be attached to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-142",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "攻击；抨击",
+      "answerPrimary": "attack",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-143",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "达到；获得",
+      "answerPrimary": "attain",
+      "answerAlts": [
+        "achieve"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-144",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "试图；尝试",
+      "answerPrimary": "attempt to do / attempt",
+      "answerAlts": [
+        "attempt to",
+        "attempt"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-145",
+      "unitId": "4",
+      "type": "zh2en",
+      "prompt": "出席；上（学）",
+      "answerPrimary": "attend / attend to",
+      "answerAlts": [
+        "attend",
+        "attend to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#145",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u4-146",
+      "unitId": "4",
+      "type": "cloze",
+      "prompt": "I don't approve ____ smoking here.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#146",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

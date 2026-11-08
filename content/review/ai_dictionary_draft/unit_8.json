@@ -1,0 +1,732 @@
+{
+  "unitId": "8",
+  "name": "Unit 8 (brave—campaign)",
+  "order": 8,
+  "rangeFrom": "brave",
+  "rangeTo": "campaign",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u8-101",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "勇敢的 / 勇敢",
+      "answerPrimary": "brave / bravery",
+      "answerAlts": [
+        "brave",
+        "bravery"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-102",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "面包；生计",
+      "answerPrimary": "bread",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-103a",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "打破；折断",
+      "answerPrimary": "break",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-break"
+    },
+    {
+      "id": "u8-103b",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "爆发",
+      "answerPrimary": "break out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-break"
+    },
+    {
+      "id": "u8-103c",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "分解；出故障",
+      "answerPrimary": "break down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-break"
+    },
+    {
+      "id": "u8-103d",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "闯入",
+      "answerPrimary": "break into",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-break"
+    },
+    {
+      "id": "u8-103e",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "突破",
+      "answerPrimary": "breakthrough",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103e",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-break"
+    },
+    {
+      "id": "u8-104",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "早餐",
+      "answerPrimary": "breakfast / have breakfast",
+      "answerAlts": [
+        "breakfast",
+        "have breakfast"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-105",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "呼吸 / 呼吸（动词）",
+      "answerPrimary": "breath / breathe / take a breath",
+      "answerAlts": [
+        "breath",
+        "breathe",
+        "take a deep breath"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-106",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "微风",
+      "answerPrimary": "breeze",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-107",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "砖",
+      "answerPrimary": "brick",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-108",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "新娘 / 新郎",
+      "answerPrimary": "bride / bridegroom",
+      "answerAlts": [
+        "bride",
+        "bridegroom"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-109",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "桥",
+      "answerPrimary": "bridge",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-110",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "简短的；简洁的",
+      "answerPrimary": "brief / in brief",
+      "answerAlts": [
+        "brief",
+        "in brief"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-111",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "明亮的；聪明的",
+      "answerPrimary": "bright / brilliant",
+      "answerAlts": [
+        "bright",
+        "brilliant"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-112a",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "带来",
+      "answerPrimary": "bring",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-bring"
+    },
+    {
+      "id": "u8-112b",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "提出；养育",
+      "answerPrimary": "bring up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-bring"
+    },
+    {
+      "id": "u8-112c",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "使显现；出版",
+      "answerPrimary": "bring out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u8-bring"
+    },
+    {
+      "id": "u8-113",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "英国；英国的",
+      "answerPrimary": "Britain / British",
+      "answerAlts": [
+        "Britain",
+        "British"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u8-114",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "宽阔的；广播",
+      "answerPrimary": "broad / broadcast",
+      "answerAlts": [
+        "broad",
+        "broadcast"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-115",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "小册子",
+      "answerPrimary": "brochure",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-116",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "坏掉的；破碎的",
+      "answerPrimary": "broken",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-117",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "扫帚",
+      "answerPrimary": "broom",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-118",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "兄弟",
+      "answerPrimary": "brother",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-119",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "刷；刷子",
+      "answerPrimary": "brush",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-120",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "水桶",
+      "answerPrimary": "bucket",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-121",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "预算",
+      "answerPrimary": "budget",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-122",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "自助餐",
+      "answerPrimary": "buffet",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-123",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "建造；建筑",
+      "answerPrimary": "build / building",
+      "answerAlts": [
+        "build",
+        "building"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-124",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "一束；一群",
+      "answerPrimary": "a bunch of",
+      "answerAlts": [
+        "bunch"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-125",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "负担；负荷",
+      "answerPrimary": "burden",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-126",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "燃烧",
+      "answerPrimary": "burn",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-127a",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "爆发；突然……起来",
+      "answerPrimary": "burst into / burst out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u8-burst"
+    },
+    {
+      "id": "u8-127b",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "突然哭起来",
+      "answerPrimary": "burst into tears",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u8-burst"
+    },
+    {
+      "id": "u8-128",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "埋葬",
+      "answerPrimary": "bury / be buried in",
+      "answerAlts": [
+        "bury",
+        "be buried in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-129",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "公共汽车；巴士",
+      "answerPrimary": "bus",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-130",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "灌木；商业",
+      "answerPrimary": "bush / business",
+      "answerAlts": [
+        "bush",
+        "business"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-131",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "商人",
+      "answerPrimary": "businessman",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-132",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "忙的；忙碌",
+      "answerPrimary": "busy / be busy with / be busy doing",
+      "answerAlts": [
+        "busy",
+        "be busy with",
+        "be busy doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-133",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "但是；除了",
+      "answerPrimary": "but / nothing but",
+      "answerAlts": [
+        "but",
+        "nothing but"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-134",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "黄油；蝴蝶",
+      "answerPrimary": "butter / butterfly",
+      "answerAlts": [
+        "butter",
+        "butterfly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-135",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "按钮；纽扣",
+      "answerPrimary": "button",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-136",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "买",
+      "answerPrimary": "buy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-137a",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "凭借；通过；到……为止",
+      "answerPrimary": "by",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u8-by"
+    },
+    {
+      "id": "u8-137b",
+      "unitId": "8",
+      "type": "phrase_cluster",
+      "prompt": "顺便说",
+      "answerPrimary": "by the way",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u8-by"
+    },
+    {
+      "id": "u8-138",
+      "unitId": "8",
+      "type": "zh2en",
+      "prompt": "运动；战役；竞选",
+      "answerPrimary": "campaign",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u8-139",
+      "unitId": "8",
+      "type": "cloze",
+      "prompt": "A fire broke ____ last night.",
+      "answerPrimary": "out",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "out",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "unitId": "55",
+  "name": "Unit 55 (than—tonight)",
+  "order": 55,
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u55-101",
+      "unitId": "55",
+      "type": "word_form",
+      "prompt": "theory（形容词）",
+      "answerPrimary": "theoretical",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit55-all#1",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "theoretical",
+          "alts": []
+        }
+      ],
+      "hint": "theory"
+    },
+    {
+      "id": "u55-102",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "我无论怎么感谢你都不为过",
+      "answerPrimary": "I can't thank you enough",
+      "answerAlts": [
+        "I cannot thank you too much"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-103",
+      "unitId": "55",
+      "type": "word_form",
+      "prompt": "thick（动词）",
+      "answerPrimary": "thicken",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit55-all#3",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "thicken",
+          "alts": []
+        }
+      ],
+      "hint": "thick"
+    },
+    {
+      "id": "u55-104",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "一方面",
+      "answerPrimary": "for one thing",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-105",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "回想起",
+      "answerPrimary": "think back to",
+      "answerAlts": [
+        "think of",
+        "recall"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-106",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "陷入沉思",
+      "answerPrimary": "be lost in thought",
+      "answerAlts": [
+        "be deep in thought"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-107",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "对……造成威胁",
+      "answerPrimary": "pose a threat to",
+      "answerAlts": [
+        "be a threat to",
+        "threaten"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-108",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "威胁要……",
+      "answerPrimary": "threaten to do",
+      "answerAlts": [
+        "threaten to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-109",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "一整夜、通宵",
+      "answerPrimary": "all night / throughout the night",
+      "answerAlts": [
+        "all night long",
+        "overnight"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-110",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "投身于",
+      "answerPrimary": "throw oneself into",
+      "answerAlts": [
+        "devote oneself to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-111",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "爆发出雷鸣般的掌声",
+      "answerPrimary": "burst into thunderous applause",
+      "answerAlts": [
+        "break into thunderous applause"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-112",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "往返票",
+      "answerPrimary": "a return ticket",
+      "answerAlts": [
+        "a round-trip ticket"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-113",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "把……绑到",
+      "answerPrimary": "tie ... to",
+      "answerAlts": [
+        "tie sth to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-114",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "暂时；眼下",
+      "answerPrimary": "for the time being",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-115",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "厌倦",
+      "answerPrimary": "be tired of",
+      "answerAlts": [
+        "be sick of",
+        "be fed up with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-116",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "没气的/爆了的轮胎",
+      "answerPrimary": "a flat/burst tyre",
+      "answerAlts": [
+        "a flat tire",
+        "a burst tyre"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-117",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "被授予一个头衔",
+      "answerPrimary": "be awarded a title",
+      "answerAlts": [
+        "be given a title",
+        "be conferred a title"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-118",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "tolerate（adj./n.）",
+      "answerPrimary": "tolerant / tolerance",
+      "answerAlts": [
+        "tolerant",
+        "tolerance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u55-119",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "联合起来反对",
+      "answerPrimary": "band together against",
+      "answerAlts": [
+        "unite against"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u55-120a",
+      "unitId": "55",
+      "type": "phrase_cluster",
+      "prompt": "话到嘴边；差一点说出",
+      "answerPrimary": "on the tip of one's tongue",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit55-all#20a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u55-tip"
+    },
+    {
+      "id": "u55-120b",
+      "unitId": "55",
+      "type": "phrase_cluster",
+      "prompt": "给服务员一笔丰厚小费",
+      "answerPrimary": "give a generous tip to the waiter",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit55-all#20b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u55-tip"
+    },
+    {
+      "id": "u55-121",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "接通经理电话",
+      "answerPrimary": "get through to the manager",
+      "answerAlts": [
+        "put through to the manager"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u55-122",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "实施盗窃",
+      "answerPrimary": "commit theft",
+      "answerAlts": [
+        "commit a theft"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u55-123",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "参加会议的客人不超过五人",
+      "answerPrimary": "No more than 5 guests attended the meeting",
+      "answerAlts": [
+        "no more than"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit55-all#23",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "than",
+  "rangeTo": "tonight"
+}

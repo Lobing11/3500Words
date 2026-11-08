@@ -1,0 +1,709 @@
+{
+  "unitId": "53",
+  "name": "Unit 53 (submit—swim)",
+  "order": 53,
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u53-101",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "the deadline for ____(submit)",
+      "answerPrimary": "submission",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#9",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "submission",
+          "alts": []
+        }
+      ],
+      "hint": "submit"
+    },
+    {
+      "id": "u53-102a",
+      "unitId": "53",
+      "type": "phrase_cluster",
+      "prompt": "提交申请",
+      "answerPrimary": "submit an application",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit53-all#10a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u53-submit"
+    },
+    {
+      "id": "u53-102b",
+      "unitId": "53",
+      "type": "phrase_cluster",
+      "prompt": "听天由命",
+      "answerPrimary": "submit oneself to fate",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit53-all#10b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u53-submit"
+    },
+    {
+      "id": "u53-103a",
+      "unitId": "53",
+      "type": "phrase_cluster",
+      "prompt": "赞同这个想法",
+      "answerPrimary": "subscribe to the idea",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit53-all#11a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u53-subscribe"
+    },
+    {
+      "id": "u53-103b",
+      "unitId": "53",
+      "type": "phrase_cluster",
+      "prompt": "订阅期刊",
+      "answerPrimary": "subscribe to the journal",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit53-all#11b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u53-subscribe"
+    },
+    {
+      "id": "u53-103c",
+      "unitId": "53",
+      "type": "phrase_cluster",
+      "prompt": "向慈善机构捐款/认捐",
+      "answerPrimary": "subscribe to the charity",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit53-all#11c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u53-subscribe"
+    },
+    {
+      "id": "u53-104",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "订阅者 / 订阅（n.）",
+      "answerPrimary": "subscriber / subscription",
+      "answerAlts": [
+        "subscriber",
+        "subscription"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-105",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "随后的实验",
+      "answerPrimary": "subsequent experiments",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-106",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "地铁 / 大量的 / 极好的 / 外科医生 / 手术",
+      "answerPrimary": "subway/substantial/superb/surgeon/surgery",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-107a",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "演讲的实质内容",
+      "answerPrimary": "the substance of the speech",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#15a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-107b",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "一种化学物质",
+      "answerPrimary": "a chemical substance",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#15b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-108",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "perform a ____(surgery) operation",
+      "answerPrimary": "surgical",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#16",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "surgical",
+          "alts": []
+        }
+      ],
+      "hint": "surgery"
+    },
+    {
+      "id": "u53-109a",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "succeed ____ doing",
+      "answerPrimary": "in",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit53-all#17a",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "in",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u53-109b",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "接替他担任主席",
+      "answerPrimary": "succeed him as chairman",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#17b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-110",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "sufficient（反义词）",
+      "answerPrimary": "insufficient",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#18",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "insufficient",
+          "alts": []
+        }
+      ],
+      "hint": "sufficient"
+    },
+    {
+      "id": "u53-111",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "____ one's suggestion（根据）",
+      "answerPrimary": "at",
+      "answerAlts": [
+        "on"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit53-all#19",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "at",
+          "alts": [
+            "on"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u53-112a",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "I suggest him ____(accept) the plan.",
+      "answerPrimary": "accepting",
+      "answerAlts": [],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit53-all#20a",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "accepting",
+          "alts": []
+        }
+      ],
+      "hint": "accept"
+    },
+    {
+      "id": "u53-112b",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "I suggest that he ____(calm) down, for his look suggests that he ____(be) very anxious.",
+      "answerPrimary": "calm|is",
+      "answerAlts": [],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit53-all#20b",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "calm",
+          "alts": [
+            "should calm"
+          ]
+        },
+        {
+          "index": 1,
+          "answer": "is",
+          "alts": []
+        }
+      ],
+      "hint": "suggest 虚拟 / 表明"
+    },
+    {
+      "id": "u53-113",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "be suited ____ / be suitable ____（适合于）",
+      "answerPrimary": "to|for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit53-all#21",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": [
+            "for"
+          ]
+        },
+        {
+          "index": 1,
+          "answer": "for",
+          "alts": [
+            "to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u53-114",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "总结，归纳（两个）",
+      "answerPrimary": "sum up / summarize",
+      "answerAlts": [
+        "sum up",
+        "summarise",
+        "make a summary"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#22",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u53-115",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "救援物资",
+      "answerPrimary": "relief supplies",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-116",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "supply sb. ____ sth. / supply sth. ____ sb.",
+      "answerPrimary": "with|to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit53-all#24",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "with",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "to",
+          "alts": [
+            "for"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u53-117",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "support（形容词）",
+      "answerPrimary": "supportive",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#25a",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "supportive",
+          "alts": []
+        }
+      ],
+      "hint": "support"
+    },
+    {
+      "id": "u53-118",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "Everyone is supposed ____(obey) the school rules.",
+      "answerPrimary": "to obey",
+      "answerAlts": [],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit53-all#25b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to obey",
+          "alts": []
+        }
+      ],
+      "hint": "obey"
+    },
+    {
+      "id": "u53-119",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "He has a sense of ____(superior), thinking he is superior ____ everyone else.",
+      "answerPrimary": "superiority|to",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#27",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "superiority",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "to",
+          "alts": []
+        }
+      ],
+      "hint": "superior"
+    },
+    {
+      "id": "u53-120",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "____(suppose) you are wrong, what will you do?",
+      "answerPrimary": "Supposing",
+      "answerAlts": [
+        "Suppose"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit53-all#28",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "Supposing",
+          "alts": [
+            "Suppose"
+          ]
+        }
+      ],
+      "hint": "suppose"
+    },
+    {
+      "id": "u53-121",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "不足为奇",
+      "answerPrimary": "It is no surprise that",
+      "answerAlts": [
+        "No wonder",
+        "It is not surprising that"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-122",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "出其不意地做某事；使某人吃惊",
+      "answerPrimary": "take sth by surprise",
+      "answerAlts": [
+        "take sb by surprise"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-123a",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "进行调查",
+      "answerPrimary": "conduct a survey",
+      "answerAlts": [
+        "make a survey",
+        "carry out a survey"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#31a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-123b",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "He likes the ____ woods and enjoys the peaceful ____.（surround）",
+      "answerPrimary": "surrounding|surroundings",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#31b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "surrounding",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "surroundings",
+          "alts": []
+        }
+      ],
+      "hint": "surround"
+    },
+    {
+      "id": "u53-124a",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "a ____(sustain) effort",
+      "answerPrimary": "sustained",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#4a",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "sustained",
+          "alts": []
+        }
+      ],
+      "hint": "sustain"
+    },
+    {
+      "id": "u53-124b",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "promote ____(sustain) development",
+      "answerPrimary": "sustainable",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit53-all#4b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "sustainable",
+          "alts": []
+        }
+      ],
+      "hint": "sustain"
+    },
+    {
+      "id": "u53-125a",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "被停职",
+      "answerPrimary": "be suspended from office",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#5a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-125b",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "把灯吊在天花板上",
+      "answerPrimary": "suspend a lamp from the ceiling",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#5b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-126",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "适者生存",
+      "answerPrimary": "survival of the fittest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#6",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-127",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "她比丈夫多活了五年",
+      "answerPrimary": "He survived her husband by 5 years",
+      "answerAlts": [
+        "survive sb by"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit53-all#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u53-128",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "survive ____ my salary",
+      "answerPrimary": "on",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit53-all#8",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "submit",
+  "rangeTo": "swim"
+}

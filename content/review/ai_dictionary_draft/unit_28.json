@@ -1,0 +1,539 @@
+{
+  "unitId": "28",
+  "name": "Unit 28 (ice—cream—information)",
+  "order": 28,
+  "rangeFrom": "ice",
+  "rangeTo": "cream—information",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u28-101",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "冰淇淋",
+      "answerPrimary": "ice-cream / ice cream",
+      "answerAlts": [
+        "ice-cream",
+        "ice cream"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-102",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "主意；想法",
+      "answerPrimary": "idea",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-103",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "身份；特性",
+      "answerPrimary": "identity / identify",
+      "answerAlts": [
+        "identity",
+        "identify"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-104",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "习语；成语",
+      "answerPrimary": "idiom",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-105",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "如果；是否",
+      "answerPrimary": "if / even if / as if",
+      "answerAlts": [
+        "if",
+        "even if",
+        "as if"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-106",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "忽视；不理睬",
+      "answerPrimary": "ignore",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-107",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "生病的；非法的；疾病",
+      "answerPrimary": "ill / illegal / illness",
+      "answerAlts": [
+        "ill",
+        "illegal",
+        "illness"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-108",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "想象；想像",
+      "answerPrimary": "imagine / imagination / imagine doing",
+      "answerAlts": [
+        "imagine",
+        "imagination"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-109",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "立即的；立刻",
+      "answerPrimary": "immediate / immediately",
+      "answerAlts": [
+        "immediate",
+        "immediately"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-110",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "移民；移民入境",
+      "answerPrimary": "immigration",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-111",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "进口；输入",
+      "answerPrimary": "import",
+      "answerAlts": [
+        "export"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-112",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "重要；重要性",
+      "answerPrimary": "important / importance",
+      "answerAlts": [
+        "important",
+        "importance",
+        "It is important that"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-113",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "不可能的",
+      "answerPrimary": "impossible",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-114",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "给……留下印象",
+      "answerPrimary": "impress / impression / leave an impression on",
+      "answerAlts": [
+        "impress",
+        "impression",
+        "be impressed by"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-115",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "改进；改善",
+      "answerPrimary": "improve / improvement",
+      "answerAlts": [
+        "improve",
+        "improvement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u28-116a",
+      "unitId": "28",
+      "type": "phrase_cluster",
+      "prompt": "在……里面；进入",
+      "answerPrimary": "in / into",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u28-in"
+    },
+    {
+      "id": "u28-116b",
+      "unitId": "28",
+      "type": "phrase_cluster",
+      "prompt": "为了",
+      "answerPrimary": "in order to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u28-in"
+    },
+    {
+      "id": "u28-117",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "英寸",
+      "answerPrimary": "inch",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-118",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "事件；事变",
+      "answerPrimary": "incident",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-119",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "包括",
+      "answerPrimary": "include / including / included",
+      "answerAlts": [
+        "include",
+        "including",
+        "included"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-120",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "收入",
+      "answerPrimary": "income",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-121",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "增加",
+      "answerPrimary": "increase / increase by / increase to",
+      "answerAlts": [
+        "increase",
+        "increase by",
+        "increase to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-122",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "确实；真正地",
+      "answerPrimary": "indeed",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-123",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "独立；独立的",
+      "answerPrimary": "independence / independent / be independent of",
+      "answerAlts": [
+        "independence",
+        "independent",
+        "be independent of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-124",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "印度；印度的",
+      "answerPrimary": "India / Indian",
+      "answerAlts": [
+        "India",
+        "Indian"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-125",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "表明；指示",
+      "answerPrimary": "indicate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-126",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "工业；产业",
+      "answerPrimary": "industry / industrial",
+      "answerAlts": [
+        "industry",
+        "industrial"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-127",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "推断；推论",
+      "answerPrimary": "infer",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-128",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "影响",
+      "answerPrimary": "influence / have an influence on",
+      "answerAlts": [
+        "influence",
+        "have an influence on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-129",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "通知；告知",
+      "answerPrimary": "inform / inform sb of",
+      "answerAlts": [
+        "inform",
+        "inform of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-130",
+      "unitId": "28",
+      "type": "zh2en",
+      "prompt": "信息；资料",
+      "answerPrimary": "information",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-131",
+      "unitId": "28",
+      "type": "pattern",
+      "prompt": "他给我留下了深刻印象",
+      "answerPrimary": "He left a deep impression on me",
+      "answerAlts": [
+        "I was deeply impressed by him"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u28-132",
+      "unitId": "28",
+      "type": "cloze",
+      "prompt": "Please inform me ____ any change.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

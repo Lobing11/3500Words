@@ -1,0 +1,764 @@
+{
+  "unitId": "2",
+  "name": "Unit 2 (addiction—along)",
+  "order": 2,
+  "rangeFrom": "addiction",
+  "rangeTo": "along",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u2-101",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "上瘾；沉溺",
+      "answerPrimary": "addiction",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-102",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "另外；此外",
+      "answerPrimary": "in addition / in addition to",
+      "answerAlts": [
+        "in addition",
+        "in addition to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-103",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "地址；演说",
+      "answerPrimary": "address",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-104",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "足够的；适当的",
+      "answerPrimary": "adequate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-105",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "调整；适应",
+      "answerPrimary": "adjust to / adjustment",
+      "answerAlts": [
+        "adjust to",
+        "adjustment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-106",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "钦佩；羡慕",
+      "answerPrimary": "admire",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-107",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "准许进入；承认",
+      "answerPrimary": "admission / admit",
+      "answerAlts": [
+        "admission",
+        "admit"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-108",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "承认做了……",
+      "answerPrimary": "admit doing / admit that",
+      "answerAlts": [
+        "admit doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-109",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "青少年",
+      "answerPrimary": "adolescent / adolescence",
+      "answerAlts": [
+        "adolescent",
+        "adolescence"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-110",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "采纳；收养",
+      "answerPrimary": "adopt",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-111",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "热爱；爱慕",
+      "answerPrimary": "adore",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-112",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "成年人",
+      "answerPrimary": "adult",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-113a",
+      "unitId": "2",
+      "type": "phrase_cluster",
+      "prompt": "前进；提前",
+      "answerPrimary": "advance / in advance",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u2-advance"
+    },
+    {
+      "id": "u2-113b",
+      "unitId": "2",
+      "type": "phrase_cluster",
+      "prompt": "取得进步",
+      "answerPrimary": "make advances / advance in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u2-advance"
+    },
+    {
+      "id": "u2-114",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "优点；优势",
+      "answerPrimary": "advantage / take advantage of",
+      "answerAlts": [
+        "advantage",
+        "take advantage of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-115",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "冒险；奇遇",
+      "answerPrimary": "adventure",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-116",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "做广告 / 广告",
+      "answerPrimary": "advertise / advertisement",
+      "answerAlts": [
+        "advertise",
+        "advertisement",
+        "ad"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-117",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "建议；忠告",
+      "answerPrimary": "advice / advise sb to do",
+      "answerAlts": [
+        "advice",
+        "advise"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-118",
+      "unitId": "2",
+      "type": "word_form",
+      "prompt": "advise（名词：不可数）",
+      "answerPrimary": "advice",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "advice",
+          "alts": []
+        }
+      ],
+      "hint": "advise"
+    },
+    {
+      "id": "u2-119",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "提倡；拥护",
+      "answerPrimary": "advocate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u2-120",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "事务；事情",
+      "answerPrimary": "affair",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-121",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "影响",
+      "answerPrimary": "affect",
+      "answerAlts": [
+        "influence",
+        "have an effect on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-122",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "喜爱；感情",
+      "answerPrimary": "affection",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-123",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "负担得起",
+      "answerPrimary": "afford to do / afford",
+      "answerAlts": [
+        "afford",
+        "afford to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-124",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "害怕的；担心的",
+      "answerPrimary": "be afraid of / be afraid to do",
+      "answerAlts": [
+        "be afraid of",
+        "be afraid to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-125",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "在……之后；后来",
+      "answerPrimary": "after / afterwards",
+      "answerAlts": [
+        "after",
+        "afterwards"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-126",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "反对；靠着",
+      "answerPrimary": "against",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-127",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "年龄；时代",
+      "answerPrimary": "age / at the age of",
+      "answerAlts": [
+        "age",
+        "at the age of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-128",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "代理机构；经纪人",
+      "answerPrimary": "agency / agent",
+      "answerAlts": [
+        "agency",
+        "agent"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-129",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "侵略的；好斗的",
+      "answerPrimary": "aggressive",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-130a",
+      "unitId": "2",
+      "type": "phrase_cluster",
+      "prompt": "同意",
+      "answerPrimary": "agree with / agree to / agree on",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u2-agree"
+    },
+    {
+      "id": "u2-130b",
+      "unitId": "2",
+      "type": "phrase_cluster",
+      "prompt": "协议；一致",
+      "answerPrimary": "agreement / reach an agreement",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u2-agree"
+    },
+    {
+      "id": "u2-131",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "农业 / 农业的",
+      "answerPrimary": "agriculture / agricultural",
+      "answerAlts": [
+        "agriculture",
+        "agricultural"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-132",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "向前；提前",
+      "answerPrimary": "ahead / ahead of",
+      "answerAlts": [
+        "ahead",
+        "ahead of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-133",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "援助；帮助",
+      "answerPrimary": "aid / with the aid of",
+      "answerAlts": [
+        "aid",
+        "with the aid of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-134",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "目标；瞄准",
+      "answerPrimary": "aim / aim at",
+      "answerAlts": [
+        "aim",
+        "aim at"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-135",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "空气；航空",
+      "answerPrimary": "air / by air",
+      "answerAlts": [
+        "air",
+        "by air"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-136",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "机场 / 飞机",
+      "answerPrimary": "airport / airplane",
+      "answerAlts": [
+        "airport",
+        "airplane",
+        "aircraft"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-137",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "警报；闹钟",
+      "answerPrimary": "alarm",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-138",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "活着的；活泼的",
+      "answerPrimary": "alive / live",
+      "answerAlts": [
+        "alive"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-139a",
+      "unitId": "2",
+      "type": "phrase_cluster",
+      "prompt": "全部；总共",
+      "answerPrimary": "all / in all",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u2-all"
+    },
+    {
+      "id": "u2-139b",
+      "unitId": "2",
+      "type": "phrase_cluster",
+      "prompt": "突然",
+      "answerPrimary": "all of a sudden",
+      "answerAlts": [
+        "suddenly"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u2-all"
+    },
+    {
+      "id": "u2-140",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "允许；津贴",
+      "answerPrimary": "allow sb to do / allowance",
+      "answerAlts": [
+        "allow",
+        "allowance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-141",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "几乎；差不多",
+      "answerPrimary": "almost / nearly",
+      "answerAlts": [
+        "almost",
+        "nearly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-142",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "单独；独自",
+      "answerPrimary": "alone / leave alone",
+      "answerAlts": [
+        "alone",
+        "leave alone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-143",
+      "unitId": "2",
+      "type": "zh2en",
+      "prompt": "沿着；一起",
+      "answerPrimary": "along / get along with",
+      "answerAlts": [
+        "along",
+        "get along with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u2-144",
+      "unitId": "2",
+      "type": "cloze",
+      "prompt": "Take advantage ____ this opportunity.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

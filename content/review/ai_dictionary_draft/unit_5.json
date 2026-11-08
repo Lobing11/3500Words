@@ -1,0 +1,735 @@
+{
+  "unitId": "5",
+  "name": "Unit 5 (attention—bat)",
+  "order": 5,
+  "rangeFrom": "attention",
+  "rangeTo": "bat",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u5-101",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "注意力；注意",
+      "answerPrimary": "attention / pay attention to",
+      "answerAlts": [
+        "attention",
+        "pay attention to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-102",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "态度",
+      "answerPrimary": "attitude to / attitude towards",
+      "answerAlts": [
+        "attitude",
+        "attitude to",
+        "attitude towards"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-103",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "吸引；有吸引力的",
+      "answerPrimary": "attract / attraction / attractive",
+      "answerAlts": [
+        "attract",
+        "attraction",
+        "attractive"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-104",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "观众；听众",
+      "answerPrimary": "audience",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-105",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "真实的；可信的",
+      "answerPrimary": "authentic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-106",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "作者；作家",
+      "answerPrimary": "author",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-107",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "权威；当局",
+      "answerPrimary": "authority",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-108",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "自动的",
+      "answerPrimary": "automatic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-109",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "自治的",
+      "answerPrimary": "autonomous",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-110",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "秋天",
+      "answerPrimary": "autumn / fall",
+      "answerAlts": [
+        "autumn",
+        "fall"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-111",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "可获得的；有空的",
+      "answerPrimary": "available",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-112",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "大街；林荫道",
+      "answerPrimary": "avenue",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-113",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "平均；普通的",
+      "answerPrimary": "average / on average",
+      "answerAlts": [
+        "average",
+        "on average"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-114",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "避免做……",
+      "answerPrimary": "avoid doing",
+      "answerAlts": [
+        "avoid"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-115",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "醒着的；唤醒",
+      "answerPrimary": "awake / wake up",
+      "answerAlts": [
+        "awake",
+        "wake up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-116",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "奖励；授予",
+      "answerPrimary": "award / be awarded",
+      "answerAlts": [
+        "award",
+        "be awarded"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-117",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "意识到；知道",
+      "answerPrimary": "be aware of",
+      "answerAlts": [
+        "aware of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-118",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "离开；远离",
+      "answerPrimary": "away / right away",
+      "answerAlts": [
+        "away",
+        "right away"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-119",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "令人惊叹的",
+      "answerPrimary": "awesome",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u5-120",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "糟糕的；可怕的",
+      "answerPrimary": "awful",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-121",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "尴尬的；笨拙的",
+      "answerPrimary": "awkward",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-122",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "婴儿；宝宝",
+      "answerPrimary": "baby",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-123",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "学士；单身汉",
+      "answerPrimary": "bachelor",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-124a",
+      "unitId": "5",
+      "type": "phrase_cluster",
+      "prompt": "回原处；向后",
+      "answerPrimary": "back",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u5-back"
+    },
+    {
+      "id": "u5-124b",
+      "unitId": "5",
+      "type": "phrase_cluster",
+      "prompt": "支持",
+      "answerPrimary": "back up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u5-back"
+    },
+    {
+      "id": "u5-125",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "背景",
+      "answerPrimary": "background",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-126",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "向后的",
+      "answerPrimary": "backward / backwards",
+      "answerAlts": [
+        "backward",
+        "backwards"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-127",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "细菌",
+      "answerPrimary": "bacterium / bacteria",
+      "answerAlts": [
+        "bacterium",
+        "bacteria"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-128",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "坏的；严重的",
+      "answerPrimary": "bad / badly",
+      "answerAlts": [
+        "bad",
+        "badly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-129",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "羽毛球",
+      "answerPrimary": "badminton",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-130",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "包；袋 / 行李",
+      "answerPrimary": "bag / baggage",
+      "answerAlts": [
+        "bag",
+        "baggage",
+        "luggage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-131",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "烘烤；烤",
+      "answerPrimary": "bake / bakery",
+      "answerAlts": [
+        "bake",
+        "bakery"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-132",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "平衡",
+      "answerPrimary": "balance / keep balance",
+      "answerAlts": [
+        "balance",
+        "keep one's balance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-133",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "阳台",
+      "answerPrimary": "balcony",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-134",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "球；舞会",
+      "answerPrimary": "ball",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-135",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "气球",
+      "answerPrimary": "balloon",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-136",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "竹子",
+      "answerPrimary": "bamboo",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-137",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "禁止",
+      "answerPrimary": "ban",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-138",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "乐队；带子",
+      "answerPrimary": "band",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-139",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "绷带",
+      "answerPrimary": "bandage",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-140",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "银行；岸",
+      "answerPrimary": "bank",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-141",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "障碍；屏障",
+      "answerPrimary": "barrier",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-142",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "以……为基础",
+      "answerPrimary": "base on / be based on",
+      "answerAlts": [
+        "base on",
+        "be based on",
+        "basis"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-143",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "基本的；基础",
+      "answerPrimary": "basic / basis",
+      "answerAlts": [
+        "basic",
+        "basis"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-144",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "篮子；篮球",
+      "answerPrimary": "basket / basketball",
+      "answerAlts": [
+        "basket",
+        "basketball"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-145",
+      "unitId": "5",
+      "type": "zh2en",
+      "prompt": "球拍；蝙蝠；击打",
+      "answerPrimary": "bat",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#145",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u5-146",
+      "unitId": "5",
+      "type": "cloze",
+      "prompt": "Please pay attention ____ road safety.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#146",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

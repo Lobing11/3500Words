@@ -4,11 +4,16 @@ $curated = Join-Path $root "content\curated"
 $android = Join-Path $root "android\app\src\main\assets\content"
 $harmony = Join-Path $root "harmony\entry\src\main\resources\rawfile\content"
 
-New-Item -ItemType Directory -Force -Path $android | Out-Null
-New-Item -ItemType Directory -Force -Path $harmony | Out-Null
+function Sync-Curated([string]$dest) {
+    if (Test-Path $dest) {
+        Get-ChildItem -Path $dest -File | Remove-Item -Force
+    }
+    New-Item -ItemType Directory -Force -Path $dest | Out-Null
+    Copy-Item -Force (Join-Path $curated "*") $dest
+}
 
-Copy-Item -Force (Join-Path $curated "*") $android
-Copy-Item -Force (Join-Path $curated "*") $harmony
+Sync-Curated $android
+Sync-Curated $harmony
 
 Write-Host "Synced curated -> android assets & harmony rawfile"
 Get-ChildItem $android | Select-Object Name

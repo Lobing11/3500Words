@@ -1,0 +1,748 @@
+{
+  "unitId": "3",
+  "name": "Unit 3 (alongside—appetite)",
+  "order": 3,
+  "rangeFrom": "alongside",
+  "rangeTo": "appetite",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u3-101",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "在旁边；与……一起",
+      "answerPrimary": "alongside",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-102",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "大声地",
+      "answerPrimary": "aloud / read aloud",
+      "answerAlts": [
+        "aloud",
+        "read aloud"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-103",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "字母表",
+      "answerPrimary": "alphabet",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-104",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "已经",
+      "answerPrimary": "already",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-105",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "也；同样",
+      "answerPrimary": "also / as well",
+      "answerAlts": [
+        "also",
+        "as well"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-106",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "可供选择的；替代的",
+      "answerPrimary": "alternative",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-107",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "虽然；尽管",
+      "answerPrimary": "although / though",
+      "answerAlts": [
+        "although",
+        "though"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-108",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "高度；海拔",
+      "answerPrimary": "altitude",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-109",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "总共；完全",
+      "answerPrimary": "altogether",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-110",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "总是；一直",
+      "answerPrimary": "always",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-111",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "业余的",
+      "answerPrimary": "amateur",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-112",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "使惊讶 / 令人惊异的",
+      "answerPrimary": "amaze / amazing",
+      "answerAlts": [
+        "amaze",
+        "amazing",
+        "amazed"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-113",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "大使",
+      "answerPrimary": "ambassador",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-114",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "模棱两可的",
+      "answerPrimary": "ambiguous",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-115",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "雄心；野心",
+      "answerPrimary": "ambition / be ambitious",
+      "answerAlts": [
+        "ambition",
+        "ambitious"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-116",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "救护车",
+      "answerPrimary": "ambulance",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-117",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "在……之中",
+      "answerPrimary": "among / between",
+      "answerAlts": [
+        "among"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-118",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "数量；总计",
+      "answerPrimary": "amount / a large amount of",
+      "answerAlts": [
+        "amount",
+        "a large amount of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-119",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "使娱乐；消遣",
+      "answerPrimary": "amuse / amusement",
+      "answerAlts": [
+        "amuse",
+        "amusement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u3-120",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "分析",
+      "answerPrimary": "analyze / analysis",
+      "answerAlts": [
+        "analyse",
+        "analyze",
+        "analysis"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-121",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "祖先",
+      "answerPrimary": "ancestor",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-122",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "锚；抛锚",
+      "answerPrimary": "anchor",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-123",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "古代的",
+      "answerPrimary": "ancient",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-124",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "轶事；趣闻",
+      "answerPrimary": "anecdote",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-125",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "愤怒 / 生气的",
+      "answerPrimary": "anger / angry / be angry with",
+      "answerAlts": [
+        "anger",
+        "angry",
+        "be angry with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-126",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "动物",
+      "answerPrimary": "animal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-127",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "脚踝",
+      "answerPrimary": "ankle",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-128",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "宣布；通知",
+      "answerPrimary": "announce / announcement",
+      "answerAlts": [
+        "announce",
+        "announcement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-129",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "周年纪念日",
+      "answerPrimary": "anniversary",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-130",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "使烦恼；打扰",
+      "answerPrimary": "annoy / be annoyed with",
+      "answerAlts": [
+        "annoy",
+        "annoyed"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-131",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "每年的",
+      "answerPrimary": "annual",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-132",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "另一个；又一个",
+      "answerPrimary": "another / one after another",
+      "answerAlts": [
+        "another",
+        "one after another"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-133",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "回答；答案",
+      "answerPrimary": "answer / answer for",
+      "answerAlts": [
+        "answer",
+        "answer for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-134",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "南极的",
+      "answerPrimary": "Antarctic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-135",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "古董；古玩",
+      "answerPrimary": "antique",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-136",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "焦虑 / 焦虑的",
+      "answerPrimary": "anxiety / anxious / be anxious about",
+      "answerAlts": [
+        "anxiety",
+        "anxious",
+        "be anxious about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-137a",
+      "unitId": "3",
+      "type": "phrase_cluster",
+      "prompt": "任何；一些",
+      "answerPrimary": "any",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u3-any"
+    },
+    {
+      "id": "u3-137b",
+      "unitId": "3",
+      "type": "phrase_cluster",
+      "prompt": "无论如何",
+      "answerPrimary": "anyhow / anyway",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u3-any"
+    },
+    {
+      "id": "u3-138",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "分开；除了",
+      "answerPrimary": "apart / apart from",
+      "answerAlts": [
+        "apart",
+        "apart from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-139",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "公寓",
+      "answerPrimary": "apartment / flat",
+      "answerAlts": [
+        "apartment",
+        "flat"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-140",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "道歉",
+      "answerPrimary": "apologize to sb for / apology",
+      "answerAlts": [
+        "apologise",
+        "apologize",
+        "apology"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-141",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "明显的",
+      "answerPrimary": "apparent / apparently",
+      "answerAlts": [
+        "apparent",
+        "apparently"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-142",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "呼吁；上诉；吸引",
+      "answerPrimary": "appeal to",
+      "answerAlts": [
+        "appeal"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-143",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "出现；外表",
+      "answerPrimary": "appear / appearance",
+      "answerAlts": [
+        "appear",
+        "appearance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-144",
+      "unitId": "3",
+      "type": "zh2en",
+      "prompt": "食欲；胃口",
+      "answerPrimary": "appetite",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u3-145",
+      "unitId": "3",
+      "type": "cloze",
+      "prompt": "She apologized ____ me for being late.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#145",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u3-146",
+      "unitId": "3",
+      "type": "cloze",
+      "prompt": "She apologized to me ____ being late.",
+      "answerPrimary": "for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#146",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

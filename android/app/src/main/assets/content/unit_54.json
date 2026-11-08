@@ -1,0 +1,758 @@
+{
+  "unitId": "54",
+  "name": "Unit 54 (swing—textbook)",
+  "order": 54,
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u54-101",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "荡秋千",
+      "answerPrimary": "play on the swing",
+      "answerAlts": [
+        "play the swing",
+        "swing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#46",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-102",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "打开收音机",
+      "answerPrimary": "switch on the radio",
+      "answerAlts": [
+        "turn on the radio"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-103",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "象征（v./n./adj.）",
+      "answerPrimary": "symbolize / symbol / symbolic",
+      "answerAlts": [
+        "symbolise",
+        "symbol",
+        "symbolic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-104",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "同情（v./n./adj.）",
+      "answerPrimary": "sympathize / sympathy / sympathetic",
+      "answerAlts": [
+        "sympathise",
+        "sympathy",
+        "sympathetic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-105",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "系统的",
+      "answerPrimary": "systematic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-106",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "摆桌子（吃饭）",
+      "answerPrimary": "set the table",
+      "answerAlts": [
+        "lay the table"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-107",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "平板电脑；药片",
+      "answerPrimary": "tablet",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-108",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "处理；应对（tackle）",
+      "answerPrimary": "tackle",
+      "answerAlts": [
+        "tackle a problem"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-109",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "摇尾巴",
+      "answerPrimary": "wag its tail",
+      "answerAlts": [
+        "wag one's tail"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-110",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "按照你的需求定制",
+      "answerPrimary": "tailor ... to your needs",
+      "answerAlts": [
+        "be tailored to your needs",
+        "customize to your needs"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-111",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "发短信告诉我最终结果",
+      "answerPrimary": "text me the final result",
+      "answerAlts": [
+        "send me a text about the final result"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-112",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "经受考验",
+      "answerPrimary": "stand the test",
+      "answerAlts": [
+        "stand the test of time"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-113",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "把某人吓哭",
+      "answerPrimary": "scare sb into tears",
+      "answerAlts": [
+        "frighten sb into tears",
+        "scare someone to tears"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-114",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "合同条款",
+      "answerPrimary": "the terms of the contract",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-115",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "就……而言；在……方面",
+      "answerPrimary": "in terms of",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-116",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "与……关系良好",
+      "answerPrimary": "be on good terms with",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-117",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "法律术语",
+      "answerPrimary": "a legal term",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-118",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "缓解紧张",
+      "answerPrimary": "relieve tension",
+      "answerAlts": [
+        "ease tension",
+        "reduce tension"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-119",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "泪流满面",
+      "answerPrimary": "be in tears",
+      "answerAlts": [
+        "burst into tears",
+        "tears stream down"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#19",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-120",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "抑制住眼泪",
+      "answerPrimary": "hold back tears",
+      "answerAlts": [
+        "fight back tears"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-121",
+      "unitId": "54",
+      "type": "word_form",
+      "prompt": "tear（形容词）",
+      "answerPrimary": "tearful",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit54-all#21",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "tearful",
+          "alts": []
+        }
+      ],
+      "hint": "tear"
+    },
+    {
+      "id": "u54-122",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "营销技巧",
+      "answerPrimary": "marketing techniques",
+      "answerAlts": [
+        "marketing skills"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#22",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-123",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "区分",
+      "answerPrimary": "tell ... apart",
+      "answerAlts": [
+        "distinguish",
+        "tell A from B"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#23",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-124",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "算命",
+      "answerPrimary": "tell fortunes",
+      "answerAlts": [
+        "tell sb's fortune"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#24",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u54-125",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "出纳员；讲述者",
+      "answerPrimary": "teller",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-126",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "量体温",
+      "answerPrimary": "take one's temperature",
+      "answerAlts": [
+        "take sb's temperature"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-127",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "照料病人",
+      "answerPrimary": "tend to the sick",
+      "answerAlts": [
+        "tend the sick"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-128",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "往往会",
+      "answerPrimary": "tend to",
+      "answerAlts": [
+        "have a tendency to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-129",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "左右为难",
+      "answerPrimary": "be in a dilemma",
+      "answerAlts": [
+        "be torn between",
+        "on the horns of a dilemma"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-130",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "拆除历史遗产",
+      "answerPrimary": "tear down the historic heritage",
+      "answerAlts": [
+        "tear down"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-131",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "依依不舍地离开",
+      "answerPrimary": "tear oneself away",
+      "answerAlts": [
+        "be reluctant to leave"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-132",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "沏茶",
+      "answerPrimary": "make tea",
+      "answerAlts": [
+        "brew tea"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#32",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-133",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "征税",
+      "answerPrimary": "impose a tax",
+      "answerAlts": [
+        "levy a tax",
+        "tax"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#33",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-134",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "投合某人的口味",
+      "answerPrimary": "suit one's taste",
+      "answerAlts": [
+        "to one's taste"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#34",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-135",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "尝起来有……味",
+      "answerPrimary": "taste of",
+      "answerAlts": [
+        "taste like"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#35",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-136",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "美味的，可口的",
+      "answerPrimary": "tasty",
+      "answerAlts": [
+        "delicious"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#36",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-137",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "针对于",
+      "answerPrimary": "be targeted at",
+      "answerAlts": [
+        "target",
+        "aim at"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#37",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-138",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "终点线",
+      "answerPrimary": "the finishing tape",
+      "answerAlts": [
+        "the finishing line"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#38",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-139",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "劝服某人做……",
+      "answerPrimary": "talk sb into doing",
+      "answerAlts": [
+        "persuade sb to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#39",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u54-140",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "have a talent ____ sth / be talented ____",
+      "answerPrimary": "for|in",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit54-all#40",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "in",
+          "alts": [
+            "at"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u54-141a",
+      "unitId": "54",
+      "type": "phrase_cluster",
+      "prompt": "把……误当作",
+      "answerPrimary": "take ... for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit54-all#41",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u54-take"
+    },
+    {
+      "id": "u54-141b",
+      "unitId": "54",
+      "type": "phrase_cluster",
+      "prompt": "吸收；理解；欺骗",
+      "answerPrimary": "take in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit54-all#42",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u54-take"
+    },
+    {
+      "id": "u54-141c",
+      "unitId": "54",
+      "type": "phrase_cluster",
+      "prompt": "记下；拆除",
+      "answerPrimary": "take down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit54-all#43",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u54-take"
+    },
+    {
+      "id": "u54-141d",
+      "unitId": "54",
+      "type": "phrase_cluster",
+      "prompt": "接管",
+      "answerPrimary": "take over",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit54-all#44",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u54-take"
+    },
+    {
+      "id": "u54-141e",
+      "unitId": "54",
+      "type": "phrase_cluster",
+      "prompt": "退休后开始学画",
+      "answerPrimary": "take up the painting after retirement",
+      "answerAlts": [
+        "take up painting"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit54-all#45",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u54-take"
+    },
+    {
+      "id": "u54-142",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "甩背；摆背（按课堂语境）",
+      "answerPrimary": "swing one's back",
+      "answerAlts": [
+        "swing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit54-all#1",
+      "segment": "1-25",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "swing",
+  "rangeTo": "textbook"
+}

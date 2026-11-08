@@ -1,0 +1,781 @@
+{
+  "unitId": "24",
+  "name": "Unit 24 (front—goal)",
+  "order": 24,
+  "rangeFrom": "front",
+  "rangeTo": "goal",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u24-101",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "前面；前线",
+      "answerPrimary": "front / in front of / in the front of",
+      "answerAlts": [
+        "front",
+        "in front of",
+        "in the front of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-102",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "边境；边疆",
+      "answerPrimary": "frontier",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-103",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "霜；结霜",
+      "answerPrimary": "frost",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-104",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "水果",
+      "answerPrimary": "fruit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-105",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "油炸；煎",
+      "answerPrimary": "fry",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-106",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "燃料",
+      "answerPrimary": "fuel",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-107",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "满的；充满",
+      "answerPrimary": "full / be full of / fully",
+      "answerAlts": [
+        "full",
+        "be full of",
+        "fully"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-108",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "乐趣；有趣的",
+      "answerPrimary": "fun / funny / make fun of / have fun",
+      "answerAlts": [
+        "fun",
+        "funny",
+        "make fun of",
+        "have fun"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-109",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "功能；作用",
+      "answerPrimary": "function",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-110",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "基本的；根本的",
+      "answerPrimary": "fundamental",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-111",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "葬礼",
+      "answerPrimary": "funeral",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-112",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "毛皮；皮毛",
+      "answerPrimary": "fur",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-113",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "家具；配备家具的",
+      "answerPrimary": "furniture / furnished",
+      "answerAlts": [
+        "furniture",
+        "furnished"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-114",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "未来；将来",
+      "answerPrimary": "future / in the future / in future",
+      "answerAlts": [
+        "future",
+        "in the future",
+        "in future"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-115",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "大风；狂风",
+      "answerPrimary": "gale",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-116",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "画廊；走廊",
+      "answerPrimary": "gallery",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-117",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "加仑",
+      "answerPrimary": "gallon",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-118",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "游戏；比赛",
+      "answerPrimary": "game",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-119",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "车库；垃圾",
+      "answerPrimary": "garage / garbage",
+      "answerAlts": [
+        "garage",
+        "garbage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u24-120",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "花园；大蒜",
+      "answerPrimary": "garden / garlic",
+      "answerAlts": [
+        "garden",
+        "garlic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-121",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "衣服；服装",
+      "answerPrimary": "garment",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-122",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "气体；汽油；大门",
+      "answerPrimary": "gas / gate",
+      "answerAlts": [
+        "gas",
+        "gate"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-123",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "聚集；收集",
+      "answerPrimary": "gather",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-124",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "一般的；通常",
+      "answerPrimary": "general / generally / in general",
+      "answerAlts": [
+        "general",
+        "generally",
+        "in general"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-125",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "一代；产生",
+      "answerPrimary": "generation",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-126",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "慷慨的",
+      "answerPrimary": "generous",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-127",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "温柔的；温和的",
+      "answerPrimary": "gentle / gentleman",
+      "answerAlts": [
+        "gentle",
+        "gentleman"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-128",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "地理；几何",
+      "answerPrimary": "geography / geometry",
+      "answerAlts": [
+        "geography",
+        "geometry"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-129",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "德国；德语；德国人",
+      "answerPrimary": "German / Germany",
+      "answerAlts": [
+        "German",
+        "Germany"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-130",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "手势；姿势",
+      "answerPrimary": "gesture",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-131a",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "得到；到达",
+      "answerPrimary": "get",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-get"
+    },
+    {
+      "id": "u24-131b",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "克服；从……中恢复",
+      "answerPrimary": "get over",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-get"
+    },
+    {
+      "id": "u24-131c",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "与……相处",
+      "answerPrimary": "get along with / get on with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-get"
+    },
+    {
+      "id": "u24-131d",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "通过；接通",
+      "answerPrimary": "get through",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-get"
+    },
+    {
+      "id": "u24-132",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "礼物；有天赋的",
+      "answerPrimary": "gift / gifted",
+      "answerAlts": [
+        "gift",
+        "gifted"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-133",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "长颈鹿；女孩",
+      "answerPrimary": "giraffe / girl",
+      "answerAlts": [
+        "giraffe",
+        "girl"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-134a",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "给；给予",
+      "answerPrimary": "give",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-give"
+    },
+    {
+      "id": "u24-134b",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "放弃",
+      "answerPrimary": "give up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-give"
+    },
+    {
+      "id": "u24-134c",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "分发；放出",
+      "answerPrimary": "give out / give away",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-give"
+    },
+    {
+      "id": "u24-135",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "高兴的",
+      "answerPrimary": "glad",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-136",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "一瞥；怒视",
+      "answerPrimary": "glance / glare",
+      "answerAlts": [
+        "glance",
+        "glare",
+        "glance at"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-137",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "玻璃；玻璃杯",
+      "answerPrimary": "glass",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-138",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "地球；球体",
+      "answerPrimary": "globe",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-139",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "荣耀；光荣",
+      "answerPrimary": "glory",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-140",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "手套；胶水",
+      "answerPrimary": "glove / glue",
+      "answerAlts": [
+        "glove",
+        "glue"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-141a",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "去；走",
+      "answerPrimary": "go",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-go"
+    },
+    {
+      "id": "u24-141b",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "继续；复习",
+      "answerPrimary": "go on / go over",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-go"
+    },
+    {
+      "id": "u24-141c",
+      "unitId": "24",
+      "type": "phrase_cluster",
+      "prompt": "违反；违背",
+      "answerPrimary": "go against",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u24-go"
+    },
+    {
+      "id": "u24-142",
+      "unitId": "24",
+      "type": "zh2en",
+      "prompt": "目标；球门",
+      "answerPrimary": "goal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u24-143",
+      "unitId": "24",
+      "type": "cloze",
+      "prompt": "Don't make fun ____ disabled people.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

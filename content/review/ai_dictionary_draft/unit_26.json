@@ -1,0 +1,959 @@
+{
+  "unitId": "26",
+  "name": "Unit 26 (hair—highlight)",
+  "order": 26,
+  "rangeFrom": "hair",
+  "rangeTo": "highlight",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u26-101",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "头发；理发",
+      "answerPrimary": "hair / haircut",
+      "answerAlts": [
+        "hair",
+        "haircut"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-102",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "一半；半",
+      "answerPrimary": "half / half of / in half",
+      "answerAlts": [
+        "half",
+        "in half"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-103",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "大厅；会堂",
+      "answerPrimary": "hall",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-104",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "火腿；汉堡包",
+      "answerPrimary": "ham / hamburger",
+      "answerAlts": [
+        "ham",
+        "hamburger"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-105",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "锤子",
+      "answerPrimary": "hammer",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-106a",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "手；交给",
+      "answerPrimary": "hand",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hand"
+    },
+    {
+      "id": "u26-106b",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "上交",
+      "answerPrimary": "hand in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hand"
+    },
+    {
+      "id": "u26-106c",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "分发",
+      "answerPrimary": "hand out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hand"
+    },
+    {
+      "id": "u26-106d",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "另一方面",
+      "answerPrimary": "on the other hand",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hand"
+    },
+    {
+      "id": "u26-107",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "手提包；一把",
+      "answerPrimary": "handbag / a handful of",
+      "answerAlts": [
+        "handbag",
+        "a handful of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-108",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "手帕；把手",
+      "answerPrimary": "handkerchief / handle",
+      "answerAlts": [
+        "handkerchief",
+        "handle"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-109",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "英俊的；方便的",
+      "answerPrimary": "handsome / handy",
+      "answerAlts": [
+        "handsome",
+        "handy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-110",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "书法；笔迹",
+      "answerPrimary": "handwriting",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-111",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "悬挂；绞死",
+      "answerPrimary": "hang / hang up",
+      "answerAlts": [
+        "hang",
+        "hang up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-112",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "发生",
+      "answerPrimary": "happen / happen to do",
+      "answerAlts": [
+        "happen",
+        "happen to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-113",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "幸福；快乐的",
+      "answerPrimary": "happiness / happy",
+      "answerAlts": [
+        "happiness",
+        "happy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-114",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "港口；海港",
+      "answerPrimary": "harbor / harbour",
+      "answerAlts": [
+        "harbor",
+        "harbour"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u26-115a",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "努力地；硬的",
+      "answerPrimary": "hard",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hard"
+    },
+    {
+      "id": "u26-115b",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "几乎不",
+      "answerPrimary": "hardly",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hard"
+    },
+    {
+      "id": "u26-115c",
+      "unitId": "26",
+      "type": "phrase_cluster",
+      "prompt": "艰难；困苦",
+      "answerPrimary": "hardship / hardworking",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u26-hard"
+    },
+    {
+      "id": "u26-116",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "伤害；有害的",
+      "answerPrimary": "harm / harmful / harmless / do harm to",
+      "answerAlts": [
+        "harm",
+        "harmful",
+        "harmless",
+        "do harm to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-117",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "收获；收割",
+      "answerPrimary": "harvest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-118",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "帽子；孵化",
+      "answerPrimary": "hat / hatch",
+      "answerAlts": [
+        "hat",
+        "hatch"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-119",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "恨；憎恨",
+      "answerPrimary": "hate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-120",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "有；吃；举行",
+      "answerPrimary": "have / have to / have sth done",
+      "answerAlts": [
+        "have",
+        "have to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-121",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "头；标题；校长",
+      "answerPrimary": "head / headline / headmaster / headache",
+      "answerAlts": [
+        "head",
+        "headline",
+        "headmaster",
+        "headache"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-122",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "健康；健康的",
+      "answerPrimary": "health / healthy",
+      "answerAlts": [
+        "health",
+        "healthy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-123",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "听见；听力",
+      "answerPrimary": "hear / hearing / hear of / hear from",
+      "answerAlts": [
+        "hear",
+        "hearing",
+        "hear of",
+        "hear from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-124",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "心；热心",
+      "answerPrimary": "heart / learn by heart / break one's heart",
+      "answerAlts": [
+        "heart",
+        "learn by heart",
+        "heart and soul"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-125",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "热；加热",
+      "answerPrimary": "heat / hot",
+      "answerAlts": [
+        "heat",
+        "hot"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-126",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "天堂；天空",
+      "answerPrimary": "heaven",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-127",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "重的；沉重的",
+      "answerPrimary": "heavy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-128",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "脚后跟；高度",
+      "answerPrimary": "heel / height",
+      "answerAlts": [
+        "heel",
+        "height"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-129",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "直升机",
+      "answerPrimary": "helicopter",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-130",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "你好；头盔",
+      "answerPrimary": "hello / helmet",
+      "answerAlts": [
+        "hello",
+        "helmet"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-131",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "帮助；有帮助的",
+      "answerPrimary": "help / helpful / help sb with / can't help doing",
+      "answerAlts": [
+        "help",
+        "helpful",
+        "can't help doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-132",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "母鸡",
+      "answerPrimary": "hen",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-133",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "草本植物；香草",
+      "answerPrimary": "herb",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-134",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "这里；英雄",
+      "answerPrimary": "here / hero",
+      "answerAlts": [
+        "here",
+        "hero"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-135",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "犹豫",
+      "answerPrimary": "hesitate / hesitate to do",
+      "answerAlts": [
+        "hesitate"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-136",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "隐藏",
+      "answerPrimary": "hide",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-137",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "高的；高速公路",
+      "answerPrimary": "high / highly / highway",
+      "answerAlts": [
+        "high",
+        "highly",
+        "highway"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-138",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "小山；山丘",
+      "answerPrimary": "hill",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-139",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "雇；租用",
+      "answerPrimary": "hire",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-140",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "历史",
+      "answerPrimary": "history / historic / historical",
+      "answerAlts": [
+        "history",
+        "historic",
+        "historical"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-141",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "击中；打击",
+      "answerPrimary": "hit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-142",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "爱好",
+      "answerPrimary": "hobby",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-143",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "举行；握住；容纳",
+      "answerPrimary": "hold / hold on / hold up",
+      "answerAlts": [
+        "hold",
+        "hold on",
+        "hold up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-144",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "洞；孔",
+      "answerPrimary": "hole",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-145",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "假日；节日",
+      "answerPrimary": "holiday / on holiday",
+      "answerAlts": [
+        "holiday",
+        "on holiday"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#145",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-146",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "神圣的",
+      "answerPrimary": "holy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#146",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-147",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "家；家乡；作业",
+      "answerPrimary": "home / homeland / hometown / homework",
+      "answerAlts": [
+        "home",
+        "homeland",
+        "hometown",
+        "homework"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#147",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-148",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "诚实的",
+      "answerPrimary": "honest / honesty",
+      "answerAlts": [
+        "honest",
+        "honesty"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#148",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-149",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "蜂蜜；荣誉",
+      "answerPrimary": "honey / honor / honour / in honor of",
+      "answerAlts": [
+        "honey",
+        "honor",
+        "honour",
+        "in honour of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#149",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-150",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "钩；挂钩",
+      "answerPrimary": "hook",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#150",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-151",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "希望；有希望的",
+      "answerPrimary": "hope / hopeful / hopeless",
+      "answerAlts": [
+        "hope",
+        "hopeful",
+        "hopeless"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#151",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-152",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "可怕的",
+      "answerPrimary": "horrible",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#152",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-153",
+      "unitId": "26",
+      "type": "zh2en",
+      "prompt": "突出；最精彩部分",
+      "answerPrimary": "highlight",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#153",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u26-154",
+      "unitId": "26",
+      "type": "cloze",
+      "prompt": "I can't help ____ (laugh) at the joke.",
+      "answerPrimary": "laughing",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#154",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "laughing",
+          "alts": [
+            "laughing"
+          ]
+        }
+      ]
+    }
+  ]
+}

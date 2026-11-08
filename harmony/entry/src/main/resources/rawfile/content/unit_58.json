@@ -1,0 +1,485 @@
+{
+  "unitId": "58",
+  "name": "Unit 58 (vase—water)",
+  "order": 58,
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u58-101",
+      "unitId": "58",
+      "type": "word_form",
+      "prompt": "Her eyes were red and ____（泪水汪汪）",
+      "answerPrimary": "watery",
+      "answerAlts": [
+        "tearful"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit58-all#6",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "watery",
+          "alts": [
+            "tearful"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u58-102",
+      "unitId": "58",
+      "type": "cloze",
+      "prompt": "declare war ____ pollution",
+      "answerPrimary": "on",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit58-all#7",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u58-103a",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "跑步前需要热身",
+      "answerPrimary": "You need to warm up before running",
+      "answerAlts": [
+        "warm up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#8a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-103b",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "几个笑话让讨论活跃起来",
+      "answerPrimary": "A few jokes helped warm up the discussion",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#8b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-104",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "发出警告",
+      "answerPrimary": "sound a warning",
+      "answerAlts": [
+        "give a warning",
+        "issue a warning"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-105",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "监视；留意",
+      "answerPrimary": "keep a watch on",
+      "answerAlts": [
+        "keep watch on",
+        "keep an eye on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-106",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "因谋杀被通缉",
+      "answerPrimary": "be wanted for the murder",
+      "answerAlts": [
+        "be wanted for murder"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-107",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "任务因缺乏资金被推迟",
+      "answerPrimary": "The task was postponed for lack of / due to lack of funds",
+      "answerAlts": [
+        "for lack of funds",
+        "for want of funds"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-108",
+      "unitId": "58",
+      "type": "word_form",
+      "prompt": "The desk wants ____（repair）.",
+      "answerPrimary": "repairing",
+      "answerAlts": [
+        "to be repaired"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit58-all#13",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "repairing",
+          "alts": [
+            "to be repaired"
+          ]
+        }
+      ],
+      "hint": "repair"
+    },
+    {
+      "id": "u58-109",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "凭借；由于",
+      "answerPrimary": "by virtue of",
+      "answerAlts": [
+        "by means of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-110",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "这个项目实际上是一场灾难",
+      "answerPrimary": "The project was a virtual disaster",
+      "answerAlts": [
+        "virtual disaster"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-111",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "一个有远见的领袖",
+      "answerPrimary": "a visionary leader",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-112",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "意识到危险",
+      "answerPrimary": "be aware of the danger",
+      "answerAlts": [
+        "realize the danger"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-113",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "打破……之间的隔阂",
+      "answerPrimary": "break down the wall between",
+      "answerAlts": [
+        "break down barriers between"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u58-114",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "在街上闲逛",
+      "answerPrimary": "wander in the street",
+      "answerAlts": [
+        "wander the streets",
+        "walk around the street"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u58-115",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "别开小差",
+      "answerPrimary": "Don't let your mind wander",
+      "answerAlts": [
+        "Don't wander off"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u58-116a",
+      "unitId": "58",
+      "type": "phrase_cluster",
+      "prompt": "调高音量",
+      "answerPrimary": "turn up the volume",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit58-all#21a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u58-volume"
+    },
+    {
+      "id": "u58-116b",
+      "unitId": "58",
+      "type": "phrase_cluster",
+      "prompt": "容器的容积",
+      "answerPrimary": "the volume of the container",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit58-all#21b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u58-volume"
+    },
+    {
+      "id": "u58-116c",
+      "unitId": "58",
+      "type": "phrase_cluster",
+      "prompt": "一部五卷本小说",
+      "answerPrimary": "a novel in 5 volumes",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit58-all#21c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u58-volume"
+    },
+    {
+      "id": "u58-117",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "自愿做……",
+      "answerPrimary": "volunteer to do",
+      "answerAlts": [
+        "volunteer for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u58-118",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "做志愿工作",
+      "answerPrimary": "do voluntary work",
+      "answerAlts": [
+        "do volunteer work"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u58-119",
+      "unitId": "58",
+      "type": "cloze",
+      "prompt": "pay a visit ____ sb/sth",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit58-all#24",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u58-120",
+      "unitId": "58",
+      "type": "cloze",
+      "prompt": "____ a loud voice",
+      "answerPrimary": "in",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit58-all#25",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "in",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u58-121",
+      "unitId": "58",
+      "type": "word_form",
+      "prompt": "vital（名词）",
+      "answerPrimary": "vitality",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit58-all#26",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "vitality",
+          "alts": []
+        }
+      ],
+      "hint": "vital"
+    },
+    {
+      "id": "u58-122",
+      "unitId": "58",
+      "type": "zh2en",
+      "prompt": "公众的强烈反应",
+      "answerPrimary": "a violent reaction from the public",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit58-all#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u58-123a",
+      "unitId": "58",
+      "type": "phrase_cluster",
+      "prompt": "生动的记忆",
+      "answerPrimary": "a vivid memory",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit58-all#28a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u58-vivid"
+    },
+    {
+      "id": "u58-123b",
+      "unitId": "58",
+      "type": "phrase_cluster",
+      "prompt": "生动地描述",
+      "answerPrimary": "give a vivid account of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit58-all#28b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u58-vivid"
+    },
+    {
+      "id": "u58-123c",
+      "unitId": "58",
+      "type": "phrase_cluster",
+      "prompt": "乡村生活的生动画面",
+      "answerPrimary": "a vivid picture of rural life",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit58-all#28c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u58-vivid"
+    }
+  ],
+  "rangeFrom": "vase",
+  "rangeTo": "water"
+}

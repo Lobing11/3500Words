@@ -1,0 +1,565 @@
+{
+  "unitId": "40",
+  "name": "Unit 40 (percentage—playground)",
+  "order": 40,
+  "items": [
+    {
+      "id": "u40-101",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "百分比；百分率",
+      "answerPrimary": "percentage",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-102",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "完美的；熟能生巧",
+      "answerPrimary": "perfect / Practice makes perfect",
+      "answerAlts": [
+        "perfect",
+        "Practice makes perfect"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-103",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "表演；执行 / 表演",
+      "answerPrimary": "perform / performance",
+      "answerAlts": [
+        "perform",
+        "performance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-104",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "永久的；持久的",
+      "answerPrimary": "permanent",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-105",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "允许；许可",
+      "answerPrimary": "permission / ask for permission",
+      "answerAlts": [
+        "permission",
+        "permit"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-106",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "允许某人做……",
+      "answerPrimary": "permit sb to do",
+      "answerAlts": [
+        "allow sb to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-107",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "亲自；当面",
+      "answerPrimary": "in person",
+      "answerAlts": [
+        "personally"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-108",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "个人的；私人的",
+      "answerPrimary": "personal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-109",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "说服某人做……",
+      "answerPrimary": "persuade sb to do",
+      "answerAlts": [
+        "persuade sb into doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-110",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "现象（复数）",
+      "answerPrimary": "phenomena",
+      "answerAlts": [
+        "phenomenon / phenomena"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-111",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "照片；拍照",
+      "answerPrimary": "photo / take a photo",
+      "answerAlts": [
+        "photograph",
+        "take a picture"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-112",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "短语；词组",
+      "answerPrimary": "phrase",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-113",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "身体的；物理的",
+      "answerPrimary": "physical",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-114",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "物理 / 物理学家",
+      "answerPrimary": "physics / physicist",
+      "answerAlts": [
+        "physics",
+        "physicist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-115",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "钢琴 / 钢琴家",
+      "answerPrimary": "piano / pianist",
+      "answerAlts": [
+        "piano",
+        "pianist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-116a",
+      "unitId": "40",
+      "type": "phrase_cluster",
+      "prompt": "捡起；学会；接人",
+      "answerPrimary": "pick up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u40-pick"
+    },
+    {
+      "id": "u40-116b",
+      "unitId": "40",
+      "type": "phrase_cluster",
+      "prompt": "挑选出",
+      "answerPrimary": "pick out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u40-pick"
+    },
+    {
+      "id": "u40-117",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "野餐",
+      "answerPrimary": "picnic / go on a picnic",
+      "answerAlts": [
+        "picnic",
+        "have a picnic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u40-118",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "一张；一片；一件",
+      "answerPrimary": "a piece of",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-119",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "一堆",
+      "answerPrimary": "a pile of",
+      "answerAlts": [
+        "piles of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-120",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "枕头",
+      "answerPrimary": "pillow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-121",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "飞行员；领航员",
+      "answerPrimary": "pilot",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-122",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "先锋；开拓者",
+      "answerPrimary": "pioneer",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-123",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "真可惜；怜悯",
+      "answerPrimary": "What a pity / pity",
+      "answerAlts": [
+        "What a pity",
+        "have pity on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-124a",
+      "unitId": "40",
+      "type": "phrase_cluster",
+      "prompt": "发生",
+      "answerPrimary": "take place",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u40-place"
+    },
+    {
+      "id": "u40-124b",
+      "unitId": "40",
+      "type": "phrase_cluster",
+      "prompt": "代替",
+      "answerPrimary": "take the place of / in place of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u40-place"
+    },
+    {
+      "id": "u40-124c",
+      "unitId": "40",
+      "type": "phrase_cluster",
+      "prompt": "在适当位置",
+      "answerPrimary": "in place",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u40-place"
+    },
+    {
+      "id": "u40-125",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "平原；简单的；清楚的",
+      "answerPrimary": "plain",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-126",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "计划做……",
+      "answerPrimary": "plan to do / make a plan",
+      "answerAlts": [
+        "plan to do",
+        "make a plan for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-127",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "行星",
+      "answerPrimary": "planet",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-128",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "种植；工厂",
+      "answerPrimary": "plant",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-129",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "塑料的；塑料",
+      "answerPrimary": "plastic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-130",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "平台；站台",
+      "answerPrimary": "platform",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-131",
+      "unitId": "40",
+      "type": "zh2en",
+      "prompt": "操场；运动场",
+      "answerPrimary": "playground",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-132",
+      "unitId": "40",
+      "type": "pattern",
+      "prompt": "会议将在明天举行（take place）",
+      "answerPrimary": "The meeting will take place tomorrow",
+      "answerAlts": [
+        "The meeting takes place tomorrow"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u40-133",
+      "unitId": "40",
+      "type": "cloze",
+      "prompt": "Parents don't permit their children ____ (stay) up late.",
+      "answerPrimary": "to stay",
+      "answerAlts": [],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to stay",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "percentage",
+  "rangeTo": "playground",
+  "wordsPerUnit": 50
+}

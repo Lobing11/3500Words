@@ -1,0 +1,626 @@
+{
+  "unitId": "35",
+  "name": "Unit 35 (mistake—museum)",
+  "order": 35,
+  "items": [
+    {
+      "id": "u35-101a",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "犯错误",
+      "answerPrimary": "make a mistake",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-mistake"
+    },
+    {
+      "id": "u35-101b",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "错误地；无意中",
+      "answerPrimary": "by mistake",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-mistake"
+    },
+    {
+      "id": "u35-101c",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "把 A 误认为 B",
+      "answerPrimary": "mistake A for B",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-mistake"
+    },
+    {
+      "id": "u35-102",
+      "unitId": "35",
+      "type": "word_form",
+      "prompt": "mistake（过去分词/形容词）",
+      "answerPrimary": "mistaken",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "mistaken",
+          "alts": []
+        }
+      ],
+      "hint": "mistake"
+    },
+    {
+      "id": "u35-103",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "误解；误会",
+      "answerPrimary": "misunderstand",
+      "answerAlts": [
+        "misunderstanding"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-104",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "混合；弄乱",
+      "answerPrimary": "mix / mix up",
+      "answerAlts": [
+        "mix",
+        "mix up",
+        "mixture"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-105",
+      "unitId": "35",
+      "type": "word_form",
+      "prompt": "mix（名词）",
+      "answerPrimary": "mixture",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "mixture",
+          "alts": []
+        }
+      ],
+      "hint": "mix"
+    },
+    {
+      "id": "u35-106",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "手机；可移动的",
+      "answerPrimary": "mobile phone / mobile",
+      "answerAlts": [
+        "mobile phone",
+        "cellphone",
+        "cell phone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-107",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "模型；模范",
+      "answerPrimary": "model",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-108",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "现代的",
+      "answerPrimary": "modern",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-109",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "谦虚的；适度的",
+      "answerPrimary": "modest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-110a",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "暂时；目前",
+      "answerPrimary": "for the moment",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-moment"
+    },
+    {
+      "id": "u35-110b",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "一……就……",
+      "answerPrimary": "the moment",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-moment"
+    },
+    {
+      "id": "u35-111",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "赚钱；挣钱",
+      "answerPrimary": "make money",
+      "answerAlts": [
+        "earn money"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-112",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "班长；监视器；监控",
+      "answerPrimary": "monitor",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-113",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "纪念碑；遗迹",
+      "answerPrimary": "monument",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-114",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "道德的；寓意",
+      "answerPrimary": "moral",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u35-115a",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "大约；或多或少",
+      "answerPrimary": "more or less",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-more"
+    },
+    {
+      "id": "u35-115b",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "不超过；仅仅",
+      "answerPrimary": "no more than",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-more"
+    },
+    {
+      "id": "u35-115c",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "不多于；至多",
+      "answerPrimary": "not more than",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u35-more"
+    },
+    {
+      "id": "u35-116",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "蚊子",
+      "answerPrimary": "mosquito",
+      "answerAlts": [
+        "mosquitoes"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-117",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "大多数；至多",
+      "answerPrimary": "most of / at most",
+      "answerAlts": [
+        "most of",
+        "at most"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-118",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "祖国",
+      "answerPrimary": "motherland / homeland",
+      "answerAlts": [
+        "motherland",
+        "homeland"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-119",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "激励；动机",
+      "answerPrimary": "motivate / motivation",
+      "answerAlts": [
+        "motivate",
+        "motivation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-120",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "座右铭；格言",
+      "answerPrimary": "motto",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-121",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "山；多山的",
+      "answerPrimary": "mountain / mountainous",
+      "answerAlts": [
+        "mountain",
+        "mountainous"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-122",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "哀悼；悼念",
+      "answerPrimary": "mourn",
+      "answerAlts": [
+        "mourn for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-123",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "老鼠（复数）",
+      "answerPrimary": "mice",
+      "answerAlts": [
+        "mouse / mice"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-124",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "口述；口头上",
+      "answerPrimary": "by word of mouth",
+      "answerAlts": [
+        "orally"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-125a",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "继续前进；谈别的",
+      "answerPrimary": "move on",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u35-move"
+    },
+    {
+      "id": "u35-125b",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "搬家迁入",
+      "answerPrimary": "move in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u35-move"
+    },
+    {
+      "id": "u35-125c",
+      "unitId": "35",
+      "type": "phrase_cluster",
+      "prompt": "运动；移动",
+      "answerPrimary": "movement",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u35-move"
+    },
+    {
+      "id": "u35-126",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "电影",
+      "answerPrimary": "movie / film",
+      "answerAlts": [
+        "movie",
+        "film"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-127",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "泥土；泥",
+      "answerPrimary": "mud",
+      "answerAlts": [
+        "muddy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-128",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "乘；繁殖",
+      "answerPrimary": "multiply",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-129",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "谋杀；凶杀",
+      "answerPrimary": "murder",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-130",
+      "unitId": "35",
+      "type": "zh2en",
+      "prompt": "博物馆",
+      "answerPrimary": "museum",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-131",
+      "unitId": "35",
+      "type": "pattern",
+      "prompt": "我错把他当成了经理（mistake A for B）",
+      "answerPrimary": "I mistook him for the manager",
+      "answerAlts": [
+        "I mistook him as the manager"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u35-132",
+      "unitId": "35",
+      "type": "cloze",
+      "prompt": "She took my umbrella ____ mistake.",
+      "answerPrimary": "by",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "by",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "mistake",
+  "rangeTo": "museum",
+  "wordsPerUnit": 50
+}

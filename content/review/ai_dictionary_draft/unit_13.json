@@ -1,0 +1,662 @@
+{
+  "unitId": "13",
+  "name": "Unit 13 (congratulate—cottage)",
+  "order": 13,
+  "rangeFrom": "congratulate",
+  "rangeTo": "cottage",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u13-101",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "祝贺",
+      "answerPrimary": "congratulate sb on / congratulation",
+      "answerAlts": [
+        "congratulate",
+        "congratulations",
+        "congratulate sb on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-102",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "连接；联系",
+      "answerPrimary": "connect / connection / be connected with",
+      "answerAlts": [
+        "connect",
+        "connection",
+        "be connected with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-103",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "良心；是非感",
+      "answerPrimary": "conscience",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-104",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "共识；一致意见",
+      "answerPrimary": "consensus",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-105",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "结果；后果",
+      "answerPrimary": "consequence / as a consequence",
+      "answerAlts": [
+        "consequence",
+        "as a consequence",
+        "consequently"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-106",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "保护；保守的",
+      "answerPrimary": "conservation / conservative",
+      "answerAlts": [
+        "conservation",
+        "conservative"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-107",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "考虑；体贴的",
+      "answerPrimary": "consider / consideration / considerate",
+      "answerAlts": [
+        "consider",
+        "consideration",
+        "considerate",
+        "take into consideration"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-108",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "由……组成",
+      "answerPrimary": "consist of / be made up of",
+      "answerAlts": [
+        "consist of",
+        "be made up of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-109",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "不断的；持续的",
+      "answerPrimary": "constant / constantly",
+      "answerAlts": [
+        "constant",
+        "constantly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-110",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "宪法；体质",
+      "answerPrimary": "constitution",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-111",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "建造；建设",
+      "answerPrimary": "construct / construction",
+      "answerAlts": [
+        "construct",
+        "construction"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-112",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "咨询；顾问",
+      "answerPrimary": "consult / consultant",
+      "answerAlts": [
+        "consult",
+        "consultant"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-113",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "消耗；消费",
+      "answerPrimary": "consume / consumer",
+      "answerAlts": [
+        "consume",
+        "consumer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-114",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "包含；容器",
+      "answerPrimary": "contain / container",
+      "answerAlts": [
+        "contain",
+        "container"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-115",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "当代的",
+      "answerPrimary": "contemporary",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-116",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "内容；满足的",
+      "answerPrimary": "content / be content with",
+      "answerAlts": [
+        "content",
+        "be content with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-117",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "大陆",
+      "answerPrimary": "continent",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-118",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "继续",
+      "answerPrimary": "continue / continuous",
+      "answerAlts": [
+        "continue",
+        "continuous"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-119",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "反驳；矛盾的",
+      "answerPrimary": "contradict / contradictory",
+      "answerAlts": [
+        "contradict",
+        "contradictory"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u13-120",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "相反的；相反",
+      "answerPrimary": "contrary / on the contrary",
+      "answerAlts": [
+        "contrary",
+        "on the contrary"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-121",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "贡献",
+      "answerPrimary": "contribute to / contribution",
+      "answerAlts": [
+        "contribute to",
+        "contribution"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-122",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "控制",
+      "answerPrimary": "control / under control / out of control",
+      "answerAlts": [
+        "control",
+        "under control",
+        "out of control"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-123",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "有争议的",
+      "answerPrimary": "controversial",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-124",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "方便的；便利",
+      "answerPrimary": "convenient / convenience",
+      "answerAlts": [
+        "convenient",
+        "convenience",
+        "at one's convenience"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-125",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "传统的；常规的",
+      "answerPrimary": "conventional",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-126",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "对话；交谈",
+      "answerPrimary": "conversation",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-127",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "传达；运送",
+      "answerPrimary": "convey",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-128",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "使确信；说服",
+      "answerPrimary": "convince / be convinced of",
+      "answerAlts": [
+        "convince",
+        "convinced"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-129",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "烹饪；厨师；炊具",
+      "answerPrimary": "cook / cooker / cookie",
+      "answerAlts": [
+        "cook",
+        "cooker",
+        "cookie"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-130",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "凉爽的；冷静的",
+      "answerPrimary": "cool / cool down",
+      "answerAlts": [
+        "cool",
+        "cool down"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-131",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "复制；抄写",
+      "answerPrimary": "copy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-132",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "角落；拐角",
+      "answerPrimary": "corner / around the corner",
+      "answerAlts": [
+        "corner",
+        "around the corner"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-133",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "公司；企业",
+      "answerPrimary": "corporation",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-134",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "正确的；纠正",
+      "answerPrimary": "correct / correction",
+      "answerAlts": [
+        "correct",
+        "correction"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-135",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "通信；符合",
+      "answerPrimary": "correspond with / correspondence",
+      "answerAlts": [
+        "correspond",
+        "correspond with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-136",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "腐败的；贪污的",
+      "answerPrimary": "corrupt",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-137",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "花费；成本",
+      "answerPrimary": "cost / at the cost of",
+      "answerAlts": [
+        "cost",
+        "at the cost of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-138",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "舒适的；温馨的",
+      "answerPrimary": "cosy / cozy",
+      "answerAlts": [
+        "cosy",
+        "cozy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-139",
+      "unitId": "13",
+      "type": "zh2en",
+      "prompt": "村舍；小屋",
+      "answerPrimary": "cottage",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u13-140",
+      "unitId": "13",
+      "type": "cloze",
+      "prompt": "Success consists ____ hard work and luck.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

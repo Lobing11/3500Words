@@ -1,0 +1,621 @@
+{
+  "unitId": "31",
+  "name": "Unit 31 (knife—lesson)",
+  "order": 31,
+  "items": [
+    {
+      "id": "u31-101",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "刀（复数）",
+      "answerPrimary": "knives",
+      "answerAlts": [
+        "knife / knives"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-102",
+      "unitId": "31",
+      "type": "cloze",
+      "prompt": "knock ____ the door",
+      "answerPrimary": "at",
+      "answerAlts": [
+        "on"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "at",
+          "alts": [
+            "on"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u31-103a",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "作为……而出名",
+      "answerPrimary": "be known as",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u31-know"
+    },
+    {
+      "id": "u31-103b",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "因……而出名",
+      "answerPrimary": "be known for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u31-know"
+    },
+    {
+      "id": "u31-103c",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "为……所熟知",
+      "answerPrimary": "be known to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u31-know"
+    },
+    {
+      "id": "u31-104",
+      "unitId": "31",
+      "type": "word_form",
+      "prompt": "know（名词）",
+      "answerPrimary": "knowledge",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "knowledge",
+          "alts": []
+        }
+      ],
+      "hint": "know"
+    },
+    {
+      "id": "u31-105",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "缺乏；缺少",
+      "answerPrimary": "lack of / be lacking in",
+      "answerAlts": [
+        "lack",
+        "lack of",
+        "be lacking in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-106",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "实验室",
+      "answerPrimary": "lab / laboratory",
+      "answerAlts": [
+        "lab",
+        "laboratory"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-107",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "劳动；劳工",
+      "answerPrimary": "labor / labour",
+      "answerAlts": [
+        "labor",
+        "labour"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-108",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "着陆；落地；国家",
+      "answerPrimary": "land",
+      "answerAlts": [
+        "by land"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-109",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "语言",
+      "answerPrimary": "language",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-110",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "最后但同样重要的",
+      "answerPrimary": "last but not least",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-111",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "迟到",
+      "answerPrimary": "be late for",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-112",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "近来；最近",
+      "answerPrimary": "lately / recently",
+      "answerAlts": [
+        "lately",
+        "recently"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-113",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "后者（与 former 相对）",
+      "answerPrimary": "the latter",
+      "answerAlts": [
+        "latter"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-114a",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "嘲笑",
+      "answerPrimary": "laugh at",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u31-laugh"
+    },
+    {
+      "id": "u31-114b",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "突然大笑起来",
+      "answerPrimary": "burst into laughter",
+      "answerAlts": [
+        "burst out laughing"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u31-laugh"
+    },
+    {
+      "id": "u31-115",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "法律 / 律师",
+      "answerPrimary": "law / lawyer",
+      "answerAlts": [
+        "law",
+        "lawyer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-116",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "放置（过去式/过去分词）",
+      "answerPrimary": "laid / laid",
+      "answerAlts": [
+        "lay laid laid"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-117",
+      "unitId": "31",
+      "type": "pattern",
+      "prompt": "他躺在沙发上（lie 过去式）",
+      "answerPrimary": "He lay on the sofa",
+      "answerAlts": [
+        "He was lying on the sofa"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u31-118",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "导致；通向",
+      "answerPrimary": "lead to",
+      "answerAlts": [
+        "result in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-119",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "过着……的生活",
+      "answerPrimary": "lead a ... life",
+      "answerAlts": [
+        "live a ... life"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-120",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "领导者 / 领导",
+      "answerPrimary": "leader / leadership",
+      "answerAlts": [
+        "leader",
+        "leadership"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-121",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "树叶（复数）",
+      "answerPrimary": "leaves",
+      "answerAlts": [
+        "leaf / leaves"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-122",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "联盟；社团",
+      "answerPrimary": "league",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-123",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "泄漏；渗漏",
+      "answerPrimary": "leak",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-124",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "背诵；记住",
+      "answerPrimary": "learn ... by heart",
+      "answerAlts": [
+        "learn by heart"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-125",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "至少；起码",
+      "answerPrimary": "at least",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-126a",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "动身去……",
+      "answerPrimary": "leave for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u31-leave"
+    },
+    {
+      "id": "u31-126b",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "省略；遗漏",
+      "answerPrimary": "leave out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u31-leave"
+    },
+    {
+      "id": "u31-126c",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "别打扰；听任",
+      "answerPrimary": "leave alone",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u31-leave"
+    },
+    {
+      "id": "u31-126d",
+      "unitId": "31",
+      "type": "phrase_cluster",
+      "prompt": "把……留给",
+      "answerPrimary": "leave ... to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u31-leave"
+    },
+    {
+      "id": "u31-127",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "讲座；讲课",
+      "answerPrimary": "lecture",
+      "answerAlts": [
+        "give a lecture"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-128",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "合法的；法律的",
+      "answerPrimary": "legal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-129",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "借出；帮一把",
+      "answerPrimary": "lend / lend a hand",
+      "answerAlts": [
+        "lend",
+        "lend a hand"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-130",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "长度",
+      "answerPrimary": "length",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-131",
+      "unitId": "31",
+      "type": "zh2en",
+      "prompt": "功课；教训",
+      "answerPrimary": "lesson",
+      "answerAlts": [
+        "learn a lesson",
+        "teach sb a lesson"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u31-132",
+      "unitId": "31",
+      "type": "cloze",
+      "prompt": "He was late ____ school yesterday.",
+      "answerPrimary": "for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "knife",
+  "rangeTo": "lesson",
+  "wordsPerUnit": 50
+}

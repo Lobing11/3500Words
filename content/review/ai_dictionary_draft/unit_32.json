@@ -1,0 +1,680 @@
+{
+  "unitId": "32",
+  "name": "Unit 32 (let—love)",
+  "order": 32,
+  "items": [
+    {
+      "id": "u32-101a",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "更不用说",
+      "answerPrimary": "let alone",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u32-let"
+    },
+    {
+      "id": "u32-101b",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "使失望；放下",
+      "answerPrimary": "let down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u32-let"
+    },
+    {
+      "id": "u32-101c",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "放出；泄露",
+      "answerPrimary": "let out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u32-let"
+    },
+    {
+      "id": "u32-102",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "水平；级别",
+      "answerPrimary": "level",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-103",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "解放 / 自由",
+      "answerPrimary": "liberate / liberty",
+      "answerAlts": [
+        "liberate",
+        "liberty",
+        "liberation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-104",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "图书馆 / 图书管理员",
+      "answerPrimary": "library / librarian",
+      "answerAlts": [
+        "library",
+        "librarian"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-105",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "执照；许可证",
+      "answerPrimary": "license / licence",
+      "answerAlts": [
+        "license",
+        "licence"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-106",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "说谎 / 躺（原形）",
+      "answerPrimary": "lie",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-107",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "苏醒；恢复生机",
+      "answerPrimary": "come to life",
+      "answerAlts": [
+        "come alive"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-108",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "一生；终身",
+      "answerPrimary": "lifetime / lifelong",
+      "answerAlts": [
+        "lifetime",
+        "lifelong"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-109",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "举起；电梯",
+      "answerPrimary": "lift",
+      "answerAlts": [
+        "give sb a lift"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-110a",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "照亮；容光焕发",
+      "answerPrimary": "light up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u32-light"
+    },
+    {
+      "id": "u32-110b",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "为人所知；暴露",
+      "answerPrimary": "come to light",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u32-light"
+    },
+    {
+      "id": "u32-111",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "闪电",
+      "answerPrimary": "lightning",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-112",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "很可能做……",
+      "answerPrimary": "be likely to do",
+      "answerAlts": [
+        "be likely to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-113",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "限制；限定",
+      "answerPrimary": "limit / set a limit to",
+      "answerAlts": [
+        "limit",
+        "be limited to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-114",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "排队；成一行",
+      "answerPrimary": "line up / in line",
+      "answerAlts": [
+        "line up",
+        "in line"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-115",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "联系；关联",
+      "answerPrimary": "link",
+      "answerAlts": [
+        "be linked to",
+        "link with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-116",
+      "unitId": "32",
+      "type": "cloze",
+      "prompt": "listen ____ the teacher carefully",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u32-117",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "文学；文学作品",
+      "answerPrimary": "literature",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-118",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "乱扔；垃圾",
+      "answerPrimary": "litter",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u32-119",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "逐渐地",
+      "answerPrimary": "little by little",
+      "answerAlts": [
+        "bit by bit",
+        "gradually"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-120a",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "以……为食；靠……生活",
+      "answerPrimary": "live on",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-live"
+    },
+    {
+      "id": "u32-120b",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "不辜负；达到",
+      "answerPrimary": "live up to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-live"
+    },
+    {
+      "id": "u32-120c",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "谋生",
+      "answerPrimary": "make a living",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-live"
+    },
+    {
+      "id": "u32-121",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "活泼的；生动的",
+      "answerPrimary": "lively",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-122",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "装载；负担",
+      "answerPrimary": "load",
+      "answerAlts": [
+        "a load of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-123",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "当地的；本地的",
+      "answerPrimary": "local",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-124",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "孤独的；寂寞的",
+      "answerPrimary": "lonely",
+      "answerAlts": [
+        "alone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-125a",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "渴望",
+      "answerPrimary": "long for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-long"
+    },
+    {
+      "id": "u32-125b",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "不久以后",
+      "answerPrimary": "before long",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-long"
+    },
+    {
+      "id": "u32-125c",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "很久以前",
+      "answerPrimary": "long before",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-long"
+    },
+    {
+      "id": "u32-126a",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "查阅；向上看",
+      "answerPrimary": "look up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-look"
+    },
+    {
+      "id": "u32-126b",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "照看；照顾",
+      "answerPrimary": "look after",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-look"
+    },
+    {
+      "id": "u32-126c",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "寻找",
+      "answerPrimary": "look for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-look"
+    },
+    {
+      "id": "u32-126d",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "展望；盼望",
+      "answerPrimary": "look forward to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-look"
+    },
+    {
+      "id": "u32-126e",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "调查",
+      "answerPrimary": "look into",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26e",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-look"
+    },
+    {
+      "id": "u32-127a",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "灰心；失去信心",
+      "answerPrimary": "lose heart",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-lose"
+    },
+    {
+      "id": "u32-127b",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "减肥",
+      "answerPrimary": "lose weight",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-lose"
+    },
+    {
+      "id": "u32-127c",
+      "unitId": "32",
+      "type": "phrase_cluster",
+      "prompt": "不知所措",
+      "answerPrimary": "at a loss",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u32-lose"
+    },
+    {
+      "id": "u32-128",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "许多；大量",
+      "answerPrimary": "a lot of / lots of",
+      "answerAlts": [
+        "a lot of",
+        "lots of",
+        "plenty of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-129",
+      "unitId": "32",
+      "type": "zh2en",
+      "prompt": "爱上；喜爱",
+      "answerPrimary": "fall in love with",
+      "answerAlts": [
+        "be in love with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u32-130",
+      "unitId": "32",
+      "type": "pattern",
+      "prompt": "他不可能一个人完成这项工作（let alone）",
+      "answerPrimary": "He can't finish the work alone, let alone do it well",
+      "answerAlts": [
+        "He can't finish the work, let alone do it well"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "let",
+  "rangeTo": "love",
+  "wordsPerUnit": 50
+}

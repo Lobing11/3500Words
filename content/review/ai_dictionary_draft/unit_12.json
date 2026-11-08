@@ -1,0 +1,657 @@
+{
+  "unitId": "12",
+  "name": "Unit 12 (combine—confuse)",
+  "order": 12,
+  "rangeFrom": "combine",
+  "rangeTo": "confuse",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u12-101",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "结合；联合",
+      "answerPrimary": "combine / combine with",
+      "answerAlts": [
+        "combine",
+        "combine with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-102a",
+      "unitId": "12",
+      "type": "phrase_cluster",
+      "prompt": "来；到达",
+      "answerPrimary": "come",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u12-come"
+    },
+    {
+      "id": "u12-102b",
+      "unitId": "12",
+      "type": "phrase_cluster",
+      "prompt": "偶然遇见",
+      "answerPrimary": "come across",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u12-come"
+    },
+    {
+      "id": "u12-102c",
+      "unitId": "12",
+      "type": "phrase_cluster",
+      "prompt": "实现；成为现实",
+      "answerPrimary": "come true",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u12-come"
+    },
+    {
+      "id": "u12-102d",
+      "unitId": "12",
+      "type": "phrase_cluster",
+      "prompt": "想出；提出",
+      "answerPrimary": "come up with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u12-come"
+    },
+    {
+      "id": "u12-103",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "喜剧",
+      "answerPrimary": "comedy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-104",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "安慰；舒适",
+      "answerPrimary": "comfort / comfortable",
+      "answerAlts": [
+        "comfort",
+        "comfortable"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-105",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "命令；指挥",
+      "answerPrimary": "command",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-106",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "评论；意见",
+      "answerPrimary": "comment on / comment",
+      "answerAlts": [
+        "comment on",
+        "comment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-107",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "商业的；广告",
+      "answerPrimary": "commercial",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-108",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "犯（罪/错）；承诺",
+      "answerPrimary": "commit / commitment / commit a crime",
+      "answerAlts": [
+        "commit",
+        "commitment",
+        "commit a crime"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-109",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "委员会",
+      "answerPrimary": "committee",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-110",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "共同的；普通的",
+      "answerPrimary": "common / in common",
+      "answerAlts": [
+        "common",
+        "have in common",
+        "in common"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-111",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "交流；沟通",
+      "answerPrimary": "communicate / communication",
+      "answerAlts": [
+        "communicate",
+        "communication"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-112",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "同伴；公司",
+      "answerPrimary": "companion / company / keep sb company",
+      "answerAlts": [
+        "companion",
+        "company",
+        "keep company"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-113",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "比较",
+      "answerPrimary": "compare / compare A with B / compared with",
+      "answerAlts": [
+        "compare",
+        "compare with",
+        "compared with",
+        "compare to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-114",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "补偿；弥补",
+      "answerPrimary": "compensate for",
+      "answerAlts": [
+        "compensate"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-115",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "竞争；比赛",
+      "answerPrimary": "compete / competition / competitive",
+      "answerAlts": [
+        "compete",
+        "competition",
+        "competitive"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-116",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "完成；完整的",
+      "answerPrimary": "complete / completely",
+      "answerAlts": [
+        "complete",
+        "completely"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u12-117",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "复杂的",
+      "answerPrimary": "complex",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-118",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "成分；组成部分",
+      "answerPrimary": "component",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-119",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "作文；作曲",
+      "answerPrimary": "composition",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-120",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "理解力；理解",
+      "answerPrimary": "comprehension",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-121",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "妥协",
+      "answerPrimary": "compromise",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-122",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "强制的；义务的",
+      "answerPrimary": "compulsory",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-123",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "电脑；计算机",
+      "answerPrimary": "computer",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-124",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "集中；全神贯注",
+      "answerPrimary": "concentrate on",
+      "answerAlts": [
+        "concentrate",
+        "focus on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-125",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "概念；观念",
+      "answerPrimary": "concept",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-126",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "关心；涉及；担忧",
+      "answerPrimary": "concern / be concerned about / as far as ... is concerned",
+      "answerAlts": [
+        "concern",
+        "be concerned about",
+        "be concerned with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-127",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "音乐会",
+      "answerPrimary": "concert",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-128",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "得出结论",
+      "answerPrimary": "conclude / conclusion / come to a conclusion",
+      "answerAlts": [
+        "conclude",
+        "conclusion",
+        "in conclusion"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-129",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "具体的；混凝土",
+      "answerPrimary": "concrete",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-130",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "条件；状况",
+      "answerPrimary": "condition / on condition that",
+      "answerAlts": [
+        "condition",
+        "on condition that"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-131",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "谴责",
+      "answerPrimary": "condemn",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-132",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "行为；指挥；导休",
+      "answerPrimary": "conduct",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-133",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "会议；协商会",
+      "answerPrimary": "conference",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-134",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "自信的",
+      "answerPrimary": "confident / confidence / be confident of",
+      "answerAlts": [
+        "confident",
+        "confidence",
+        "be confident of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-135",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "确认；证实",
+      "answerPrimary": "confirm",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-136",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "冲突；矛盾",
+      "answerPrimary": "conflict with / conflict",
+      "answerAlts": [
+        "conflict",
+        "conflict with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-137",
+      "unitId": "12",
+      "type": "zh2en",
+      "prompt": "使困惑；混淆",
+      "answerPrimary": "confuse / be confused / confusion",
+      "answerAlts": [
+        "confuse",
+        "confused",
+        "confusion"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u12-138",
+      "unitId": "12",
+      "type": "cloze",
+      "prompt": "You must concentrate ____ your study.",
+      "answerPrimary": "on",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

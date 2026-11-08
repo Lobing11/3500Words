@@ -1,0 +1,633 @@
+{
+  "unitId": "33",
+  "name": "Unit 33 (lovely—means)",
+  "order": 33,
+  "items": [
+    {
+      "id": "u33-101",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "可爱的；美好的",
+      "answerPrimary": "lovely",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-102",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "运气好的 / 好运",
+      "answerPrimary": "lucky / luck",
+      "answerAlts": [
+        "lucky",
+        "luck",
+        "good luck"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-103",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "行李",
+      "answerPrimary": "luggage / baggage",
+      "answerAlts": [
+        "luggage",
+        "baggage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-104",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "对……狂热；生气",
+      "answerPrimary": "be mad about / be mad at",
+      "answerAlts": [
+        "be mad about",
+        "be mad at",
+        "drive sb mad"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-105",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "杂志",
+      "answerPrimary": "magazine",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-106",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "邮寄；邮件",
+      "answerPrimary": "mail / by mail",
+      "answerAlts": [
+        "mail",
+        "by mail"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-107",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "主要的；大陆",
+      "answerPrimary": "main / mainland",
+      "answerAlts": [
+        "main",
+        "mainland"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-108",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "主要的；多数",
+      "answerPrimary": "major / majority",
+      "answerAlts": [
+        "major",
+        "majority",
+        "the majority of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-109a",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "编造；组成；化妆",
+      "answerPrimary": "make up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u33-make"
+    },
+    {
+      "id": "u33-109b",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "辨认出；理解",
+      "answerPrimary": "make out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u33-make"
+    },
+    {
+      "id": "u33-109c",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "成功；赶上",
+      "answerPrimary": "make it",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u33-make"
+    },
+    {
+      "id": "u33-109d",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "利用",
+      "answerPrimary": "make use of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u33-make"
+    },
+    {
+      "id": "u33-109e",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "有意义；讲得通",
+      "answerPrimary": "make sense",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9e",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u33-make"
+    },
+    {
+      "id": "u33-110",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "设法做成……",
+      "answerPrimary": "manage to do",
+      "answerAlts": [
+        "succeed in doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-111",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "经理；管理者",
+      "answerPrimary": "manager",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-112",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "人类",
+      "answerPrimary": "mankind / human beings",
+      "answerAlts": [
+        "mankind",
+        "humankind"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-113",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "礼貌；方式",
+      "answerPrimary": "manners / table manners",
+      "answerAlts": [
+        "manners",
+        "table manners"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-114",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "标记；打分；留下印记",
+      "answerPrimary": "mark / make one's mark",
+      "answerAlts": [
+        "mark",
+        "make one's mark"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-115",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "市场；集市",
+      "answerPrimary": "market",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-116",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "与……结婚",
+      "answerPrimary": "marry sb / get married to",
+      "answerAlts": [
+        "marry",
+        "get married to",
+        "be married to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u33-117",
+      "unitId": "33",
+      "type": "word_form",
+      "prompt": "marry（名词）",
+      "answerPrimary": "marriage",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "marriage",
+          "alts": []
+        }
+      ],
+      "hint": "marry"
+    },
+    {
+      "id": "u33-118",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "面具；口罩",
+      "answerPrimary": "mask",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-119",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "大量的；群众",
+      "answerPrimary": "mass / the masses",
+      "answerAlts": [
+        "mass",
+        "a mass of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-120",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "掌握；主人；大师",
+      "answerPrimary": "master",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-121",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "相配；比赛；火柴",
+      "answerPrimary": "match",
+      "answerAlts": [
+        "be a match for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-122",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "材料；物质",
+      "answerPrimary": "material",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-123a",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "事实上",
+      "answerPrimary": "as a matter of fact",
+      "answerAlts": [
+        "in fact"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-matter"
+    },
+    {
+      "id": "u33-123b",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "无论什么",
+      "answerPrimary": "no matter what",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-matter"
+    },
+    {
+      "id": "u33-123c",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "有关系；要紧",
+      "answerPrimary": "matter / It doesn't matter",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-matter"
+    },
+    {
+      "id": "u33-124",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "成熟的",
+      "answerPrimary": "mature",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-125",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "最大值；最大的",
+      "answerPrimary": "maximum",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-126a",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "打算做……",
+      "answerPrimary": "mean to do",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-mean"
+    },
+    {
+      "id": "u33-126b",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "意味着做……",
+      "answerPrimary": "mean doing",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-mean"
+    },
+    {
+      "id": "u33-126c",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "用……方法；凭借",
+      "answerPrimary": "by means of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-mean"
+    },
+    {
+      "id": "u33-126d",
+      "unitId": "33",
+      "type": "phrase_cluster",
+      "prompt": "绝不；一点也不",
+      "answerPrimary": "by no means",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u33-mean"
+    },
+    {
+      "id": "u33-127",
+      "unitId": "33",
+      "type": "word_form",
+      "prompt": "mean（名词：意义）",
+      "answerPrimary": "meaning",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "meaning",
+          "alts": []
+        }
+      ],
+      "hint": "mean"
+    },
+    {
+      "id": "u33-128",
+      "unitId": "33",
+      "type": "zh2en",
+      "prompt": "手段；方法（单复数同形）",
+      "answerPrimary": "means",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-129",
+      "unitId": "33",
+      "type": "pattern",
+      "prompt": "无论发生什么，都不要放弃（no matter）",
+      "answerPrimary": "No matter what happens, never give up",
+      "answerAlts": [
+        "Whatever happens, never give up"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u33-130",
+      "unitId": "33",
+      "type": "cloze",
+      "prompt": "The majority ____ students prefer online learning.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "lovely",
+  "rangeTo": "means",
+  "wordsPerUnit": 50
+}

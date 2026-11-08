@@ -1,0 +1,672 @@
+{
+  "unitId": "18",
+  "name": "Unit 18 (dragon—elderly)",
+  "order": 18,
+  "rangeFrom": "dragon",
+  "rangeTo": "elderly",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u18-101",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "龙",
+      "answerPrimary": "dragon",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-102",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "画；吸引；抽签",
+      "answerPrimary": "draw / drawing / draw a conclusion",
+      "answerAlts": [
+        "draw",
+        "drawing",
+        "draw a conclusion"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-103",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "抽屉",
+      "answerPrimary": "drawer",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-104",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "梦；梦想",
+      "answerPrimary": "dream / dream of",
+      "answerAlts": [
+        "dream",
+        "dream of",
+        "dream about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-105",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "连衣裙；穿衣",
+      "answerPrimary": "dress / dress up",
+      "answerAlts": [
+        "dress",
+        "dress up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-106",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "训练；钻孔",
+      "answerPrimary": "drill",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-107",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "喝；饮料",
+      "answerPrimary": "drink",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-108",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "驾驶；开车",
+      "answerPrimary": "drive / driver",
+      "answerAlts": [
+        "drive",
+        "driver"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-109",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "落下；滴；放弃",
+      "answerPrimary": "drop / drop in / drop out",
+      "answerAlts": [
+        "drop",
+        "drop in",
+        "drop out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-110",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "淹死",
+      "answerPrimary": "drown",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-111",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "药；毒品",
+      "answerPrimary": "drug",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-112",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "鼓；醉的",
+      "answerPrimary": "drum / drunk",
+      "answerAlts": [
+        "drum",
+        "drunk"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-113",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "干的；干燥",
+      "answerPrimary": "dry",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-114",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "鸭子",
+      "answerPrimary": "duck",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-115",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "由于；到期的",
+      "answerPrimary": "due to / be due to",
+      "answerAlts": [
+        "due to",
+        "be due"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-116",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "乏味的；钝的",
+      "answerPrimary": "dull",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-117",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "饺子",
+      "answerPrimary": "dumpling",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-118",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "在……期间",
+      "answerPrimary": "during",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-119",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "黄昏；尘土",
+      "answerPrimary": "dusk / dust / dusty",
+      "answerAlts": [
+        "dusk",
+        "dust",
+        "dusty",
+        "at dusk"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u18-120",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "责任；关税",
+      "answerPrimary": "duty / on duty",
+      "answerAlts": [
+        "duty",
+        "on duty"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-121",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "动态的；有活力的",
+      "answerPrimary": "dynamic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-122",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "王朝",
+      "answerPrimary": "dynasty",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-123",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "每个；各自",
+      "answerPrimary": "each / each other",
+      "answerAlts": [
+        "each",
+        "each other"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-124",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "渴望的；热切的",
+      "answerPrimary": "eager / be eager to do / be eager for",
+      "answerAlts": [
+        "eager",
+        "be eager to",
+        "be eager for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-125",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "鹰",
+      "answerPrimary": "eagle",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-126",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "耳朵；早的",
+      "answerPrimary": "ear / early",
+      "answerAlts": [
+        "ear",
+        "early"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-127",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "赚；挣得",
+      "answerPrimary": "earn / earn a living",
+      "answerAlts": [
+        "earn",
+        "earn a living"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-128",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "地球；泥土",
+      "answerPrimary": "earth / on earth",
+      "answerAlts": [
+        "earth",
+        "on earth"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-129",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "地震",
+      "answerPrimary": "earthquake",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-130",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "东；东方的",
+      "answerPrimary": "east / eastern",
+      "answerAlts": [
+        "east",
+        "eastern"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-131",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "容易的；轻松的",
+      "answerPrimary": "easy / take it easy",
+      "answerAlts": [
+        "easy",
+        "take it easy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-132",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "吃",
+      "answerPrimary": "eat",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-133",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "生态学；边缘",
+      "answerPrimary": "ecology / edge / on the edge of",
+      "answerAlts": [
+        "ecology",
+        "edge",
+        "on the edge of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-134",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "版本；编辑",
+      "answerPrimary": "edition / editor / edit",
+      "answerAlts": [
+        "edition",
+        "editor",
+        "edit"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-135",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "教育",
+      "answerPrimary": "educate / education / educator",
+      "answerAlts": [
+        "educate",
+        "education",
+        "educator"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-136",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "影响；效果",
+      "answerPrimary": "effect / have an effect on / effective",
+      "answerAlts": [
+        "effect",
+        "have an effect on",
+        "effective"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-137",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "努力",
+      "answerPrimary": "effort / make an effort",
+      "answerAlts": [
+        "effort",
+        "make an effort"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-138",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "蛋；茄子",
+      "answerPrimary": "egg / eggplant",
+      "answerAlts": [
+        "egg",
+        "eggplant"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-139",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "要么……要么……；也",
+      "answerPrimary": "either / either ... or",
+      "answerAlts": [
+        "either",
+        "either or"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-140",
+      "unitId": "18",
+      "type": "zh2en",
+      "prompt": "年长的；前辈",
+      "answerPrimary": "elder / elderly",
+      "answerAlts": [
+        "elder",
+        "elderly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u18-141",
+      "unitId": "18",
+      "type": "cloze",
+      "prompt": "His success is largely due ____ hard work.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

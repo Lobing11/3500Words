@@ -520,7 +520,7 @@
       "rangeTo": "subjective",
       "wordsPerUnit": 50,
       "file": "unit_52.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "53",
@@ -530,7 +530,7 @@
       "rangeTo": "swim",
       "wordsPerUnit": 50,
       "file": "unit_53.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "54",
@@ -540,7 +540,7 @@
       "rangeTo": "textbook",
       "wordsPerUnit": 50,
       "file": "unit_54.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "55",
@@ -550,7 +550,7 @@
       "rangeTo": "tonight",
       "wordsPerUnit": 50,
       "file": "unit_55.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "56",
@@ -570,7 +570,7 @@
       "rangeTo": "various",
       "wordsPerUnit": 50,
       "file": "unit_57.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "58",
@@ -580,7 +580,7 @@
       "rangeTo": "water",
       "wordsPerUnit": 50,
       "file": "unit_58.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "59",
@@ -590,7 +590,7 @@
       "rangeTo": "wind",
       "wordsPerUnit": 50,
       "file": "unit_59.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "60",

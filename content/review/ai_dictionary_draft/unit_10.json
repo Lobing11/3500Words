@@ -1,0 +1,565 @@
+{
+  "unitId": "10",
+  "name": "Unit 10 (certificate—circuit)",
+  "order": 10,
+  "rangeFrom": "certificate",
+  "rangeTo": "circuit",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u10-101",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "证书；证明书",
+      "answerPrimary": "certificate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-102",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "链；链条",
+      "answerPrimary": "chain",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-103",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "椅子；主席",
+      "answerPrimary": "chair / chairman",
+      "answerAlts": [
+        "chair",
+        "chairman",
+        "chairwoman"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-104",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "粉笔",
+      "answerPrimary": "chalk",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-105",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "挑战 / 有挑战性的",
+      "answerPrimary": "challenge / challenging",
+      "answerAlts": [
+        "challenge",
+        "challenging"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-106",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "冠军",
+      "answerPrimary": "champion",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-107",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "机会；可能性",
+      "answerPrimary": "chance / by chance / take a chance",
+      "answerAlts": [
+        "chance",
+        "by chance",
+        "take a chance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-108a",
+      "unitId": "10",
+      "type": "phrase_cluster",
+      "prompt": "改变；变化",
+      "answerPrimary": "change",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u10-change"
+    },
+    {
+      "id": "u10-108b",
+      "unitId": "10",
+      "type": "phrase_cluster",
+      "prompt": "易变的",
+      "answerPrimary": "changeable",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u10-change"
+    },
+    {
+      "id": "u10-109",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "频道；渠道",
+      "answerPrimary": "channel",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-110",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "混乱",
+      "answerPrimary": "chaos",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-111",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "性格；角色；汉字",
+      "answerPrimary": "character / characteristic",
+      "answerAlts": [
+        "character",
+        "characteristic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-112",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "收费；掌管；充电",
+      "answerPrimary": "charge / in charge of / take charge of",
+      "answerAlts": [
+        "charge",
+        "in charge of",
+        "take charge of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-113",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "章节；章",
+      "answerPrimary": "chapter",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-114",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "图表；聊天",
+      "answerPrimary": "chart / chat",
+      "answerAlts": [
+        "chart",
+        "chat"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-115",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "便宜的",
+      "answerPrimary": "cheap",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-116",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "欺骗",
+      "answerPrimary": "cheat",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-117",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "检查；支票",
+      "answerPrimary": "check / cheque",
+      "answerAlts": [
+        "check",
+        "cheque"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-118",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "脸颊",
+      "answerPrimary": "cheek",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-119",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "欢呼；使振奋",
+      "answerPrimary": "cheer / cheer up / cheerful",
+      "answerAlts": [
+        "cheer",
+        "cheer up",
+        "cheerful"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u10-120",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "化学的；化学 / 化学家",
+      "answerPrimary": "chemical / chemistry / chemist",
+      "answerAlts": [
+        "chemical",
+        "chemistry",
+        "chemist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-121",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "国际象棋；胸膛",
+      "answerPrimary": "chess / chest",
+      "answerAlts": [
+        "chess",
+        "chest"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-122",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "咀嚼",
+      "answerPrimary": "chew",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-123",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "主要的；首领",
+      "answerPrimary": "chief",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-124",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "孩子；童年",
+      "answerPrimary": "child / children / childhood",
+      "answerAlts": [
+        "child",
+        "children",
+        "childhood"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-125",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "中国；中国的；汉语",
+      "answerPrimary": "China / Chinese",
+      "answerAlts": [
+        "China",
+        "Chinese"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-126",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "巧克力",
+      "answerPrimary": "chocolate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-127",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "选择",
+      "answerPrimary": "choice / choose",
+      "answerAlts": [
+        "choice",
+        "choose",
+        "make a choice"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-128",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "教堂",
+      "answerPrimary": "church",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-129",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "香烟；雪茄",
+      "answerPrimary": "cigarette / cigar",
+      "answerAlts": [
+        "cigarette",
+        "cigar"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-130",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "电影院",
+      "answerPrimary": "cinema / go to the cinema",
+      "answerAlts": [
+        "cinema",
+        "movie theater"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-131",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "圆；圈子；循环",
+      "answerPrimary": "circle / circulate",
+      "answerAlts": [
+        "circle",
+        "circulate"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-132",
+      "unitId": "10",
+      "type": "zh2en",
+      "prompt": "电路；巡回",
+      "answerPrimary": "circuit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-133",
+      "unitId": "10",
+      "type": "pattern",
+      "prompt": "由他负责这个项目",
+      "answerPrimary": "He is in charge of the project",
+      "answerAlts": [
+        "He takes charge of the project"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u10-134",
+      "unitId": "10",
+      "type": "cloze",
+      "prompt": "She cheered ____ when she heard the news.",
+      "answerPrimary": "up",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "up",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

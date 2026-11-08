@@ -1,0 +1,761 @@
+{
+  "unitId": "1",
+  "name": "Unit 1 (a—addicted)",
+  "order": 1,
+  "rangeFrom": "a",
+  "rangeTo": "addicted",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u1-101",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "一个；每一",
+      "answerPrimary": "a / an",
+      "answerAlts": [
+        "a",
+        "an"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-102",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "放弃；遗弃",
+      "answerPrimary": "abandon",
+      "answerAlts": [
+        "give up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-103",
+      "unitId": "1",
+      "type": "word_form",
+      "prompt": "able（名词）",
+      "answerPrimary": "ability",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "ability",
+          "alts": []
+        }
+      ],
+      "hint": "able"
+    },
+    {
+      "id": "u1-104",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "能够做……",
+      "answerPrimary": "be able to do",
+      "answerAlts": [
+        "be able to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-105",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "反常的",
+      "answerPrimary": "abnormal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-106",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "上船/飞机",
+      "answerPrimary": "aboard",
+      "answerAlts": [
+        "on board"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-107",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "废除",
+      "answerPrimary": "abolish",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-108a",
+      "unitId": "1",
+      "type": "phrase_cluster",
+      "prompt": "大约；关于",
+      "answerPrimary": "about",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u1-about"
+    },
+    {
+      "id": "u1-108b",
+      "unitId": "1",
+      "type": "phrase_cluster",
+      "prompt": "即将；正要",
+      "answerPrimary": "be about to do",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u1-about"
+    },
+    {
+      "id": "u1-109",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "在……上面；高于",
+      "answerPrimary": "above",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-110",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "在国外；到国外",
+      "answerPrimary": "abroad / go abroad",
+      "answerAlts": [
+        "abroad",
+        "go abroad"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-111",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "缺席；不在",
+      "answerPrimary": "absence / be absent from",
+      "answerAlts": [
+        "absence",
+        "be absent from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-112",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "绝对的；完全的",
+      "answerPrimary": "absolute / absolutely",
+      "answerAlts": [
+        "absolute",
+        "absolutely"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-113",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "吸收；使全神贯注",
+      "answerPrimary": "absorb / be absorbed in",
+      "answerAlts": [
+        "absorb",
+        "be absorbed in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-114",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "抽象的",
+      "answerPrimary": "abstract",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-115",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "荒谬的",
+      "answerPrimary": "absurd",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-116",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "丰富的；充裕的",
+      "answerPrimary": "abundant / be abundant in",
+      "answerAlts": [
+        "abundant",
+        "be abundant in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-117",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "滥用；虐待",
+      "answerPrimary": "abuse",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-118",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "学术的",
+      "answerPrimary": "academic",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-119",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "加速",
+      "answerPrimary": "accelerate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u1-120",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "口音；重音",
+      "answerPrimary": "accent",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-121",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "接受",
+      "answerPrimary": "accept",
+      "answerAlts": [
+        "receive"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-122",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "通道；进入；使用权",
+      "answerPrimary": "access / have access to",
+      "answerAlts": [
+        "access",
+        "have access to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-123",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "事故；意外",
+      "answerPrimary": "accident / by accident",
+      "answerAlts": [
+        "accident",
+        "by accident"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-124",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "住宿",
+      "answerPrimary": "accommodation",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-125",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "陪伴；伴随",
+      "answerPrimary": "accompany",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-126",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "完成；实现",
+      "answerPrimary": "accomplish",
+      "answerAlts": [
+        "achieve",
+        "complete"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-127a",
+      "unitId": "1",
+      "type": "phrase_cluster",
+      "prompt": "账户；描述",
+      "answerPrimary": "account",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u1-account"
+    },
+    {
+      "id": "u1-127b",
+      "unitId": "1",
+      "type": "phrase_cluster",
+      "prompt": "由于；因为",
+      "answerPrimary": "on account of",
+      "answerAlts": [
+        "because of"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u1-account"
+    },
+    {
+      "id": "u1-127c",
+      "unitId": "1",
+      "type": "phrase_cluster",
+      "prompt": "解释；说明",
+      "answerPrimary": "account for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u1-account"
+    },
+    {
+      "id": "u1-128",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "积累",
+      "answerPrimary": "accumulate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-129",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "准确的",
+      "answerPrimary": "accurate / accuracy",
+      "answerAlts": [
+        "accurate",
+        "accuracy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-130",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "指控；控告",
+      "answerPrimary": "accuse sb of",
+      "answerAlts": [
+        "accuse of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-131",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "习惯于",
+      "answerPrimary": "be accustomed to",
+      "answerAlts": [
+        "be used to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-132",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "疼痛",
+      "answerPrimary": "ache / headache",
+      "answerAlts": [
+        "ache",
+        "headache"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-133",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "达到；取得",
+      "answerPrimary": "achieve / achievement",
+      "answerAlts": [
+        "achieve",
+        "achievement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-134",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "承认",
+      "answerPrimary": "acknowledge",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-135",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "获得；学到",
+      "answerPrimary": "acquire",
+      "answerAlts": [
+        "obtain",
+        "gain"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-136",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "横过；穿过",
+      "answerPrimary": "across / come across",
+      "answerAlts": [
+        "across",
+        "come across"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-137",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "行动；表演",
+      "answerPrimary": "act / take action",
+      "answerAlts": [
+        "act",
+        "take action",
+        "action"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-138",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "积极的；活跃的",
+      "answerPrimary": "active / activity",
+      "answerAlts": [
+        "active",
+        "activity"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-139",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "实际上",
+      "answerPrimary": "actually / in fact",
+      "answerAlts": [
+        "actually",
+        "in fact"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-140",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "适应；改编",
+      "answerPrimary": "adapt to / adapt",
+      "answerAlts": [
+        "adapt to",
+        "adapt"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-141",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "增加；补充说",
+      "answerPrimary": "add / add to / add up to",
+      "answerAlts": [
+        "add",
+        "add to",
+        "add up to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-142",
+      "unitId": "1",
+      "type": "zh2en",
+      "prompt": "对……上瘾",
+      "answerPrimary": "be addicted to",
+      "answerAlts": [
+        "addicted to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-143",
+      "unitId": "1",
+      "type": "pattern",
+      "prompt": "正是努力使他成功（强调句）",
+      "answerPrimary": "It was hard work that made him succeed",
+      "answerAlts": [],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u1-144",
+      "unitId": "1",
+      "type": "cloze",
+      "prompt": "He was absent ____ class yesterday.",
+      "answerPrimary": "from",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "from",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

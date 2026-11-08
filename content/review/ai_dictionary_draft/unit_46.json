@@ -1,0 +1,850 @@
+{
+  "unitId": "46",
+  "name": "Unit 46 (resolution—routine)",
+  "order": 46,
+  "items": [
+    {
+      "id": "u46-101",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "下定决心；做出决定",
+      "answerPrimary": "make a resolution",
+      "answerAlts": [
+        "make up one's mind",
+        "resolve to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-102",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "新年决心",
+      "answerPrimary": "New Year's resolution",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-103",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "决心做……；解决（问题）",
+      "answerPrimary": "resolve to do / resolve a problem",
+      "answerAlts": [
+        "resolve to",
+        "resolve the problem"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-104",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "自然资源",
+      "answerPrimary": "natural resources",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-105",
+      "unitId": "46",
+      "type": "word_form",
+      "prompt": "resource（形容词：足智多谋的）",
+      "answerPrimary": "resourceful",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "resourceful",
+          "alts": []
+        }
+      ],
+      "hint": "resource"
+    },
+    {
+      "id": "u46-106",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "尊重；尊敬",
+      "answerPrimary": "show respect for",
+      "answerAlts": [
+        "have respect for",
+        "respect"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-107",
+      "unitId": "46",
+      "type": "cloze",
+      "prompt": "____ respect to / ____ respect ____（关于；至于）",
+      "answerPrimary": "with|to",
+      "answerAlts": [
+        "with respect to"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "with",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "to",
+          "alts": [
+            "of"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u46-108",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "分别地；各自地",
+      "answerPrimary": "respectively",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-109",
+      "unitId": "46",
+      "type": "cloze",
+      "prompt": "respond ____ the invitation",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u46-110",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "作为对……的回应",
+      "answerPrimary": "in response to",
+      "answerAlts": [
+        "as a response to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-111",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "对……负责",
+      "answerPrimary": "be responsible for",
+      "answerAlts": [
+        "take responsibility for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-112",
+      "unitId": "46",
+      "type": "word_form",
+      "prompt": "responsible（名词）",
+      "answerPrimary": "responsibility",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "responsibility",
+          "alts": []
+        }
+      ],
+      "hint": "responsible"
+    },
+    {
+      "id": "u46-113",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "其余的；剩余部分",
+      "answerPrimary": "the rest of",
+      "answerAlts": [
+        "the rest"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-114",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "处于静止；安息",
+      "answerPrimary": "at rest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-115",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "恢复；使复原",
+      "answerPrimary": "restore",
+      "answerAlts": [
+        "restore to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-116",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "被限制在；局限于",
+      "answerPrimary": "be restricted to",
+      "answerAlts": [
+        "be limited to",
+        "restrict to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-117a",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "结果；因此",
+      "answerPrimary": "as a result",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u46-result"
+    },
+    {
+      "id": "u46-117b",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "导致（结果）",
+      "answerPrimary": "result in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u46-result"
+    },
+    {
+      "id": "u46-117c",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "由……引起；起因于",
+      "answerPrimary": "result from",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u46-result"
+    },
+    {
+      "id": "u46-118",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "从……退休",
+      "answerPrimary": "retire from",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-119a",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "作为回报",
+      "answerPrimary": "in return",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u46-return"
+    },
+    {
+      "id": "u46-119b",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "返回；回到",
+      "answerPrimary": "return to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u46-return"
+    },
+    {
+      "id": "u46-120",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "复习；回顾",
+      "answerPrimary": "review",
+      "answerAlts": [
+        "go over",
+        "revise"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-121",
+      "unitId": "46",
+      "type": "word_form",
+      "prompt": "revise（名词）",
+      "answerPrimary": "revision",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "revision",
+          "alts": []
+        }
+      ],
+      "hint": "revise"
+    },
+    {
+      "id": "u46-122",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "革命 / 革命的",
+      "answerPrimary": "revolution / revolutionary",
+      "answerAlts": [
+        "revolution",
+        "revolutionary"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-123",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "作为对……的奖励",
+      "answerPrimary": "as a reward for",
+      "answerAlts": [
+        "reward sb for",
+        "in reward for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-124",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "押韵 / 节奏",
+      "answerPrimary": "rhyme / rhythm",
+      "answerAlts": [
+        "rhyme",
+        "rhythm"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-125",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "富含……",
+      "answerPrimary": "be rich in",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u46-126",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "摆脱；除去",
+      "answerPrimary": "get rid of",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-127",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "谜语；费解的事",
+      "answerPrimary": "riddle",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-128",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "立刻；马上",
+      "answerPrimary": "right away",
+      "answerAlts": [
+        "right now",
+        "at once",
+        "immediately"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-129",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "有权做……",
+      "answerPrimary": "have the right to do",
+      "answerAlts": [
+        "have a right to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-130",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "给某人打电话",
+      "answerPrimary": "ring sb up",
+      "answerAlts": [
+        "give sb a ring",
+        "call sb up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-131",
+      "unitId": "46",
+      "type": "word_form",
+      "prompt": "ripe（动词：成熟）",
+      "answerPrimary": "ripen",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "ripen",
+          "alts": []
+        }
+      ],
+      "hint": "ripe"
+    },
+    {
+      "id": "u46-132a",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "站起身来",
+      "answerPrimary": "rise to one's feet",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-rise"
+    },
+    {
+      "id": "u46-132b",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "引起；导致",
+      "answerPrimary": "give rise to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-rise"
+    },
+    {
+      "id": "u46-133a",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "冒着……的危险",
+      "answerPrimary": "at the risk of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-risk"
+    },
+    {
+      "id": "u46-133b",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "冒险；担风险",
+      "answerPrimary": "take a risk",
+      "answerAlts": [
+        "take risks"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-risk"
+    },
+    {
+      "id": "u46-133c",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "冒险做……",
+      "answerPrimary": "risk doing",
+      "answerAlts": [
+        "risk doing sth"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-risk"
+    },
+    {
+      "id": "u46-134",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "在旅途中；在公路上",
+      "answerPrimary": "on the road",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-135",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "抢劫某人某物",
+      "answerPrimary": "rob sb of sth",
+      "answerAlts": [
+        "rob someone of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#35",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-136",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "在……中起作用；扮演角色",
+      "answerPrimary": "play a role in",
+      "answerAlts": [
+        "play a part in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#36",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-137",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "卷起（袖子等）",
+      "answerPrimary": "roll up",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#37",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-138",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "给……腾出地方",
+      "answerPrimary": "make room for",
+      "answerAlts": [
+        "leave room for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#38",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-139",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "生根；扎根",
+      "answerPrimary": "take root",
+      "answerAlts": [
+        "take root in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#39",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-140",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "根本原因",
+      "answerPrimary": "the root cause",
+      "answerAlts": [
+        "root cause"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#40",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-141",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "大致说来；粗略地说",
+      "answerPrimary": "roughly speaking",
+      "answerAlts": [
+        "roughly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#41",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-142a",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "即将到来；在拐角处",
+      "answerPrimary": "round the corner",
+      "answerAlts": [
+        "around the corner"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#42a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-round"
+    },
+    {
+      "id": "u46-142b",
+      "unitId": "46",
+      "type": "phrase_cluster",
+      "prompt": "一年到头",
+      "answerPrimary": "all year round",
+      "answerAlts": [
+        "all the year round"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#42b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u46-round"
+    },
+    {
+      "id": "u46-143",
+      "unitId": "46",
+      "type": "zh2en",
+      "prompt": "日常事务；例行公事",
+      "answerPrimary": "daily routine",
+      "answerAlts": [
+        "routine"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#43",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u46-144",
+      "unitId": "46",
+      "type": "pattern",
+      "prompt": "正是他的责任感使他成功（强调句）",
+      "answerPrimary": "It was his sense of responsibility that made him succeed",
+      "answerAlts": [
+        "It is his sense of responsibility that makes him succeed"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#44",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "resolution",
+  "rangeTo": "routine",
+  "wordsPerUnit": 50
+}

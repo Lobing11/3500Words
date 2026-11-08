@@ -1,0 +1,602 @@
+{
+  "unitId": "30",
+  "name": "Unit 30 (invite—knee)",
+  "order": 30,
+  "items": [
+    {
+      "id": "u30-101",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "邀请某人做……",
+      "answerPrimary": "invite sb to do",
+      "answerAlts": [
+        "invite someone to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-102",
+      "unitId": "30",
+      "type": "word_form",
+      "prompt": "invite（名词）",
+      "answerPrimary": "invitation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "invitation",
+          "alts": []
+        }
+      ],
+      "hint": "invite"
+    },
+    {
+      "id": "u30-103",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "熨烫；解决（分歧）",
+      "answerPrimary": "iron / iron out",
+      "answerAlts": [
+        "iron",
+        "iron out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-104",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "岛屿",
+      "answerPrimary": "island",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-105",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "夹克；短上衣",
+      "answerPrimary": "jacket",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-106",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "果酱；堵塞",
+      "answerPrimary": "jam",
+      "answerAlts": [
+        "traffic jam"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-107",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "加入；参加（活动）",
+      "answerPrimary": "join in",
+      "answerAlts": [
+        "join",
+        "take part in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-108",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "和某人会合；与……汇合",
+      "answerPrimary": "join sb",
+      "answerAlts": [
+        "join someone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-109",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "开玩笑；笑话",
+      "answerPrimary": "joke / make a joke",
+      "answerAlts": [
+        "joke",
+        "make a joke",
+        "tell a joke"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-110",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "记者",
+      "answerPrimary": "journalist",
+      "answerAlts": [
+        "reporter"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-111",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "旅程；旅行",
+      "answerPrimary": "journey",
+      "answerAlts": [
+        "make a journey",
+        "go on a journey"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-112",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "欢乐；喜悦",
+      "answerPrimary": "joy",
+      "answerAlts": [
+        "to one's joy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-113",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "判断；评价；法官",
+      "answerPrimary": "judge",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-114",
+      "unitId": "30",
+      "type": "word_form",
+      "prompt": "judge（名词：判断力/判决）",
+      "answerPrimary": "judgement / judgment",
+      "answerAlts": [
+        "judgement",
+        "judgment"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "judgement / judgment",
+          "alts": [
+            "judgement",
+            "judgment"
+          ]
+        }
+      ],
+      "hint": "judge"
+    },
+    {
+      "id": "u30-115",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "根据……判断",
+      "answerPrimary": "judge by / judge from",
+      "answerAlts": [
+        "judge by",
+        "judge from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-116",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "初级的；年少的",
+      "answerPrimary": "junior",
+      "answerAlts": [
+        "be junior to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-117",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "公正；正义",
+      "answerPrimary": "justice",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u30-118a",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "跟上；不落后",
+      "answerPrimary": "keep up with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u30-keep"
+    },
+    {
+      "id": "u30-118b",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "远离；避开",
+      "answerPrimary": "keep away from",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u30-keep"
+    },
+    {
+      "id": "u30-118c",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "继续做……",
+      "answerPrimary": "keep on doing",
+      "answerAlts": [
+        "keep doing"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u30-keep"
+    },
+    {
+      "id": "u30-118d",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "阻止……做……",
+      "answerPrimary": "keep sb from doing",
+      "answerAlts": [
+        "prevent sb from doing"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u30-keep"
+    },
+    {
+      "id": "u30-119",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "……的关键；……的钥匙",
+      "answerPrimary": "the key to",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-120",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "键盘",
+      "answerPrimary": "keyboard",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-121",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "踢；踢球",
+      "answerPrimary": "kick",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-122",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "小孩；开玩笑",
+      "answerPrimary": "kid",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-123",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "千克；公里",
+      "answerPrimary": "kilogram / kilometer",
+      "answerAlts": [
+        "kilo",
+        "kilometre"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-124a",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "对……友好/和善",
+      "answerPrimary": "be kind to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u30-kind"
+    },
+    {
+      "id": "u30-124b",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "一种；有点儿",
+      "answerPrimary": "a kind of / kind of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u30-kind"
+    },
+    {
+      "id": "u30-124c",
+      "unitId": "30",
+      "type": "phrase_cluster",
+      "prompt": "善良；好意",
+      "answerPrimary": "kindness",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u30-kind"
+    },
+    {
+      "id": "u30-125",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "幼儿园",
+      "answerPrimary": "kindergarten",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-126",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "国王 / 王国",
+      "answerPrimary": "king / kingdom",
+      "answerAlts": [
+        "king",
+        "kingdom"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-127",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "亲吻；吻",
+      "answerPrimary": "kiss",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-128",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "厨房",
+      "answerPrimary": "kitchen",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-129",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "风筝",
+      "answerPrimary": "kite",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-130",
+      "unitId": "30",
+      "type": "zh2en",
+      "prompt": "膝盖；跪下",
+      "answerPrimary": "knee / on one's knees",
+      "answerAlts": [
+        "knee",
+        "on one's knees"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-131",
+      "unitId": "30",
+      "type": "pattern",
+      "prompt": "正是他的邀请改变了一切（强调句）",
+      "answerPrimary": "It was his invitation that changed everything",
+      "answerAlts": [],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u30-132",
+      "unitId": "30",
+      "type": "cloze",
+      "prompt": "Please keep the dog ____ the grass.",
+      "answerPrimary": "off",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "off",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "invite",
+  "rangeTo": "knee",
+  "wordsPerUnit": 50
+}

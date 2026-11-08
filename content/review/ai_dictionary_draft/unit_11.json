@@ -1,0 +1,607 @@
+{
+  "unitId": "11",
+  "name": "Unit 11 (circumstance—column)",
+  "order": 11,
+  "rangeFrom": "circumstance",
+  "rangeTo": "column",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u11-101",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "环境；情况；境遇",
+      "answerPrimary": "circumstance / under no circumstances",
+      "answerAlts": [
+        "circumstance",
+        "under no circumstances",
+        "in/under the circumstances"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-102",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "马戏团",
+      "answerPrimary": "circus",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-103",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "公民；市民",
+      "answerPrimary": "citizen",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-104",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "城市；市民的",
+      "answerPrimary": "city / civil / civilian",
+      "answerAlts": [
+        "city",
+        "civil",
+        "civilian"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-105",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "文明",
+      "answerPrimary": "civilization / civilisation",
+      "answerAlts": [
+        "civilization",
+        "civilisation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-106",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "拍手；鼓掌",
+      "answerPrimary": "clap",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-107",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "澄清；阐明",
+      "answerPrimary": "clarify",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-108",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "班级；课堂；古典的",
+      "answerPrimary": "class / classroom / classical",
+      "answerAlts": [
+        "class",
+        "classroom",
+        "classical"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-109",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "分类",
+      "answerPrimary": "classify",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-110",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "同学",
+      "answerPrimary": "classmate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-111",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "清洁的；打扫",
+      "answerPrimary": "clean / cleaner",
+      "answerAlts": [
+        "clean",
+        "cleaner"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-112",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "清楚的；清空",
+      "answerPrimary": "clear / clear up",
+      "answerAlts": [
+        "clear",
+        "clear up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-113",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "职员；书记员",
+      "answerPrimary": "clerk",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-114",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "聪明的",
+      "answerPrimary": "clever",
+      "answerAlts": [
+        "smart",
+        "intelligent"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-115",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "点击；气候",
+      "answerPrimary": "click / climate",
+      "answerAlts": [
+        "click",
+        "climate"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-116",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "攀爬；爬",
+      "answerPrimary": "climb",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-117",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "诊所；钟",
+      "answerPrimary": "clinic / clock",
+      "answerAlts": [
+        "clinic",
+        "clock"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-118",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "克隆",
+      "answerPrimary": "clone",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u11-119a",
+      "unitId": "11",
+      "type": "phrase_cluster",
+      "prompt": "关闭；接近",
+      "answerPrimary": "close",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u11-close"
+    },
+    {
+      "id": "u11-119b",
+      "unitId": "11",
+      "type": "phrase_cluster",
+      "prompt": "亲密的；靠近的",
+      "answerPrimary": "be close to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u11-close"
+    },
+    {
+      "id": "u11-120",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "布；衣服",
+      "answerPrimary": "cloth / clothing / clothes",
+      "answerAlts": [
+        "cloth",
+        "clothing",
+        "clothes"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-121",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "云；多云的",
+      "answerPrimary": "cloud / cloudy",
+      "answerAlts": [
+        "cloud",
+        "cloudy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-122",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "俱乐部；棍棒",
+      "answerPrimary": "club",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-123",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "笨拙的",
+      "answerPrimary": "clumsy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-124",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "教练；长途汽车",
+      "answerPrimary": "coach",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-125",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "煤；海岸",
+      "answerPrimary": "coal / coast",
+      "answerAlts": [
+        "coal",
+        "coast"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-126",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "外套；涂层",
+      "answerPrimary": "coat",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-127",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "咖啡；硬币",
+      "answerPrimary": "coffee / coin",
+      "answerAlts": [
+        "coffee",
+        "coin"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-128",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "冷的；感冒",
+      "answerPrimary": "cold / catch a cold",
+      "answerAlts": [
+        "cold",
+        "catch a cold"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-129",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "衣领；同事",
+      "answerPrimary": "collar / colleague",
+      "answerAlts": [
+        "collar",
+        "colleague"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-130",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "收集；收藏",
+      "answerPrimary": "collect / collection",
+      "answerAlts": [
+        "collect",
+        "collection"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-131",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "大学；学院",
+      "answerPrimary": "college",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-132",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "碰撞；冲突",
+      "answerPrimary": "collision",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-133",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "颜色；色彩",
+      "answerPrimary": "color / colour",
+      "answerAlts": [
+        "color",
+        "colour"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-134",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "梳子；梳理",
+      "answerPrimary": "comb",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-135",
+      "unitId": "11",
+      "type": "zh2en",
+      "prompt": "柱；专栏",
+      "answerPrimary": "column",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-136",
+      "unitId": "11",
+      "type": "pattern",
+      "prompt": "任何情况下都不要放弃",
+      "answerPrimary": "Under no circumstances should you give up",
+      "answerAlts": [
+        "Under no circumstances give up"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u11-137",
+      "unitId": "11",
+      "type": "cloze",
+      "prompt": "Please clear ____ the mess before you leave.",
+      "answerPrimary": "up",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "up",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "unitId": "39",
+  "name": "Unit 39 (pack—percent)",
+  "order": 39,
+  "items": [
+    {
+      "id": "u39-101",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "打包；收拾行李",
+      "answerPrimary": "pack up / pack",
+      "answerAlts": [
+        "pack up",
+        "pack"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-102",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "包裹；一包",
+      "answerPrimary": "package / a package of",
+      "answerAlts": [
+        "package",
+        "packet"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-103a",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "疼痛；痛苦",
+      "answerPrimary": "in pain",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-pain"
+    },
+    {
+      "id": "u39-103b",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "尽力；下苦功",
+      "answerPrimary": "take pains to do",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-pain"
+    },
+    {
+      "id": "u39-104",
+      "unitId": "39",
+      "type": "word_form",
+      "prompt": "pain（形容词）",
+      "answerPrimary": "painful",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "painful",
+          "alts": []
+        }
+      ],
+      "hint": "pain"
+    },
+    {
+      "id": "u39-105",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "绘画；油漆 / 画家",
+      "answerPrimary": "paint / painter / painting",
+      "answerAlts": [
+        "paint",
+        "painter",
+        "painting"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-106",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "一双；一对",
+      "answerPrimary": "a pair of",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-107",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "惊慌；恐慌",
+      "answerPrimary": "in panic / panic",
+      "answerAlts": [
+        "in panic",
+        "panic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-108",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "与……平行；类似",
+      "answerPrimary": "parallel to / parallel with",
+      "answerAlts": [
+        "parallel to",
+        "be parallel to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-109",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "包裹；邮包",
+      "answerPrimary": "parcel",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-110",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "原谅；请再说一遍",
+      "answerPrimary": "pardon / I beg your pardon",
+      "answerAlts": [
+        "pardon",
+        "I beg your pardon"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-111a",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "参加",
+      "answerPrimary": "take part in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-part"
+    },
+    {
+      "id": "u39-111b",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "在……中起作用",
+      "answerPrimary": "play a part in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-part"
+    },
+    {
+      "id": "u39-111c",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "多半；在很大程度上",
+      "answerPrimary": "for the most part",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-part"
+    },
+    {
+      "id": "u39-112",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "参与；参加",
+      "answerPrimary": "participate in",
+      "answerAlts": [
+        "take part in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-113a",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "尤其；特别",
+      "answerPrimary": "in particular",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-particular"
+    },
+    {
+      "id": "u39-113b",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "对……挑剔",
+      "answerPrimary": "be particular about",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u39-particular"
+    },
+    {
+      "id": "u39-114",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "兼职的",
+      "answerPrimary": "part-time",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u39-115a",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "经过；路过",
+      "answerPrimary": "pass by",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pass"
+    },
+    {
+      "id": "u39-115b",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "去世",
+      "answerPrimary": "pass away",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pass"
+    },
+    {
+      "id": "u39-115c",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "传递；传授",
+      "answerPrimary": "pass on",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pass"
+    },
+    {
+      "id": "u39-115d",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "通过考试",
+      "answerPrimary": "pass the exam",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pass"
+    },
+    {
+      "id": "u39-116",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "乘客；旅客",
+      "answerPrimary": "passenger",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-117",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "路人",
+      "answerPrimary": "passer-by",
+      "answerAlts": [
+        "passers-by"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-118",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "在过去；经过",
+      "answerPrimary": "in the past / walk past",
+      "answerAlts": [
+        "in the past",
+        "past"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-119",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "小路；道路",
+      "answerPrimary": "path",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-120",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "对……有耐心 / 耐心",
+      "answerPrimary": "be patient with / patience",
+      "answerAlts": [
+        "be patient with",
+        "patience"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-121",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "暂停；停顿",
+      "answerPrimary": "pause",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-122a",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "注意",
+      "answerPrimary": "pay attention to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pay"
+    },
+    {
+      "id": "u39-122b",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "为……付款",
+      "answerPrimary": "pay for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pay"
+    },
+    {
+      "id": "u39-122c",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "还清；得到回报",
+      "answerPrimary": "pay off",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pay"
+    },
+    {
+      "id": "u39-122d",
+      "unitId": "39",
+      "type": "phrase_cluster",
+      "prompt": "拜访",
+      "answerPrimary": "pay a visit to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u39-pay"
+    },
+    {
+      "id": "u39-123",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "体育课",
+      "answerPrimary": "P.E. / physical education",
+      "answerAlts": [
+        "P.E.",
+        "PE",
+        "physical education"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-124",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "和平；平静 / 和平的",
+      "answerPrimary": "peace / in peace / peaceful",
+      "answerAlts": [
+        "peace",
+        "in peace",
+        "peaceful"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-125",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "行人",
+      "answerPrimary": "pedestrian",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-126",
+      "unitId": "39",
+      "type": "zh2en",
+      "prompt": "百分之……",
+      "answerPrimary": "percent / per cent",
+      "answerAlts": [
+        "percent",
+        "per cent"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-127",
+      "unitId": "39",
+      "type": "pattern",
+      "prompt": "他花了很大力气才完成报告（take pains）",
+      "answerPrimary": "He took great pains to finish the report",
+      "answerAlts": [
+        "He took pains to finish the report"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u39-128",
+      "unitId": "39",
+      "type": "cloze",
+      "prompt": "Please pay attention ____ the spelling.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "pack",
+  "rangeTo": "percent",
+  "wordsPerUnit": 50
+}

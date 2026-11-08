@@ -1,0 +1,384 @@
+{
+  "unitId": "27",
+  "name": "Unit 27 (hike—ice)",
+  "order": 27,
+  "rangeFrom": "hike",
+  "rangeTo": "ice",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u27-101",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "远足；徒步旅行",
+      "answerPrimary": "hike / go hiking",
+      "answerAlts": [
+        "hike",
+        "go hiking"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-102",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "马；医院",
+      "answerPrimary": "horse / hospital",
+      "answerAlts": [
+        "horse",
+        "hospital"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-103",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "主人；主持人 / 女主人",
+      "answerPrimary": "host / hostess",
+      "answerAlts": [
+        "host",
+        "hostess"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-104",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "热的；热狗；酒店",
+      "answerPrimary": "hot / hot dog / hotel",
+      "answerAlts": [
+        "hot",
+        "hot dog",
+        "hotel"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-105",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "小时",
+      "answerPrimary": "hour / half an hour",
+      "answerAlts": [
+        "hour",
+        "half an hour"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-106",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "房子；家庭主妇；家务",
+      "answerPrimary": "house / housewife / housework",
+      "answerAlts": [
+        "house",
+        "housewife",
+        "housework"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-107",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "如何；然而",
+      "answerPrimary": "how / however",
+      "answerAlts": [
+        "how",
+        "however"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-108",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "嚎叫；怒号",
+      "answerPrimary": "howl",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-109",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "拥抱",
+      "answerPrimary": "hug",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-110",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "巨大的",
+      "answerPrimary": "huge",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-111",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "人类；人",
+      "answerPrimary": "human / human being",
+      "answerAlts": [
+        "human",
+        "human being"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-112",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "幽默；幽默的",
+      "answerPrimary": "humor / humour / humorous",
+      "answerAlts": [
+        "humor",
+        "humour",
+        "humorous"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-113",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "百",
+      "answerPrimary": "hundred / hundreds of",
+      "answerAlts": [
+        "hundred",
+        "hundreds of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-114",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "饥饿；饿的",
+      "answerPrimary": "hunger / hungry",
+      "answerAlts": [
+        "hunger",
+        "hungry"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-115",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "打猎；猎人",
+      "answerPrimary": "hunt / hunter / hunt for",
+      "answerAlts": [
+        "hunt",
+        "hunter",
+        "hunt for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-116",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "飓风",
+      "answerPrimary": "hurricane",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-117",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "匆忙；急忙",
+      "answerPrimary": "hurry / hurry up / in a hurry",
+      "answerAlts": [
+        "hurry",
+        "hurry up",
+        "in a hurry"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-118",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "伤害；使受伤",
+      "answerPrimary": "hurt",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-119",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "丈夫",
+      "answerPrimary": "husband",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u27-120",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "氢",
+      "answerPrimary": "hydrogen",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u27-121",
+      "unitId": "27",
+      "type": "zh2en",
+      "prompt": "冰",
+      "answerPrimary": "ice",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u27-122",
+      "unitId": "27",
+      "type": "pattern",
+      "prompt": "无论多难，都不要放弃",
+      "answerPrimary": "However hard it is, never give up",
+      "answerAlts": [
+        "No matter how hard it is, never give up"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u27-123",
+      "unitId": "27",
+      "type": "cloze",
+      "prompt": "She left in ____ hurry.",
+      "answerPrimary": "a",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "a",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

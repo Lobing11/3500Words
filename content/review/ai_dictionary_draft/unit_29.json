@@ -1,0 +1,498 @@
+{
+  "unitId": "29",
+  "name": "Unit 29 (initial—invest)",
+  "order": 29,
+  "rangeFrom": "initial",
+  "rangeTo": "invest",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u29-101",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "最初的；开始的",
+      "answerPrimary": "initial",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-102",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "伤害；损害",
+      "answerPrimary": "injure / injury / injured",
+      "answerAlts": [
+        "injure",
+        "injury",
+        "injured"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-103",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "墨水",
+      "answerPrimary": "ink",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-104",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "小旅馆；客栈",
+      "answerPrimary": "inn",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-105",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "无辜的；天真的",
+      "answerPrimary": "innocent",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-106",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "昆虫",
+      "answerPrimary": "insect",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-107",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "插入",
+      "answerPrimary": "insert",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-108",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "在……里面",
+      "answerPrimary": "inside",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-109",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "坚持",
+      "answerPrimary": "insist on / insist that",
+      "answerAlts": [
+        "insist on",
+        "insist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-110",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "检查；视察",
+      "answerPrimary": "inspect / inspection",
+      "answerAlts": [
+        "inspect",
+        "inspection"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-111",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "激励；鼓舞",
+      "answerPrimary": "inspire / inspiration / inspiring",
+      "answerAlts": [
+        "inspire",
+        "inspiration",
+        "inspiring"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-112",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "立刻的；瞬间的",
+      "answerPrimary": "instant / instantly",
+      "answerAlts": [
+        "instant",
+        "instantly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-113",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "代替；反而",
+      "answerPrimary": "instead / instead of",
+      "answerAlts": [
+        "instead",
+        "instead of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-114",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "学院；机构",
+      "answerPrimary": "institute / institution",
+      "answerAlts": [
+        "institute",
+        "institution"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-115",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "指导；说明；仪器",
+      "answerPrimary": "instruct / instruction / instrument",
+      "answerAlts": [
+        "instruct",
+        "instruction",
+        "instrument"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-116",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "保险；投保",
+      "answerPrimary": "insurance / insure",
+      "answerAlts": [
+        "insurance",
+        "insure"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-117",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "智力；聪明的",
+      "answerPrimary": "intelligence / intelligent",
+      "answerAlts": [
+        "intelligence",
+        "intelligent"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-118",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "打算；意图",
+      "answerPrimary": "intend to do / intention / be intended for",
+      "answerAlts": [
+        "intend",
+        "intention",
+        "be intended for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-119",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "兴趣；有趣的",
+      "answerPrimary": "interest / interesting / interested / take an interest in",
+      "answerAlts": [
+        "interest",
+        "interesting",
+        "interested",
+        "be interested in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u29-120",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "国际的",
+      "answerPrimary": "international",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-121",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "互联网",
+      "answerPrimary": "Internet / the Internet",
+      "answerAlts": [
+        "Internet",
+        "the Internet"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-122",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "口译员；翻译员",
+      "answerPrimary": "interpreter",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-123",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "打断；中断",
+      "answerPrimary": "interrupt",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-124",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "间隔；间歇",
+      "answerPrimary": "interval / at intervals",
+      "answerAlts": [
+        "interval",
+        "at intervals"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-125",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "采访；面试",
+      "answerPrimary": "interview",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-126",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "介绍；引进",
+      "answerPrimary": "introduce / introduction",
+      "answerAlts": [
+        "introduce",
+        "introduction",
+        "introduce A to B"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-127",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "发明；创造",
+      "answerPrimary": "invent / invention / inventor",
+      "answerAlts": [
+        "invent",
+        "invention",
+        "inventor"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-128",
+      "unitId": "29",
+      "type": "zh2en",
+      "prompt": "投资",
+      "answerPrimary": "invest / investment / invest in",
+      "answerAlts": [
+        "invest",
+        "investment",
+        "invest in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-129",
+      "unitId": "29",
+      "type": "pattern",
+      "prompt": "她坚持要马上出发",
+      "answerPrimary": "She insisted on leaving at once",
+      "answerAlts": [
+        "She insisted that we leave at once"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u29-130",
+      "unitId": "29",
+      "type": "cloze",
+      "prompt": "He insisted ____ paying the bill.",
+      "answerPrimary": "on",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

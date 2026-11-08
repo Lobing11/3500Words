@@ -1,0 +1,665 @@
+{
+  "unitId": "7",
+  "name": "Unit 7 (biscuit—branch)",
+  "order": 7,
+  "rangeFrom": "biscuit",
+  "rangeTo": "branch",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u7-101",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "饼干",
+      "answerPrimary": "biscuit / cookie",
+      "answerAlts": [
+        "biscuit",
+        "cookie"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-102",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "一点；咬",
+      "answerPrimary": "bit / a bit / bite",
+      "answerAlts": [
+        "bit",
+        "a bit",
+        "bite"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-103",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "黑色；黑板",
+      "answerPrimary": "black / blackboard",
+      "answerAlts": [
+        "black",
+        "blackboard"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-104",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "责备",
+      "answerPrimary": "blame / be to blame",
+      "answerAlts": [
+        "blame",
+        "be to blame",
+        "blame sb for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-105",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "空白的；空白",
+      "answerPrimary": "blank",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-106",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "毯子",
+      "answerPrimary": "blanket",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-107",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "流血",
+      "answerPrimary": "bleed",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-108",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "祝福；保佑",
+      "answerPrimary": "bless",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-109",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "盲的；盲目的",
+      "answerPrimary": "blind / be blind to",
+      "answerAlts": [
+        "blind",
+        "be blind to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-110",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "街区；堵塞；积木",
+      "answerPrimary": "block",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-111",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "血",
+      "answerPrimary": "blood",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-112",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "吹；打击",
+      "answerPrimary": "blow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-113",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "蓝色的；蓝天",
+      "answerPrimary": "blue",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-114",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "木板；董事会；上船",
+      "answerPrimary": "board / on board",
+      "answerAlts": [
+        "board",
+        "on board"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-115",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "船",
+      "answerPrimary": "boat / by boat",
+      "answerAlts": [
+        "boat",
+        "by boat"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-116",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "身体；主体",
+      "answerPrimary": "body",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-117",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "煮沸；沸点",
+      "answerPrimary": "boil",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-118",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "炸弹；轰炸",
+      "answerPrimary": "bomb",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-119",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "债券；联系；纽带",
+      "answerPrimary": "bond",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u7-120",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "骨头",
+      "answerPrimary": "bone",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-121",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "奖金；红利",
+      "answerPrimary": "bonus",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-122",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "书；预订",
+      "answerPrimary": "book / book a ticket",
+      "answerAlts": [
+        "book"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-123",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "繁荣；轰鸣",
+      "answerPrimary": "boom",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-124",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "靴子；行李箱",
+      "answerPrimary": "boot",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-125",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "边界；边境",
+      "answerPrimary": "border",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-126",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "无聊的；令人厌烦的",
+      "answerPrimary": "boring / bored",
+      "answerAlts": [
+        "boring",
+        "bored"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-127",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "出生；天生的",
+      "answerPrimary": "born / be born",
+      "answerAlts": [
+        "born",
+        "be born"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-128",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "借入",
+      "answerPrimary": "borrow",
+      "answerAlts": [
+        "lend"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-129",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "老板",
+      "answerPrimary": "boss",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-130",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "两者都",
+      "answerPrimary": "both / both ... and",
+      "answerAlts": [
+        "both",
+        "both and"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-131",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "烦扰；麻烦",
+      "answerPrimary": "bother",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-132",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "瓶子；底部",
+      "answerPrimary": "bottle / bottom",
+      "answerAlts": [
+        "bottle",
+        "bottom"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-133",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "弹跳；反弹",
+      "answerPrimary": "bounce",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-134",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "有义务的；绑定的",
+      "answerPrimary": "be bound to",
+      "answerAlts": [
+        "bound to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-135",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "边界；分界线",
+      "answerPrimary": "boundary",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-136",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "鞠躬；弓",
+      "answerPrimary": "bow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-137",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "碗",
+      "answerPrimary": "bowl",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-138",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "盒子；拳击",
+      "answerPrimary": "box / boxing",
+      "answerAlts": [
+        "box",
+        "boxing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-139",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "男孩；抵制",
+      "answerPrimary": "boy / boycott",
+      "answerAlts": [
+        "boy",
+        "boycott"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-140",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "大脑",
+      "answerPrimary": "brain",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-141",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "刹车；制动",
+      "answerPrimary": "brake",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-142",
+      "unitId": "7",
+      "type": "zh2en",
+      "prompt": "树枝；分部；分支",
+      "answerPrimary": "branch",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u7-143",
+      "unitId": "7",
+      "type": "cloze",
+      "prompt": "Who is ____ blame for the accident?",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

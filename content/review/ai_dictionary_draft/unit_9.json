@@ -1,0 +1,658 @@
+{
+  "unitId": "9",
+  "name": "Unit 9 (campus—certainly)",
+  "order": 9,
+  "rangeFrom": "campus",
+  "rangeTo": "certainly",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u9-101",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "校园",
+      "answerPrimary": "campus",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-102",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "加拿大；加拿大的",
+      "answerPrimary": "Canada / Canadian",
+      "answerAlts": [
+        "Canada",
+        "Canadian"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-103",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "运河",
+      "answerPrimary": "canal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-104",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "取消",
+      "answerPrimary": "cancel",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-105",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "癌症",
+      "answerPrimary": "cancer",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-106",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "候选人",
+      "answerPrimary": "candidate",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-107",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "蜡烛；糖果",
+      "answerPrimary": "candle / candy",
+      "answerAlts": [
+        "candle",
+        "candy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-108",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "食堂",
+      "answerPrimary": "canteen",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-109",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "帽子；首都；资本",
+      "answerPrimary": "cap / capital",
+      "answerAlts": [
+        "cap",
+        "capital"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-110",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "船长；上尉",
+      "answerPrimary": "captain",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-111",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "捕获；夺取",
+      "answerPrimary": "capture",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-112",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "碳",
+      "answerPrimary": "carbon",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-113a",
+      "unitId": "9",
+      "type": "phrase_cluster",
+      "prompt": "关心；在意",
+      "answerPrimary": "care / care about / care for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u9-care"
+    },
+    {
+      "id": "u9-113b",
+      "unitId": "9",
+      "type": "phrase_cluster",
+      "prompt": "小心的 / 粗心的",
+      "answerPrimary": "careful / careless",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u9-care"
+    },
+    {
+      "id": "u9-113c",
+      "unitId": "9",
+      "type": "phrase_cluster",
+      "prompt": "照顾；喜欢",
+      "answerPrimary": "take care of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u9-care"
+    },
+    {
+      "id": "u9-114",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "木匠；地毯",
+      "answerPrimary": "carpenter / carpet",
+      "answerAlts": [
+        "carpenter",
+        "carpet"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-115",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "运输工具；承运人",
+      "answerPrimary": "carrier / carriage",
+      "answerAlts": [
+        "carrier",
+        "carriage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u9-116a",
+      "unitId": "9",
+      "type": "phrase_cluster",
+      "prompt": "携带；运送",
+      "answerPrimary": "carry",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u9-carry"
+    },
+    {
+      "id": "u9-116b",
+      "unitId": "9",
+      "type": "phrase_cluster",
+      "prompt": "执行；实施",
+      "answerPrimary": "carry out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u9-carry"
+    },
+    {
+      "id": "u9-116c",
+      "unitId": "9",
+      "type": "phrase_cluster",
+      "prompt": "继续",
+      "answerPrimary": "carry on",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u9-carry"
+    },
+    {
+      "id": "u9-117",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "案例；箱子；情况",
+      "answerPrimary": "case / in case / in case of",
+      "answerAlts": [
+        "case",
+        "in case",
+        "in case of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-118",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "现金",
+      "answerPrimary": "cash",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-119",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "投掷；铸造；演员表",
+      "answerPrimary": "cast",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-120",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "城堡",
+      "answerPrimary": "castle",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-121",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "随意的；非正式的",
+      "answerPrimary": "casual",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-122",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "目录",
+      "answerPrimary": "catalog / catalogue",
+      "answerAlts": [
+        "catalog",
+        "catalogue"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-123",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "灾难；大祸",
+      "answerPrimary": "catastrophe",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-124",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "抓住；赶上",
+      "answerPrimary": "catch / catch up with",
+      "answerAlts": [
+        "catch",
+        "catch up with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-125",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "类别；范畴",
+      "answerPrimary": "category",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-126",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "迎合；满足……需要",
+      "answerPrimary": "cater to / cater for",
+      "answerAlts": [
+        "cater to",
+        "cater for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-127",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "牛（总称）",
+      "answerPrimary": "cattle",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-128",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "导致；原因",
+      "answerPrimary": "cause / cause and effect",
+      "answerAlts": [
+        "cause"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-129",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "谨慎；小心的",
+      "answerPrimary": "caution / cautious / be cautious about",
+      "answerAlts": [
+        "caution",
+        "cautious",
+        "be cautious about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-130",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "洞穴",
+      "answerPrimary": "cave",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-131",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "天花板",
+      "answerPrimary": "ceiling",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-132",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "庆祝",
+      "answerPrimary": "celebrate / celebration",
+      "answerAlts": [
+        "celebrate",
+        "celebration"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-133",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "细胞；电池；牢房",
+      "answerPrimary": "cell / cellphone",
+      "answerAlts": [
+        "cell",
+        "cellphone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-134",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "中心；中央的",
+      "answerPrimary": "center / central / centre",
+      "answerAlts": [
+        "center",
+        "centre",
+        "central"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-135",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "世纪",
+      "answerPrimary": "century",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-136",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "仪式",
+      "answerPrimary": "ceremony",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-137",
+      "unitId": "9",
+      "type": "zh2en",
+      "prompt": "确定的；肯定的",
+      "answerPrimary": "certain / certainly / make sure",
+      "answerAlts": [
+        "certain",
+        "certainly",
+        "be certain of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u9-138",
+      "unitId": "9",
+      "type": "cloze",
+      "prompt": "Take an umbrella in case ____ rain.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

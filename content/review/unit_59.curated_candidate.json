@@ -1,0 +1,423 @@
+{
+  "unitId": "59",
+  "name": "Unit 59 (watermelon—wind)",
+  "order": 59,
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u59-101",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "全神贯注于讲座",
+      "answerPrimary": "be wrapped up in the lecture",
+      "answerAlts": [
+        "be wrapped in the lecture",
+        "be absorbed in the lecture"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-102",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "____ the problem（全力解决问题）",
+      "answerPrimary": "wrestle with",
+      "answerAlts": [
+        "tackle",
+        "deal with"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit59-59-60#4",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "wrestle with",
+          "alts": [
+            "tackle",
+            "deal with"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u59-103",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "书面语",
+      "answerPrimary": "written language",
+      "answerAlts": [
+        "the written word"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-104",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "冤枉某人；对待某人不公",
+      "answerPrimary": "do sb wrong",
+      "answerAlts": [
+        "do wrong to sb"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-105",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "按年计算",
+      "answerPrimary": "by the year",
+      "answerAlts": [
+        "yearly",
+        "on a yearly basis"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-106",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "他被学校劝退/退学了",
+      "answerPrimary": "He was withdrawn from school",
+      "answerAlts": [
+        "withdraw from school"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-107",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "奏效；创造奇迹",
+      "answerPrimary": "work wonders",
+      "answerAlts": [
+        "do wonders",
+        "work miracles"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-108a",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "The little boy finished all the housework ____ himself.",
+      "answerPrimary": "by",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit59-59-60#10a",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "by",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u59-108b",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "You should fight ____ yourself.",
+      "answerPrimary": "for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit59-59-60#10b",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u59-108c",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "I want to have a bedroom ____ myself.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit59-59-60#10c",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u59-109",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "今天没有咖啡也行",
+      "answerPrimary": "I can do without coffee today",
+      "answerAlts": [
+        "do without"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-110",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "到底是什么让你哭了？",
+      "answerPrimary": "What in the world made you cry?",
+      "answerAlts": [
+        "on earth"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u59-111",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "在进行中",
+      "answerPrimary": "under way",
+      "answerAlts": [
+        "underway"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#13",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-112",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "经由；作为",
+      "answerPrimary": "by way of",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#14",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-113",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "即将成功；在通往成功的路上",
+      "answerPrimary": "be on the way to success",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#15a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-114",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "穿破；使精疲力竭",
+      "answerPrimary": "wear out",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#15b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-115",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "磨损",
+      "answerPrimary": "wear and tear",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-116",
+      "unitId": "59",
+      "type": "word_form",
+      "prompt": "wear（过去式/过去分词/形容词）",
+      "answerPrimary": "wore/worn/worn",
+      "answerAlts": [
+        "wore",
+        "worn"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit59-59-60#17",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "wore/worn/worn",
+          "alts": [
+            "wore",
+            "worn"
+          ]
+        }
+      ],
+      "hint": "wear"
+    },
+    {
+      "id": "u59-117",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "她在花园里除草",
+      "answerPrimary": "she is weeding in the garden",
+      "answerAlts": [
+        "weed the garden"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-118",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "流下痛苦的眼泪",
+      "answerPrimary": "shed bitter tears",
+      "answerAlts": [
+        "weep bitter tears"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-119",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "没有恰当管束，坏习惯会像野草一样蔓延",
+      "answerPrimary": "Without proper control, bad habits will grow like weeds",
+      "answerAlts": [
+        "grow like weeds"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-120",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "靠福利生活",
+      "answerPrimary": "manage on welfare",
+      "answerAlts": [
+        "live on welfare"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-121",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "成本超过了回报",
+      "answerPrimary": "The costs outweigh the rewards",
+      "answerAlts": [
+        "outweigh"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u59-122",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "他拥抱妻子，热泪盈眶",
+      "answerPrimary": "He hugged his wife, with tears in his eyes",
+      "answerAlts": [
+        "eyes filled with tears",
+        "tearfully"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit59-59-60#23",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "watermelon",
+  "rangeTo": "wind"
+}

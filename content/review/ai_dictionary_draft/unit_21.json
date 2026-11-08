@@ -1,0 +1,648 @@
+{
+  "unitId": "21",
+  "name": "Unit 21 (expensive—father)",
+  "order": 21,
+  "rangeFrom": "expensive",
+  "rangeTo": "father",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u21-101",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "昂贵的",
+      "answerPrimary": "expensive",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-102",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "经验；经历",
+      "answerPrimary": "experience / experienced",
+      "answerAlts": [
+        "experience",
+        "experienced"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-103",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "实验",
+      "answerPrimary": "experiment / do an experiment",
+      "answerAlts": [
+        "experiment",
+        "do an experiment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-104",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "专家",
+      "answerPrimary": "expert / be expert at",
+      "answerAlts": [
+        "expert",
+        "be expert at"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-105",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "解释",
+      "answerPrimary": "explain / explanation",
+      "answerAlts": [
+        "explain",
+        "explanation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-106",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "明确的；清楚的",
+      "answerPrimary": "explicit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-107",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "爆炸；爆发",
+      "answerPrimary": "explode / explosion",
+      "answerAlts": [
+        "explode",
+        "explosion"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-108",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "开发；剥削",
+      "answerPrimary": "exploit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-109",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "探索；探究",
+      "answerPrimary": "explore / exploration",
+      "answerAlts": [
+        "explore",
+        "exploration"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-110",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "出口；输出",
+      "answerPrimary": "export",
+      "answerAlts": [
+        "import"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-111",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "暴露；揭露",
+      "answerPrimary": "expose / be exposed to",
+      "answerAlts": [
+        "expose",
+        "be exposed to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-112",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "表达；快递",
+      "answerPrimary": "express / expression / express oneself",
+      "answerAlts": [
+        "express",
+        "expression"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-113",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "延伸；延期",
+      "answerPrimary": "extension / extend",
+      "answerAlts": [
+        "extension",
+        "extend"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-114",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "额外的；特别的",
+      "answerPrimary": "extra / extraordinary",
+      "answerAlts": [
+        "extra",
+        "extraordinary"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-115",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "极端的；极其",
+      "answerPrimary": "extreme / extremely",
+      "answerAlts": [
+        "extreme",
+        "extremely"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-116",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "眼睛；视力",
+      "answerPrimary": "eye / eyesight / keep an eye on",
+      "answerAlts": [
+        "eye",
+        "eyesight",
+        "keep an eye on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-117",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "面部的；面孔",
+      "answerPrimary": "face / facial / face to face / face up to",
+      "answerAlts": [
+        "face",
+        "facial",
+        "face to face",
+        "face up to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-118",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "事实；实际上",
+      "answerPrimary": "fact / in fact / as a matter of fact",
+      "answerAlts": [
+        "fact",
+        "in fact"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-119",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "工厂",
+      "answerPrimary": "factory",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u21-120",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "褪色；逐渐消失",
+      "answerPrimary": "fade",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-121",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "失败；不及格",
+      "answerPrimary": "fail / failure / fail to do",
+      "answerAlts": [
+        "fail",
+        "failure",
+        "fail to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-122",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "公平的；相当地",
+      "answerPrimary": "fair / fairly / fairness",
+      "answerAlts": [
+        "fair",
+        "fairly",
+        "fairness"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-123",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "信仰；信任",
+      "answerPrimary": "faith / faithful",
+      "answerAlts": [
+        "faith",
+        "faithful"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-124a",
+      "unitId": "21",
+      "type": "phrase_cluster",
+      "prompt": "落下；秋天",
+      "answerPrimary": "fall",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u21-fall"
+    },
+    {
+      "id": "u21-124b",
+      "unitId": "21",
+      "type": "phrase_cluster",
+      "prompt": "落后",
+      "answerPrimary": "fall behind",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u21-fall"
+    },
+    {
+      "id": "u21-124c",
+      "unitId": "21",
+      "type": "phrase_cluster",
+      "prompt": "跌倒；垮台",
+      "answerPrimary": "fall down / fall over",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u21-fall"
+    },
+    {
+      "id": "u21-125",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "假的；错误的",
+      "answerPrimary": "false",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-126",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "熟悉的",
+      "answerPrimary": "familiar / be familiar with / be familiar to",
+      "answerAlts": [
+        "familiar",
+        "be familiar with",
+        "be familiar to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-127",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "家庭；家族",
+      "answerPrimary": "family",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-128",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "著名的",
+      "answerPrimary": "famous / be famous for / be famous as",
+      "answerAlts": [
+        "famous",
+        "be famous for",
+        "be famous as"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-129",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "风扇；迷；幻想",
+      "answerPrimary": "fan / fancy / fantasy / fantastic",
+      "answerAlts": [
+        "fan",
+        "fancy",
+        "fantasy",
+        "fantastic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-130",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "远的；远至",
+      "answerPrimary": "far / so far / as far as",
+      "answerAlts": [
+        "far",
+        "so far",
+        "as far as"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-131",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "车费；票价",
+      "answerPrimary": "fare",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-132",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "农场；农民",
+      "answerPrimary": "farm / farmer",
+      "answerAlts": [
+        "farm",
+        "farmer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-133",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "更远的（距离）",
+      "answerPrimary": "farther",
+      "answerAlts": [
+        "further"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-134",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "快的；禁食",
+      "answerPrimary": "fast / fasten",
+      "answerAlts": [
+        "fast",
+        "fasten"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-135",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "胖的；脂肪",
+      "answerPrimary": "fat",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-136",
+      "unitId": "21",
+      "type": "zh2en",
+      "prompt": "父亲",
+      "answerPrimary": "father",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u21-137",
+      "unitId": "21",
+      "type": "cloze",
+      "prompt": "Are you familiar ____ this software?",
+      "answerPrimary": "with",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "with",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

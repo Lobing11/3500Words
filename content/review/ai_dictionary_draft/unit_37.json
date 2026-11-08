@@ -1,0 +1,612 @@
+{
+  "unitId": "37",
+  "name": "Unit 37 (noble—old)",
+  "order": 37,
+  "items": [
+    {
+      "id": "u37-101",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "高尚的；贵族的",
+      "answerPrimary": "noble",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-102",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "没有人",
+      "answerPrimary": "nobody / no one",
+      "answerAlts": [
+        "nobody",
+        "no one"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-103",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "点头",
+      "answerPrimary": "nod / nod to",
+      "answerAlts": [
+        "nod",
+        "nod to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-104",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "噪音；嘈杂 / 吵闹的",
+      "answerPrimary": "noise / noisy",
+      "answerAlts": [
+        "noise",
+        "noisy",
+        "make a noise"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-105",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "一个也没有；毫无",
+      "answerPrimary": "none of",
+      "answerAlts": [
+        "none"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-106",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "中午",
+      "answerPrimary": "at noon / noon",
+      "answerAlts": [
+        "at noon",
+        "noon"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-107",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "正常的",
+      "answerPrimary": "normal",
+      "answerAlts": [
+        "return to normal"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-108",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "北方；北部的",
+      "answerPrimary": "north / northern",
+      "answerAlts": [
+        "north",
+        "northern"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-109a",
+      "unitId": "37",
+      "type": "phrase_cluster",
+      "prompt": "做笔记",
+      "answerPrimary": "take notes",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u37-note"
+    },
+    {
+      "id": "u37-109b",
+      "unitId": "37",
+      "type": "phrase_cluster",
+      "prompt": "记下",
+      "answerPrimary": "note down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u37-note"
+    },
+    {
+      "id": "u37-110",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "只有；只不过",
+      "answerPrimary": "nothing but",
+      "answerAlts": [
+        "only",
+        "just"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-111",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "注意到；通知",
+      "answerPrimary": "notice / take notice of",
+      "answerAlts": [
+        "notice",
+        "take notice of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-112",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "小说 / 小说家",
+      "answerPrimary": "novel / novelist",
+      "answerAlts": [
+        "novel",
+        "novelist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-113",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "如今；时下",
+      "answerPrimary": "nowadays",
+      "answerAlts": [
+        "these days"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-114",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "无处；到处都不",
+      "answerPrimary": "nowhere",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-115",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "核的；核能的",
+      "answerPrimary": "nuclear",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-116a",
+      "unitId": "37",
+      "type": "phrase_cluster",
+      "prompt": "许多（谓语复数）",
+      "answerPrimary": "a number of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u37-number"
+    },
+    {
+      "id": "u37-116b",
+      "unitId": "37",
+      "type": "phrase_cluster",
+      "prompt": "……的数目（谓语单数）",
+      "answerPrimary": "the number of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u37-number"
+    },
+    {
+      "id": "u37-117",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "护士 / 托儿所",
+      "answerPrimary": "nurse / nursery",
+      "answerAlts": [
+        "nurse",
+        "nursery"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u37-118",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "服从；听从",
+      "answerPrimary": "obey",
+      "answerAlts": [
+        "obey the rules"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-119",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "反对；不喜欢",
+      "answerPrimary": "object to",
+      "answerAlts": [
+        "be opposed to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-120",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "观察；遵守；庆祝",
+      "answerPrimary": "observe",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-121",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "获得；得到",
+      "answerPrimary": "obtain",
+      "answerAlts": [
+        "get",
+        "gain"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-122",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "明显的",
+      "answerPrimary": "obvious",
+      "answerAlts": [
+        "It is obvious that"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-123",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "职业；占用",
+      "answerPrimary": "occupation / occupy",
+      "answerAlts": [
+        "occupation",
+        "occupy",
+        "be occupied with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-124",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "发生；突然想起",
+      "answerPrimary": "occur / occur to",
+      "answerAlts": [
+        "occur",
+        "It occurred to me that"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-125",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "海洋",
+      "answerPrimary": "ocean",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-126",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "冒犯；得罪",
+      "answerPrimary": "offense / offend",
+      "answerAlts": [
+        "offence",
+        "offend",
+        "offense"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-127a",
+      "unitId": "37",
+      "type": "phrase_cluster",
+      "prompt": "提供；主动提出",
+      "answerPrimary": "offer to do",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u37-offer"
+    },
+    {
+      "id": "u37-127b",
+      "unitId": "37",
+      "type": "phrase_cluster",
+      "prompt": "给某人提供某物",
+      "answerPrimary": "offer sb sth",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u37-offer"
+    },
+    {
+      "id": "u37-128",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "办公室 / 官员 / 官方的",
+      "answerPrimary": "office / officer / official",
+      "answerAlts": [
+        "office",
+        "officer",
+        "official"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-129",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "经常；常常",
+      "answerPrimary": "often",
+      "answerAlts": [
+        "frequently"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-130",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "油；石油",
+      "answerPrimary": "oil",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-131",
+      "unitId": "37",
+      "type": "zh2en",
+      "prompt": "年老的；……岁的",
+      "answerPrimary": "old / ... years old",
+      "answerAlts": [
+        "old"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-132",
+      "unitId": "37",
+      "type": "pattern",
+      "prompt": "我突然想到一个好主意（occur to）",
+      "answerPrimary": "A good idea occurred to me",
+      "answerAlts": [
+        "It occurred to me that I had a good idea"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u37-133",
+      "unitId": "37",
+      "type": "cloze",
+      "prompt": "A number of students ____ (be) absent today.",
+      "answerPrimary": "are",
+      "answerAlts": [],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "are",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u37-134",
+      "unitId": "37",
+      "type": "cloze",
+      "prompt": "The number of students ____ (be) 50.",
+      "answerPrimary": "is",
+      "answerAlts": [],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "is",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "noble",
+  "rangeTo": "old",
+  "wordsPerUnit": 50
+}

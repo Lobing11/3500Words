@@ -1,0 +1,701 @@
+{
+  "unitId": "14",
+  "name": "Unit 14 (cotton—cycle)",
+  "order": 14,
+  "rangeFrom": "cotton",
+  "rangeTo": "cycle",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u14-101",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "棉花",
+      "answerPrimary": "cotton",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-102",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "咳嗽",
+      "answerPrimary": "cough",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-103",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "能够；可以（过去式）",
+      "answerPrimary": "could",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-104",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "数；重要",
+      "answerPrimary": "count / count on",
+      "answerAlts": [
+        "count",
+        "count on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-105",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "柜台；相反的",
+      "answerPrimary": "counter",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-106",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "国家；乡下",
+      "answerPrimary": "country / countryside",
+      "answerAlts": [
+        "country",
+        "countryside"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-107",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "一对；夫妇",
+      "answerPrimary": "couple / a couple of",
+      "answerAlts": [
+        "couple",
+        "a couple of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-108",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "勇气；勇敢",
+      "answerPrimary": "courage / encourage",
+      "answerAlts": [
+        "courage",
+        "encourage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-109",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "课程；过程；一道菜",
+      "answerPrimary": "course / of course / in the course of",
+      "answerAlts": [
+        "course",
+        "of course",
+        "in the course of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-110",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "法院；球场；院子",
+      "answerPrimary": "court / courtyard",
+      "answerAlts": [
+        "court",
+        "courtyard"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-111",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "堂表亲",
+      "answerPrimary": "cousin",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-112a",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "覆盖；涉及",
+      "answerPrimary": "cover",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u14-cover"
+    },
+    {
+      "id": "u14-112b",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "掩盖；盖住",
+      "answerPrimary": "cover up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u14-cover"
+    },
+    {
+      "id": "u14-113",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "奶牛",
+      "answerPrimary": "cow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-114",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "坠毁；碰撞",
+      "answerPrimary": "crash",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-115",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "蜡笔",
+      "answerPrimary": "crayon",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-116",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "疯狂的",
+      "answerPrimary": "crazy / be crazy about",
+      "answerAlts": [
+        "crazy",
+        "be crazy about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-117",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "奶油；乳脂",
+      "answerPrimary": "cream",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-118",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "创造；生物",
+      "answerPrimary": "create / creature / creative",
+      "answerAlts": [
+        "create",
+        "creature",
+        "creative",
+        "creation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-119",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "信用；学分；荣誉",
+      "answerPrimary": "credit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u14-120",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "全体船员；一组工作人员",
+      "answerPrimary": "crew",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-121",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "犯罪；罪犯",
+      "answerPrimary": "crime / criminal",
+      "answerAlts": [
+        "crime",
+        "criminal"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-122",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "标准；准则",
+      "answerPrimary": "criterion / criteria",
+      "answerAlts": [
+        "criterion",
+        "criteria"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-123",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "庄稼；作物",
+      "answerPrimary": "crop",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-124a",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "穿过；交叉",
+      "answerPrimary": "cross",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u14-cross"
+    },
+    {
+      "id": "u14-124b",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "人行横道；十字路口",
+      "answerPrimary": "crossing / crossroads",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u14-cross"
+    },
+    {
+      "id": "u14-125",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "人群；拥挤",
+      "answerPrimary": "crowd / crowded",
+      "answerAlts": [
+        "crowd",
+        "crowded"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-126",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "残忍的",
+      "answerPrimary": "cruel",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-127",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "哭；喊叫",
+      "answerPrimary": "cry",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-128",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "立方体；立方的",
+      "answerPrimary": "cube / cubic",
+      "answerAlts": [
+        "cube",
+        "cubic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-129",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "菜肴；烹饪",
+      "answerPrimary": "cuisine",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-130",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "文化",
+      "answerPrimary": "culture / cultural",
+      "answerAlts": [
+        "culture",
+        "cultural"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-131",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "杯子；橱柜",
+      "answerPrimary": "cup / cupboard",
+      "answerAlts": [
+        "cup",
+        "cupboard"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-132",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "治愈；治疗",
+      "answerPrimary": "cure / cure sb of",
+      "answerAlts": [
+        "cure",
+        "cure of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-133",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "好奇的",
+      "answerPrimary": "curious / be curious about / curiosity",
+      "answerAlts": [
+        "curious",
+        "curiosity",
+        "be curious about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-134",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "货币；通货",
+      "answerPrimary": "currency",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-135",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "课程（学校）",
+      "answerPrimary": "curriculum",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-136",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "窗帘；垫子",
+      "answerPrimary": "curtain / cushion",
+      "answerAlts": [
+        "curtain",
+        "cushion"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-137",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "风俗；海关；顾客",
+      "answerPrimary": "custom / customs / customer",
+      "answerAlts": [
+        "custom",
+        "customs",
+        "customer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-138a",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "切；割",
+      "answerPrimary": "cut",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u14-cut"
+    },
+    {
+      "id": "u14-138b",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "切断；使孤立",
+      "answerPrimary": "cut off",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u14-cut"
+    },
+    {
+      "id": "u14-138c",
+      "unitId": "14",
+      "type": "phrase_cluster",
+      "prompt": "删减；削减",
+      "answerPrimary": "cut down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u14-cut"
+    },
+    {
+      "id": "u14-139",
+      "unitId": "14",
+      "type": "zh2en",
+      "prompt": "循环；骑自行车",
+      "answerPrimary": "cycle / cyclist",
+      "answerAlts": [
+        "cycle",
+        "cyclist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u14-140",
+      "unitId": "14",
+      "type": "cloze",
+      "prompt": "You can count ____ me.",
+      "answerPrimary": "on",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

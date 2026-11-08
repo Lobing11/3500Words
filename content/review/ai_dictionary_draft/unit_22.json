@@ -1,0 +1,809 @@
+{
+  "unitId": "22",
+  "name": "Unit 22 (farther—flour)",
+  "order": 22,
+  "rangeFrom": "farther",
+  "rangeTo": "flour",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u22-101",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "更远；进一步（引申）",
+      "answerPrimary": "further / furthermore",
+      "answerAlts": [
+        "further",
+        "furthermore"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-102",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "过错；缺点",
+      "answerPrimary": "fault / find fault with",
+      "answerAlts": [
+        "fault",
+        "find fault with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-103",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "赞成；偏爱",
+      "answerPrimary": "favor / favourite / favorite / in favor of",
+      "answerAlts": [
+        "favor",
+        "favour",
+        "favorite",
+        "favourite",
+        "in favor of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-104",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "传真",
+      "answerPrimary": "fax",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-105",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "害怕；恐惧",
+      "answerPrimary": "fear / for fear of",
+      "answerAlts": [
+        "fear",
+        "for fear of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-106",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "盛宴；节日",
+      "answerPrimary": "feast / festival",
+      "answerAlts": [
+        "feast",
+        "festival"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-107",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "羽毛",
+      "answerPrimary": "feather",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-108",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "联邦的；费用",
+      "answerPrimary": "federal / fee",
+      "answerAlts": [
+        "federal",
+        "fee"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-109",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "喂养；饲养",
+      "answerPrimary": "feed / feed on",
+      "answerAlts": [
+        "feed",
+        "feed on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-110",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "感觉；感情",
+      "answerPrimary": "feel / feeling / feel like doing",
+      "answerAlts": [
+        "feel",
+        "feeling",
+        "feel like"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-111",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "同伴；家伙",
+      "answerPrimary": "fellow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-112",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "女性的；雌性的",
+      "answerPrimary": "female",
+      "answerAlts": [
+        "male"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-113",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "栅栏；渡船",
+      "answerPrimary": "fence / ferry",
+      "answerAlts": [
+        "fence",
+        "ferry"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-114",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "取来；请来",
+      "answerPrimary": "fetch",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-115",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "发烧；狂热",
+      "answerPrimary": "fever",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-116",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "少数；很少",
+      "answerPrimary": "few / a few",
+      "answerAlts": [
+        "few",
+        "a few"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-117",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "纤维；光纤",
+      "answerPrimary": "fibre / fiber",
+      "answerAlts": [
+        "fibre",
+        "fiber"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-118",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "小说；虚构",
+      "answerPrimary": "fiction",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-119",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "田野；领域",
+      "answerPrimary": "field / in the field of",
+      "answerAlts": [
+        "field",
+        "in the field of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u22-120",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "激烈的；凶猛的",
+      "answerPrimary": "fierce",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-121",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "战斗；打架",
+      "answerPrimary": "fight / fight for / fight against",
+      "answerAlts": [
+        "fight",
+        "fight for",
+        "fight against"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-122",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "数字；人物；体型",
+      "answerPrimary": "figure / figure out",
+      "answerAlts": [
+        "figure",
+        "figure out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-123",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "文件；档案",
+      "answerPrimary": "file",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-124",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "填满；充满",
+      "answerPrimary": "fill / fill in / fill out / be filled with",
+      "answerAlts": [
+        "fill",
+        "fill in",
+        "fill out",
+        "be filled with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-125",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "电影；胶片",
+      "answerPrimary": "film",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-126",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "最终的；决赛",
+      "answerPrimary": "final / finally",
+      "answerAlts": [
+        "final",
+        "finally"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-127",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "财政；金融",
+      "answerPrimary": "finance / financial",
+      "answerAlts": [
+        "finance",
+        "financial"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-128",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "找到；发现",
+      "answerPrimary": "find / find out",
+      "answerAlts": [
+        "find",
+        "find out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-129",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "好的；罚款；晴朗的",
+      "answerPrimary": "fine",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-130",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "手指；指甲",
+      "answerPrimary": "finger / fingernail",
+      "answerAlts": [
+        "finger",
+        "fingernail"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-131",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "完成",
+      "answerPrimary": "finish / finish doing",
+      "answerAlts": [
+        "finish"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-132",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "火；火灾；解雇",
+      "answerPrimary": "fire / catch fire / set fire to / on fire",
+      "answerAlts": [
+        "fire",
+        "catch fire",
+        "set fire to",
+        "on fire"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-133",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "烟火",
+      "answerPrimary": "fireworks",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-134",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "公司；坚固的",
+      "answerPrimary": "firm",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-135",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "第一；首先",
+      "answerPrimary": "first / first of all / at first",
+      "answerAlts": [
+        "first",
+        "first of all",
+        "at first"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-136",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "鱼；渔夫",
+      "answerPrimary": "fish / fisherman",
+      "answerAlts": [
+        "fish",
+        "fisherman"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-137",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "拳头",
+      "answerPrimary": "fist",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-138",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "适合；健康的",
+      "answerPrimary": "fit / be fit for / keep fit",
+      "answerAlts": [
+        "fit",
+        "be fit for",
+        "keep fit"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-139",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "固定；修理",
+      "answerPrimary": "fix",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-140",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "旗；旗帜",
+      "answerPrimary": "flag",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-141",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "火焰；闪烁",
+      "answerPrimary": "flame / flash / flashlight",
+      "answerAlts": [
+        "flame",
+        "flash",
+        "flashlight"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-142",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "平坦的；公寓",
+      "answerPrimary": "flat",
+      "answerAlts": [
+        "apartment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-143",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "逃跑；逃离",
+      "answerPrimary": "flee",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-144",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "灵活的",
+      "answerPrimary": "flexible",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-145",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "肉；肉体",
+      "answerPrimary": "flesh",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#145",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-146",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "飞行；航班",
+      "answerPrimary": "flight",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#146",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-147",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "漂浮；洪水",
+      "answerPrimary": "float / flood",
+      "answerAlts": [
+        "float",
+        "flood"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#147",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-148",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "地板；楼层",
+      "answerPrimary": "floor",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#148",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-149",
+      "unitId": "22",
+      "type": "zh2en",
+      "prompt": "面粉",
+      "answerPrimary": "flour",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#149",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u22-150",
+      "unitId": "22",
+      "type": "cloze",
+      "prompt": "I can't figure ____ what he means.",
+      "answerPrimary": "out",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#150",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "out",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

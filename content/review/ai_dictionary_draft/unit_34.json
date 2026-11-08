@@ -1,0 +1,631 @@
+{
+  "unitId": "34",
+  "name": "Unit 34 (measure—mist)",
+  "order": 34,
+  "items": [
+    {
+      "id": "u34-101",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "采取措施做……",
+      "answerPrimary": "take measures to do",
+      "answerAlts": [
+        "take steps to do",
+        "take action to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-102",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "奖牌；奖章",
+      "answerPrimary": "medal",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-103",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "媒体；媒介",
+      "answerPrimary": "media / medium",
+      "answerAlts": [
+        "media",
+        "medium"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-104",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "医疗的 / 药",
+      "answerPrimary": "medical / medicine",
+      "answerAlts": [
+        "medical",
+        "medicine"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-105",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "遇见；满足（需求）",
+      "answerPrimary": "meet / meet the needs of",
+      "answerAlts": [
+        "meet",
+        "meet with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-106",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "会议；集会",
+      "answerPrimary": "meeting",
+      "answerAlts": [
+        "hold a meeting"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-107",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "成员；会员",
+      "answerPrimary": "member",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-108",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "为纪念……",
+      "answerPrimary": "in memory of",
+      "answerAlts": [
+        "in honour of",
+        "in honor of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-109",
+      "unitId": "34",
+      "type": "word_form",
+      "prompt": "memory（复数）",
+      "answerPrimary": "memories",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "memories",
+          "alts": []
+        }
+      ],
+      "hint": "memory"
+    },
+    {
+      "id": "u34-110",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "修理；修补",
+      "answerPrimary": "mend",
+      "answerAlts": [
+        "repair"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-111",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "精神的；心理的",
+      "answerPrimary": "mental",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-112",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "提到；更不用说",
+      "answerPrimary": "mention / not to mention",
+      "answerAlts": [
+        "mention",
+        "not to mention"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-113",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "菜单",
+      "answerPrimary": "menu",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-114",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "商人",
+      "answerPrimary": "merchant",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-115a",
+      "unitId": "34",
+      "type": "phrase_cluster",
+      "prompt": "任由……摆布",
+      "answerPrimary": "at the mercy of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u34-mercy"
+    },
+    {
+      "id": "u34-115b",
+      "unitId": "34",
+      "type": "phrase_cluster",
+      "prompt": "怜悯；宽恕",
+      "answerPrimary": "show mercy to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u34-mercy"
+    },
+    {
+      "id": "u34-116",
+      "unitId": "34",
+      "type": "word_form",
+      "prompt": "mercy（形容词）",
+      "answerPrimary": "merciful",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "merciful",
+          "alts": []
+        }
+      ],
+      "hint": "mercy"
+    },
+    {
+      "id": "u34-117",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "仅仅；只不过",
+      "answerPrimary": "merely / only",
+      "answerAlts": [
+        "merely",
+        "only",
+        "just"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-118",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "混乱；一团糟",
+      "answerPrimary": "mess / in a mess",
+      "answerAlts": [
+        "mess",
+        "in a mess",
+        "messy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u34-119",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "留言；信息",
+      "answerPrimary": "message / leave a message",
+      "answerAlts": [
+        "message",
+        "leave a message"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-120",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "方法；办法",
+      "answerPrimary": "method",
+      "answerAlts": [
+        "way",
+        "approach"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-121",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "在……中间",
+      "answerPrimary": "in the middle of",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-122",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "午夜；半夜",
+      "answerPrimary": "at midnight / midnight",
+      "answerAlts": [
+        "at midnight",
+        "midnight"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-123",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "可能；也许（情态）",
+      "answerPrimary": "might",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-124",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "温和的；轻微的",
+      "answerPrimary": "mild",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-125",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "百万富翁",
+      "answerPrimary": "millionaire",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-126a",
+      "unitId": "34",
+      "type": "phrase_cluster",
+      "prompt": "介意；当心",
+      "answerPrimary": "mind / Never mind",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u34-mind"
+    },
+    {
+      "id": "u34-126b",
+      "unitId": "34",
+      "type": "phrase_cluster",
+      "prompt": "改变主意",
+      "answerPrimary": "change one's mind",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u34-mind"
+    },
+    {
+      "id": "u34-126c",
+      "unitId": "34",
+      "type": "phrase_cluster",
+      "prompt": "记住；牢记",
+      "answerPrimary": "keep in mind / bear in mind",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u34-mind"
+    },
+    {
+      "id": "u34-126d",
+      "unitId": "34",
+      "type": "phrase_cluster",
+      "prompt": "下定决心",
+      "answerPrimary": "make up one's mind",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u34-mind"
+    },
+    {
+      "id": "u34-127",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "矿；我的；开采",
+      "answerPrimary": "mine",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-128",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "矿物；矿产",
+      "answerPrimary": "mineral",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-129",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "最小值；最小的",
+      "answerPrimary": "minimum",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-130",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "部长；大臣",
+      "answerPrimary": "minister",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-131",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "少数；少数民族",
+      "answerPrimary": "minority",
+      "answerAlts": [
+        "a minority of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-132",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "错过；想念；遗漏",
+      "answerPrimary": "miss / miss out",
+      "answerAlts": [
+        "miss",
+        "miss out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-133",
+      "unitId": "34",
+      "type": "zh2en",
+      "prompt": "薄雾；雾气",
+      "answerPrimary": "mist",
+      "answerAlts": [
+        "fog"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-134",
+      "unitId": "34",
+      "type": "pattern",
+      "prompt": "一提到他的名字，她就脸红了（the moment）",
+      "answerPrimary": "The moment his name was mentioned, she blushed",
+      "answerAlts": [
+        "The moment she heard his name, she blushed"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u34-135",
+      "unitId": "34",
+      "type": "cloze",
+      "prompt": "Would you mind ____ (open) the window?",
+      "answerPrimary": "opening",
+      "answerAlts": [],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#35",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "opening",
+          "alts": []
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "measure",
+  "rangeTo": "mist",
+  "wordsPerUnit": 50
+}

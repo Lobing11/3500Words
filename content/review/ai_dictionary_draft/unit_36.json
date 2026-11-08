@@ -1,0 +1,576 @@
+{
+  "unitId": "36",
+  "name": "Unit 36 (mushroom—no)",
+  "order": 36,
+  "items": [
+    {
+      "id": "u36-101",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "蘑菇；迅速增长",
+      "answerPrimary": "mushroom",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-102",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "音乐 / 音乐家 / 音乐的",
+      "answerPrimary": "music / musician / musical",
+      "answerAlts": [
+        "music",
+        "musician",
+        "musical"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-103",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "必须；偏要（mustn't：禁止）",
+      "answerPrimary": "must / mustn't",
+      "answerAlts": [
+        "must",
+        "must not"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-104a",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "名叫……",
+      "answerPrimary": "by the name of / named",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u36-name"
+    },
+    {
+      "id": "u36-104b",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "以……的名义",
+      "answerPrimary": "in the name of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u36-name"
+    },
+    {
+      "id": "u36-104c",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "以……命名",
+      "answerPrimary": "name after / be named after",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u36-name"
+    },
+    {
+      "id": "u36-105",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "狭窄的；勉强的",
+      "answerPrimary": "narrow",
+      "answerAlts": [
+        "a narrow escape"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-106",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "国家；民族 / 国籍",
+      "answerPrimary": "nation / nationality",
+      "answerAlts": [
+        "nation",
+        "national",
+        "nationality"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-107",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "全国范围的",
+      "answerPrimary": "nationwide / nation-wide",
+      "answerAlts": [
+        "nationwide",
+        "nation-wide"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-108",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "本地的；本土的",
+      "answerPrimary": "native / be native to",
+      "answerAlts": [
+        "native",
+        "native speaker"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-109",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "自然；大自然 / 自然的",
+      "answerPrimary": "nature / natural",
+      "answerAlts": [
+        "nature",
+        "natural"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-110",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "海军",
+      "answerPrimary": "navy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-111",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "附近；将近",
+      "answerPrimary": "nearby / nearly",
+      "answerAlts": [
+        "nearby",
+        "nearly",
+        "almost"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-112",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "整洁的",
+      "answerPrimary": "neat",
+      "answerAlts": [
+        "tidy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-113",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "有必要的；必需的",
+      "answerPrimary": "necessary / It is necessary that",
+      "answerAlts": [
+        "necessary",
+        "be necessary for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-114",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "脖子 / 项链",
+      "answerPrimary": "neck / necklace",
+      "answerAlts": [
+        "neck",
+        "necklace"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-115a",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "需要；需求",
+      "answerPrimary": "in need of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u36-need"
+    },
+    {
+      "id": "u36-115b",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "需要被……（主动表被动）",
+      "answerPrimary": "need doing / need to be done",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u36-need"
+    },
+    {
+      "id": "u36-116",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "谈判；协商",
+      "answerPrimary": "negotiate",
+      "answerAlts": [
+        "negotiate with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u36-117",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "邻居 / 街坊",
+      "answerPrimary": "neighbor / neighborhood",
+      "answerAlts": [
+        "neighbour",
+        "neighbourhood",
+        "neighbor"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-118",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "既不……也不……",
+      "answerPrimary": "neither ... nor",
+      "answerAlts": [
+        "neither nor"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-119",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "紧张的；焦虑的",
+      "answerPrimary": "be nervous about",
+      "answerAlts": [
+        "nervous"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-120",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "网；网络",
+      "answerPrimary": "net / network",
+      "answerAlts": [
+        "net",
+        "network"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-121",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "没关系；不要紧",
+      "answerPrimary": "Never mind",
+      "answerAlts": [
+        "never mind"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-122",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "新闻；消息",
+      "answerPrimary": "news / break the news",
+      "answerAlts": [
+        "news",
+        "break the news to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-123",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "报纸",
+      "answerPrimary": "newspaper",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-124",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "在夜里；过夜",
+      "answerPrimary": "at night / overnight",
+      "answerAlts": [
+        "at night",
+        "overnight"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-125a",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "不再",
+      "answerPrimary": "no longer / not any longer",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u36-no"
+    },
+    {
+      "id": "u36-125b",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "一……就……（倒装）",
+      "answerPrimary": "no sooner ... than",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u36-no"
+    },
+    {
+      "id": "u36-125c",
+      "unitId": "36",
+      "type": "phrase_cluster",
+      "prompt": "难怪",
+      "answerPrimary": "no wonder",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u36-no"
+    },
+    {
+      "id": "u36-126",
+      "unitId": "36",
+      "type": "pattern",
+      "prompt": "他刚到家电话就响了（no sooner）",
+      "answerPrimary": "No sooner had he arrived home than the phone rang",
+      "answerAlts": [
+        "Hardly had he arrived home when the phone rang"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-127",
+      "unitId": "36",
+      "type": "cloze",
+      "prompt": "The bike needs ____ (repair).",
+      "answerPrimary": "repairing",
+      "answerAlts": [
+        "to be repaired"
+      ],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "repairing",
+          "alts": [
+            "to be repaired"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u36-128",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "钉子；指甲",
+      "answerPrimary": "nail",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-129",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "侄子；外甥",
+      "answerPrimary": "nephew",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u36-130",
+      "unitId": "36",
+      "type": "zh2en",
+      "prompt": "侄女；外甥女",
+      "answerPrimary": "niece",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "mushroom",
+  "rangeTo": "no",
+  "wordsPerUnit": 50
+}

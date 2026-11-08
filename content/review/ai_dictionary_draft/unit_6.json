@@ -1,0 +1,630 @@
+{
+  "unitId": "6",
+  "name": "Unit 6 (bath—birthday)",
+  "order": 6,
+  "rangeFrom": "bath",
+  "rangeTo": "birthday",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u6-101",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "洗澡；浴室",
+      "answerPrimary": "bath / bathe / bathroom",
+      "answerAlts": [
+        "bath",
+        "bathe",
+        "bathroom"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-102",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "电池",
+      "answerPrimary": "battery",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-103",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "战斗；战役",
+      "answerPrimary": "battle",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-104",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "海滩",
+      "answerPrimary": "beach",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-105",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "豆；豆腐",
+      "answerPrimary": "bean / beancurd",
+      "answerAlts": [
+        "bean",
+        "beancurd",
+        "tofu"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-106",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "熊；忍受；生育",
+      "answerPrimary": "bear / can't bear",
+      "answerAlts": [
+        "bear",
+        "can't bear"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-107",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "敲打；打败",
+      "answerPrimary": "beat",
+      "answerAlts": [
+        "defeat"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-108",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "美丽的 / 美",
+      "answerPrimary": "beautiful / beauty",
+      "answerAlts": [
+        "beautiful",
+        "beauty"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-109",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "因为",
+      "answerPrimary": "because / because of",
+      "answerAlts": [
+        "because",
+        "because of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-110",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "变成；成为",
+      "answerPrimary": "become",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-111",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "床；卧室",
+      "answerPrimary": "bed / bedroom",
+      "answerAlts": [
+        "bed",
+        "bedroom",
+        "go to bed"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-112",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "蜜蜂；牛肉；啤酒",
+      "answerPrimary": "bee / beef / beer",
+      "answerAlts": [
+        "bee",
+        "beef",
+        "beer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-113",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "在……以前",
+      "answerPrimary": "before / long before",
+      "answerAlts": [
+        "before"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-114",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "乞求；恳求",
+      "answerPrimary": "beg / beg for",
+      "answerAlts": [
+        "beg",
+        "beg for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-115",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "开始",
+      "answerPrimary": "begin / beginning / begin with",
+      "answerAlts": [
+        "begin",
+        "beginning",
+        "begin with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-116",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "表现；行为",
+      "answerPrimary": "behave / behavior / behaviour",
+      "answerAlts": [
+        "behave",
+        "behavior",
+        "behaviour"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-117",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "在……后面",
+      "answerPrimary": "behind",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-118",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "相信；信仰",
+      "answerPrimary": "believe / belief / believe in",
+      "answerAlts": [
+        "believe",
+        "belief",
+        "believe in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-119",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "铃；钟",
+      "answerPrimary": "bell",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u6-120",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "属于",
+      "answerPrimary": "belong to",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-121",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "在……下面",
+      "answerPrimary": "below / under",
+      "answerAlts": [
+        "below"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-122",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "弯曲；弯腰",
+      "answerPrimary": "bend",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-123",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "在……之下（正式）",
+      "answerPrimary": "beneath",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-124",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "有益的；受益",
+      "answerPrimary": "beneficial / benefit / benefit from",
+      "answerAlts": [
+        "beneficial",
+        "benefit",
+        "benefit from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-125",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "在……旁边；除……之外",
+      "answerPrimary": "beside / besides",
+      "answerAlts": [
+        "beside",
+        "besides"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-126",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "最好的；尽力",
+      "answerPrimary": "best / do one's best",
+      "answerAlts": [
+        "best",
+        "do one's best",
+        "try one's best"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-127",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "背叛",
+      "answerPrimary": "betray",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-128",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "在……之间",
+      "answerPrimary": "between",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-129",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "超出；在更远处",
+      "answerPrimary": "beyond",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-130",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "出价；投标",
+      "answerPrimary": "bid",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-131",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "大的；巨大的",
+      "answerPrimary": "big / large / huge",
+      "answerAlts": [
+        "big",
+        "large"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-132",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "账单；钞票",
+      "answerPrimary": "bill",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-133",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "十亿",
+      "answerPrimary": "billion",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-134",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "传记；生物学",
+      "answerPrimary": "biography / biology",
+      "answerAlts": [
+        "biography",
+        "biology"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-135",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "鸟",
+      "answerPrimary": "bird",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-136",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "出生；诞生",
+      "answerPrimary": "birth / give birth to",
+      "answerAlts": [
+        "birth",
+        "give birth to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-137",
+      "unitId": "6",
+      "type": "zh2en",
+      "prompt": "生日",
+      "answerPrimary": "birthday",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-138",
+      "unitId": "6",
+      "type": "pattern",
+      "prompt": "他从这次经历中受益匪浅",
+      "answerPrimary": "He benefited a lot from this experience",
+      "answerAlts": [
+        "He benefited from this experience"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u6-139",
+      "unitId": "6",
+      "type": "cloze",
+      "prompt": "This book belongs ____ me.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

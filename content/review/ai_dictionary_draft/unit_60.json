@@ -1,0 +1,814 @@
+{
+  "unitId": "60",
+  "name": "Unit 60 (windy—zoo)",
+  "order": 60,
+  "items": [
+    {
+      "id": "u60-101",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "有风的；多风的",
+      "answerPrimary": "windy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-102",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "葡萄酒；酒",
+      "answerPrimary": "wine",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-103",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "翅膀；机翼",
+      "answerPrimary": "wing",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-104",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "获胜者",
+      "answerPrimary": "winner",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-105",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "擦掉；抹去",
+      "answerPrimary": "wipe off / wipe out",
+      "answerAlts": [
+        "wipe off",
+        "wipe out",
+        "wipe away"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-106",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "电线；金属丝",
+      "answerPrimary": "wire",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-107",
+      "unitId": "60",
+      "type": "word_form",
+      "prompt": "wise（名词）",
+      "answerPrimary": "wisdom",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "wisdom",
+          "alts": []
+        }
+      ],
+      "hint": "wise"
+    },
+    {
+      "id": "u60-108",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "希望；祝愿",
+      "answerPrimary": "wish",
+      "answerAlts": [
+        "make a wish"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-109",
+      "unitId": "60",
+      "type": "pattern",
+      "prompt": "我希望我当时听了你的建议（wish 虚拟）",
+      "answerPrimary": "I wish I had taken your advice",
+      "answerAlts": [
+        "I wish I had followed your advice"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-110",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "在……之内；不超过",
+      "answerPrimary": "within",
+      "answerAlts": [
+        "within reach"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-111",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "目击者；见证",
+      "answerPrimary": "witness",
+      "answerAlts": [
+        "be a witness to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-112",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "狼",
+      "answerPrimary": "wolf",
+      "answerAlts": [
+        "wolves"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-113a",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "想知道；感到疑惑",
+      "answerPrimary": "wonder",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-wonder"
+    },
+    {
+      "id": "u60-113b",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "难怪；不足为奇",
+      "answerPrimary": "no wonder",
+      "answerAlts": [
+        "It is no wonder that"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-wonder"
+    },
+    {
+      "id": "u60-113c",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "奇迹；奇观",
+      "answerPrimary": "a wonder",
+      "answerAlts": [
+        "wonders of the world"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-wonder"
+    },
+    {
+      "id": "u60-114",
+      "unitId": "60",
+      "type": "word_form",
+      "prompt": "wonder（形容词）",
+      "answerPrimary": "wonderful",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "wonderful",
+          "alts": []
+        }
+      ],
+      "hint": "wonder"
+    },
+    {
+      "id": "u60-115",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "木头；木材；（复）树林",
+      "answerPrimary": "wood / woods",
+      "answerAlts": [
+        "wood",
+        "woods"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-116",
+      "unitId": "60",
+      "type": "word_form",
+      "prompt": "wood（形容词）",
+      "answerPrimary": "wooden",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "wooden",
+          "alts": []
+        }
+      ],
+      "hint": "wood"
+    },
+    {
+      "id": "u60-117",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "羊毛 / 羊毛的",
+      "answerPrimary": "wool / woolen",
+      "answerAlts": [
+        "wool",
+        "woollen",
+        "woolen"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u60-118a",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "总之；一句话",
+      "answerPrimary": "in a word",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-word"
+    },
+    {
+      "id": "u60-118b",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "换句话说",
+      "answerPrimary": "in other words",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-word"
+    },
+    {
+      "id": "u60-118c",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "遵守诺言",
+      "answerPrimary": "keep one's word",
+      "answerAlts": [
+        "keep one's promise"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-word"
+    },
+    {
+      "id": "u60-118d",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "食言；失信",
+      "answerPrimary": "break one's word",
+      "answerAlts": [
+        "break one's promise"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u60-word"
+    },
+    {
+      "id": "u60-119a",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "失业",
+      "answerPrimary": "out of work",
+      "answerAlts": [
+        "unemployed"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-work"
+    },
+    {
+      "id": "u60-119b",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "算出；解决；结果是",
+      "answerPrimary": "work out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-work"
+    },
+    {
+      "id": "u60-119c",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "从事于；致力于",
+      "answerPrimary": "work on",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-work"
+    },
+    {
+      "id": "u60-120",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "全世界的；世界范围的",
+      "answerPrimary": "worldwide / around the world",
+      "answerAlts": [
+        "worldwide",
+        "all over the world"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-121a",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "担心；担忧",
+      "answerPrimary": "worry about",
+      "answerAlts": [
+        "be worried about"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-worry"
+    },
+    {
+      "id": "u60-121b",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "别担心",
+      "answerPrimary": "Don't worry",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-worry"
+    },
+    {
+      "id": "u60-122",
+      "unitId": "60",
+      "type": "word_form",
+      "prompt": "bad（比较级/最高级）",
+      "answerPrimary": "worse / worst",
+      "answerAlts": [
+        "worse",
+        "worst"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "worse / worst",
+          "alts": [
+            "worse",
+            "worst"
+          ]
+        }
+      ],
+      "hint": "bad"
+    },
+    {
+      "id": "u60-123a",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "值得做……",
+      "answerPrimary": "be worth doing",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-worth"
+    },
+    {
+      "id": "u60-123b",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "值得花时间/精力的",
+      "answerPrimary": "worthwhile",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-worth"
+    },
+    {
+      "id": "u60-123c",
+      "unitId": "60",
+      "type": "phrase_cluster",
+      "prompt": "值得……的；配得上",
+      "answerPrimary": "be worthy of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u60-worth"
+    },
+    {
+      "id": "u60-124",
+      "unitId": "60",
+      "type": "pattern",
+      "prompt": "这部电影值得再看一遍（worth）",
+      "answerPrimary": "The film is worth seeing again",
+      "answerAlts": [
+        "The movie is worth watching again"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-125",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "伤口；使受伤",
+      "answerPrimary": "wound",
+      "answerAlts": [
+        "be wounded"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-126",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "皱纹 / 手腕",
+      "answerPrimary": "wrinkle / wrist",
+      "answerAlts": [
+        "wrinkle",
+        "wrist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-127",
+      "unitId": "60",
+      "type": "word_form",
+      "prompt": "write（过去式/过去分词）",
+      "answerPrimary": "wrote / written",
+      "answerAlts": [
+        "wrote",
+        "written"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "wrote / written",
+          "alts": [
+            "wrote",
+            "written"
+          ]
+        }
+      ],
+      "hint": "write"
+    },
+    {
+      "id": "u60-128",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "X光；X射线",
+      "answerPrimary": "X-ray",
+      "answerAlts": [
+        "X ray",
+        "x-ray"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-129",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "院子；码（长度单位）",
+      "answerPrimary": "yard",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-130",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "打哈欠",
+      "answerPrimary": "yawn",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-131",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "大叫；吼叫",
+      "answerPrimary": "yell",
+      "answerAlts": [
+        "yell at"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-132",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "年轻人；青春",
+      "answerPrimary": "youth / young people",
+      "answerAlts": [
+        "youth",
+        "the young"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-133",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "斑马 / 斑马线",
+      "answerPrimary": "zebra / zebra crossing",
+      "answerAlts": [
+        "zebra",
+        "zebra crossing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-134",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "零；零度",
+      "answerPrimary": "zero",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-135",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "拉链",
+      "answerPrimary": "zip / zipper",
+      "answerAlts": [
+        "zip",
+        "zipper"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#35",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-136",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "地区；区域；时区",
+      "answerPrimary": "zone",
+      "answerAlts": [
+        "time zone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#36",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-137",
+      "unitId": "60",
+      "type": "zh2en",
+      "prompt": "动物园",
+      "answerPrimary": "zoo",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#37",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u60-138",
+      "unitId": "60",
+      "type": "cloze",
+      "prompt": "It is worthwhile ____ (do) the experiment.",
+      "answerPrimary": "doing",
+      "answerAlts": [
+        "to do"
+      ],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#38",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "doing",
+          "alts": [
+            "to do"
+          ]
+        }
+      ]
+    }
+  ],
+  "rangeFrom": "windy",
+  "rangeTo": "zoo",
+  "wordsPerUnit": 50
+}

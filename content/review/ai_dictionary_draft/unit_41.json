@@ -1,0 +1,650 @@
+{
+  "unitId": "41",
+  "name": "Unit 41 (pleasant—pound)",
+  "order": 41,
+  "items": [
+    {
+      "id": "u41-101",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "令人愉快的",
+      "answerPrimary": "pleasant",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-102a",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "对……感到满意/高兴",
+      "answerPrimary": "be pleased with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-please"
+    },
+    {
+      "id": "u41-102b",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "乐意效劳",
+      "answerPrimary": "with pleasure",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-please"
+    },
+    {
+      "id": "u41-102c",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "以……为乐",
+      "answerPrimary": "take pleasure in",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-please"
+    },
+    {
+      "id": "u41-103",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "许多；充足的",
+      "answerPrimary": "plenty of",
+      "answerAlts": [
+        "a lot of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-104",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "情节；密谋",
+      "answerPrimary": "plot",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-105",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "插头；插入",
+      "answerPrimary": "plug / plug in",
+      "answerAlts": [
+        "plug",
+        "plug in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-106",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "加；外加；优点",
+      "answerPrimary": "plus",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-107",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "口袋；衣袋",
+      "answerPrimary": "pocket",
+      "answerAlts": [
+        "pocket money"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-108",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "诗 / 诗人",
+      "answerPrimary": "poem / poet",
+      "answerAlts": [
+        "poem",
+        "poet",
+        "poetry"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-109a",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "指向",
+      "answerPrimary": "point to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-point"
+    },
+    {
+      "id": "u41-109b",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "指出",
+      "answerPrimary": "point out",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-point"
+    },
+    {
+      "id": "u41-109c",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "切中要点",
+      "answerPrimary": "to the point",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-point"
+    },
+    {
+      "id": "u41-109d",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "做……没有意义",
+      "answerPrimary": "there is no point in doing",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u41-point"
+    },
+    {
+      "id": "u41-110",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "毒药；有毒的",
+      "answerPrimary": "poison / poisonous",
+      "answerAlts": [
+        "poison",
+        "poisonous"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-111",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "警察；警方",
+      "answerPrimary": "police / policeman",
+      "answerAlts": [
+        "police",
+        "policeman",
+        "policewoman"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-112",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "政策",
+      "answerPrimary": "policy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-113",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "擦亮；润色",
+      "answerPrimary": "polish",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-114",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "对……有礼貌",
+      "answerPrimary": "be polite to",
+      "answerAlts": [
+        "polite"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-115",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "政治的 / 政治 / 政治家",
+      "answerPrimary": "political / politics / politician",
+      "answerAlts": [
+        "political",
+        "politics",
+        "politician"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u41-116",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "污染 / 污染（名词）",
+      "answerPrimary": "pollute / pollution",
+      "answerAlts": [
+        "pollute",
+        "pollution"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-117",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "池塘 / 水池；泳池",
+      "answerPrimary": "pond / pool",
+      "answerAlts": [
+        "pond",
+        "pool"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-118",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "贫穷的；可怜的",
+      "answerPrimary": "poor",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-119",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "受……欢迎",
+      "answerPrimary": "be popular with",
+      "answerAlts": [
+        "be popular among"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-120",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "人口",
+      "answerPrimary": "population",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-121",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "港口；港市",
+      "answerPrimary": "port",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-122",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "便携的；手提的",
+      "answerPrimary": "portable",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-123",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "位置；职位",
+      "answerPrimary": "position / in position",
+      "answerAlts": [
+        "position",
+        "take up a position"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-124",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "积极的；肯定的",
+      "answerPrimary": "positive / be positive about",
+      "answerAlts": [
+        "positive",
+        "be positive about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-125a",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "拥有；占有",
+      "answerPrimary": "in possession of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u41-possess"
+    },
+    {
+      "id": "u41-125b",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "被……拥有",
+      "answerPrimary": "in the possession of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u41-possess"
+    },
+    {
+      "id": "u41-125c",
+      "unitId": "41",
+      "type": "phrase_cluster",
+      "prompt": "占有；接管",
+      "answerPrimary": "take possession of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u41-possess"
+    },
+    {
+      "id": "u41-126",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "可能的 / 可能性",
+      "answerPrimary": "possible / possibility",
+      "answerAlts": [
+        "possible",
+        "possibility",
+        "as ... as possible"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-127",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "邮寄；岗位；邮资",
+      "answerPrimary": "post / postage",
+      "answerAlts": [
+        "post",
+        "postage",
+        "postcard"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-128",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "推迟做……",
+      "answerPrimary": "postpone doing",
+      "answerAlts": [
+        "put off doing",
+        "delay doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-129",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "潜力；潜在的",
+      "answerPrimary": "potential",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-130",
+      "unitId": "41",
+      "type": "zh2en",
+      "prompt": "磅；英镑；猛击",
+      "answerPrimary": "pound",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-131",
+      "unitId": "41",
+      "type": "pattern",
+      "prompt": "尽早完成作业（as ... as possible）",
+      "answerPrimary": "Finish the homework as soon as possible",
+      "answerAlts": [
+        "Finish your homework as early as possible"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u41-132",
+      "unitId": "41",
+      "type": "cloze",
+      "prompt": "The meeting was postponed ____ next Monday.",
+      "answerPrimary": "until",
+      "answerAlts": [
+        "to",
+        "till"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "until",
+          "alts": [
+            "to",
+            "till"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u41-133",
+      "unitId": "41",
+      "type": "word_form",
+      "prompt": "please（名词）",
+      "answerPrimary": "pleasure",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "pleasure",
+          "alts": []
+        }
+      ],
+      "hint": "please"
+    }
+  ],
+  "rangeFrom": "pleasant",
+  "rangeTo": "pound",
+  "wordsPerUnit": 50
+}

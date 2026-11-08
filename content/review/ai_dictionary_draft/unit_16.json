@@ -1,0 +1,645 @@
+{
+  "unitId": "16",
+  "name": "Unit 16 (depth—disadvantage)",
+  "order": 16,
+  "rangeFrom": "depth",
+  "rangeTo": "disadvantage",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u16-101",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "深度；深处",
+      "answerPrimary": "depth / in depth",
+      "answerAlts": [
+        "depth",
+        "in depth"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-102",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "描述；描写",
+      "answerPrimary": "describe / description",
+      "answerAlts": [
+        "describe",
+        "description"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-103",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "沙漠；抛弃",
+      "answerPrimary": "desert / desert sb",
+      "answerAlts": [
+        "desert"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-104",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "设计；图案",
+      "answerPrimary": "design",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-105",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "渴望；愿望",
+      "answerPrimary": "desire / desire to do",
+      "answerAlts": [
+        "desire"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-106",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "书桌",
+      "answerPrimary": "desk",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-107",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "绝望的",
+      "answerPrimary": "desperate / desperately",
+      "answerAlts": [
+        "desperate",
+        "desperately"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-108",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "甜点",
+      "answerPrimary": "dessert",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-109",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "目的地",
+      "answerPrimary": "destination",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-110",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "毁灭；破坏",
+      "answerPrimary": "destroy / destruction",
+      "answerAlts": [
+        "destroy",
+        "destruction"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-111",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "侦探",
+      "answerPrimary": "detective",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-112",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "决心；决定",
+      "answerPrimary": "determine / determination / be determined to",
+      "answerAlts": [
+        "determine",
+        "determination",
+        "be determined to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-113",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "发展；发育",
+      "answerPrimary": "develop / development",
+      "answerAlts": [
+        "develop",
+        "development"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-114",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "献身；致力",
+      "answerPrimary": "devote to / devotion / be devoted to",
+      "answerAlts": [
+        "devote to",
+        "devotion",
+        "be devoted to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-115",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "图表；图解",
+      "answerPrimary": "diagram",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-116",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "拨号；刻度盘",
+      "answerPrimary": "dial",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-117",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "对话",
+      "answerPrimary": "dialogue / dialog",
+      "answerAlts": [
+        "dialogue",
+        "dialog"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-118",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "钻石",
+      "answerPrimary": "diamond",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-119",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "日记",
+      "answerPrimary": "diary",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u16-120",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "听写；口述",
+      "answerPrimary": "dictation",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-121",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "字典",
+      "answerPrimary": "dictionary",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-122",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "死；死亡",
+      "answerPrimary": "die / die of / die from / die out",
+      "answerAlts": [
+        "die",
+        "die of",
+        "die from",
+        "die out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-123",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "饮食；节食",
+      "answerPrimary": "diet / be on a diet",
+      "answerAlts": [
+        "diet",
+        "be on a diet"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-124",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "不同；差异",
+      "answerPrimary": "differ / difference / different / be different from",
+      "answerAlts": [
+        "differ",
+        "difference",
+        "different",
+        "be different from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-125",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "困难的；困难",
+      "answerPrimary": "difficult / difficulty / have difficulty in",
+      "answerAlts": [
+        "difficult",
+        "difficulty",
+        "have difficulty"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-126",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "挖",
+      "answerPrimary": "dig",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-127",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "消化；文摘",
+      "answerPrimary": "digest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-128",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "数字的",
+      "answerPrimary": "digital",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-129",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "尊严",
+      "answerPrimary": "dignity",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-130",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "进退两难；困境",
+      "answerPrimary": "dilemma / in a dilemma",
+      "answerAlts": [
+        "dilemma",
+        "in a dilemma"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-131",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "尺寸；维度",
+      "answerPrimary": "dimension",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-132",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "餐厅；正餐",
+      "answerPrimary": "dining-room / dinner",
+      "answerAlts": [
+        "dining-room",
+        "dinner"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-133",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "恐龙",
+      "answerPrimary": "dinosaur",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-134",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "二氧化物；蘸",
+      "answerPrimary": "dioxide / dip",
+      "answerAlts": [
+        "dioxide",
+        "dip"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-135",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "文凭；毕业证书",
+      "answerPrimary": "diploma",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-136",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "直接的；指导；方向",
+      "answerPrimary": "direct / direction / director",
+      "answerAlts": [
+        "direct",
+        "direction",
+        "director",
+        "in the direction of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-137",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "脏的；灰尘",
+      "answerPrimary": "dirt / dirty",
+      "answerAlts": [
+        "dirt",
+        "dirty"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-138",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "残疾；残疾人",
+      "answerPrimary": "disability / disabled",
+      "answerAlts": [
+        "disability",
+        "disabled"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-139",
+      "unitId": "16",
+      "type": "zh2en",
+      "prompt": "缺点；不利条件",
+      "answerPrimary": "disadvantage / to one's disadvantage",
+      "answerAlts": [
+        "disadvantage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u16-140",
+      "unitId": "16",
+      "type": "cloze",
+      "prompt": "She is devoted ____ her teaching career.",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

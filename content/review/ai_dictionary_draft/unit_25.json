@@ -1,0 +1,628 @@
+{
+  "unitId": "25",
+  "name": "Unit 25 (goat—habitat)",
+  "order": 25,
+  "rangeFrom": "goat",
+  "rangeTo": "habitat",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u25-101",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "山羊",
+      "answerPrimary": "goat",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-102",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "神；上帝",
+      "answerPrimary": "god / God",
+      "answerAlts": [
+        "god",
+        "God"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-103",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "金；金色的",
+      "answerPrimary": "gold / golden",
+      "answerAlts": [
+        "gold",
+        "golden"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-104",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "高尔夫球",
+      "answerPrimary": "golf",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-105",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "好的；商品",
+      "answerPrimary": "good / goods / good-bye",
+      "answerAlts": [
+        "good",
+        "goods",
+        "goodbye"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-106",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "鹅",
+      "answerPrimary": "goose / geese",
+      "answerAlts": [
+        "goose",
+        "geese"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-107",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "统治；政府",
+      "answerPrimary": "govern / government",
+      "answerAlts": [
+        "govern",
+        "government"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-108",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "等级；年级；成绩",
+      "answerPrimary": "grade",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-109",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "逐渐的；逐渐地",
+      "answerPrimary": "gradual / gradually",
+      "answerAlts": [
+        "gradual",
+        "gradually"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-110",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "毕业",
+      "answerPrimary": "graduate / graduation",
+      "answerAlts": [
+        "graduate",
+        "graduation",
+        "graduate from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-111",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "谷物；克",
+      "answerPrimary": "grain / gram",
+      "answerAlts": [
+        "grain",
+        "gram"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-112",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "语法",
+      "answerPrimary": "grammar",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-113",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "宏大的；祖父母",
+      "answerPrimary": "grand / grandparents / grandson",
+      "answerAlts": [
+        "grand",
+        "grandfather",
+        "grandmother",
+        "grandparents"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-114",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "葡萄；图表",
+      "answerPrimary": "grape / graph",
+      "answerAlts": [
+        "grape",
+        "graph"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-115",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "抓住；理解",
+      "answerPrimary": "grasp",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-116",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "草",
+      "answerPrimary": "grass",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-117",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "感激的",
+      "answerPrimary": "grateful / be grateful to sb for",
+      "answerAlts": [
+        "grateful",
+        "be grateful for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-118",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "重力；严重性",
+      "answerPrimary": "gravity",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-119",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "伟大的；大的",
+      "answerPrimary": "great",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u25-120",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "贪婪的",
+      "answerPrimary": "greedy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-121",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "希腊；希腊的",
+      "answerPrimary": "Greek",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-122",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "绿色的；青菜商",
+      "answerPrimary": "green / greengrocer",
+      "answerAlts": [
+        "green",
+        "greengrocer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-123",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "问候；打招呼",
+      "answerPrimary": "greet / greeting",
+      "answerAlts": [
+        "greet",
+        "greeting"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-124",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "灰色的",
+      "answerPrimary": "grey / gray",
+      "answerAlts": [
+        "grey",
+        "gray"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-125",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "烤架；杂货商",
+      "answerPrimary": "grill / grocer / grocery",
+      "answerAlts": [
+        "grill",
+        "grocer",
+        "grocery"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-126",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "地面；基础",
+      "answerPrimary": "ground / on the ground of",
+      "answerAlts": [
+        "ground",
+        "on the ground"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-127",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "群；组",
+      "answerPrimary": "group / a group of",
+      "answerAlts": [
+        "group",
+        "a group of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-128",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "生长；成长；增长",
+      "answerPrimary": "grow / growth / grow up",
+      "answerAlts": [
+        "grow",
+        "growth",
+        "grow up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-129",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "保证；担保",
+      "answerPrimary": "guarantee",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-130",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "守卫；保护",
+      "answerPrimary": "guard / on guard",
+      "answerAlts": [
+        "guard",
+        "on guard"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-131",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "猜测",
+      "answerPrimary": "guess",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-132",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "客人",
+      "answerPrimary": "guest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-133",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "指导；向导",
+      "answerPrimary": "guidance / guide",
+      "answerAlts": [
+        "guidance",
+        "guide"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-134",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "有罪的；内疚的",
+      "answerPrimary": "guilty / be guilty of",
+      "answerAlts": [
+        "guilty",
+        "be guilty of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-135",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "吉他；枪",
+      "answerPrimary": "guitar / gun",
+      "answerAlts": [
+        "guitar",
+        "gun"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-136",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "体育馆；体操",
+      "answerPrimary": "gym / gymnasium / gymnastics",
+      "answerAlts": [
+        "gym",
+        "gymnasium",
+        "gymnastics"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-137",
+      "unitId": "25",
+      "type": "zh2en",
+      "prompt": "习惯；栖息地",
+      "answerPrimary": "habit / habitat / be in the habit of",
+      "answerAlts": [
+        "habit",
+        "habitat",
+        "be in the habit of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u25-138",
+      "unitId": "25",
+      "type": "cloze",
+      "prompt": "He graduated ____ Beijing University.",
+      "answerPrimary": "from",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "from",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

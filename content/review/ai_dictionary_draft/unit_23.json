@@ -1,0 +1,793 @@
+{
+  "unitId": "23",
+  "name": "Unit 23 (flow—frog)",
+  "order": 23,
+  "rangeFrom": "flow",
+  "rangeTo": "frog",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u23-101",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "流动；流量",
+      "answerPrimary": "flow",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-102",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "花；开花",
+      "answerPrimary": "flower",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-103",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "流感；流利",
+      "answerPrimary": "flu / fluency / fluent",
+      "answerAlts": [
+        "flu",
+        "fluency",
+        "fluent"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-104",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "飞；苍蝇",
+      "answerPrimary": "fly",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-105",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "焦点；集中",
+      "answerPrimary": "focus / focus on",
+      "answerAlts": [
+        "focus",
+        "focus on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-106",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "雾；有雾的",
+      "answerPrimary": "fog / foggy",
+      "answerAlts": [
+        "fog",
+        "foggy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-107",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "折叠；褶层",
+      "answerPrimary": "fold",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-108",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "人们；民间的",
+      "answerPrimary": "folk",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-109a",
+      "unitId": "23",
+      "type": "phrase_cluster",
+      "prompt": "跟随；遵循",
+      "answerPrimary": "follow",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u23-follow"
+    },
+    {
+      "id": "u23-109b",
+      "unitId": "23",
+      "type": "phrase_cluster",
+      "prompt": "如下",
+      "answerPrimary": "as follows",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u23-follow"
+    },
+    {
+      "id": "u23-110",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "喜爱的",
+      "answerPrimary": "be fond of",
+      "answerAlts": [
+        "fond of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-111",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "食物",
+      "answerPrimary": "food",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-112",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "傻瓜；愚蠢的",
+      "answerPrimary": "fool / foolish / make a fool of",
+      "answerAlts": [
+        "fool",
+        "foolish",
+        "make a fool of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-113",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "脚；英尺",
+      "answerPrimary": "foot / feet / on foot",
+      "answerAlts": [
+        "foot",
+        "feet",
+        "on foot"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-114",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "足球",
+      "answerPrimary": "football / soccer",
+      "answerAlts": [
+        "football",
+        "soccer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-115",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "为了；因为",
+      "answerPrimary": "for / for example",
+      "answerAlts": [
+        "for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-116",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "禁止",
+      "answerPrimary": "forbid / forbid sb to do / forbid doing",
+      "answerAlts": [
+        "forbid",
+        "forbidden"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-117",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "强迫；武力",
+      "answerPrimary": "force / by force / force sb to do",
+      "answerAlts": [
+        "force",
+        "by force"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-118",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "预报",
+      "answerPrimary": "forecast",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-119",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "前额",
+      "answerPrimary": "forehead",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u23-120",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "外国的；外国人",
+      "answerPrimary": "foreign / foreigner",
+      "answerAlts": [
+        "foreign",
+        "foreigner"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-121",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "预见；预知",
+      "answerPrimary": "foresee",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-122",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "森林",
+      "answerPrimary": "forest",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-123",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "永远",
+      "answerPrimary": "forever / for ever",
+      "answerAlts": [
+        "forever",
+        "for ever"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-124",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "忘记；健忘的",
+      "answerPrimary": "forget / forgetful / forget to do / forget doing",
+      "answerAlts": [
+        "forget",
+        "forgetful"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-125",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "原谅",
+      "answerPrimary": "forgive",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-126",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "叉子；分叉",
+      "answerPrimary": "fork",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-127",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "形式；表格；形成",
+      "answerPrimary": "form / formal / in the form of",
+      "answerAlts": [
+        "form",
+        "formal",
+        "in the form of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-128",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "格式；版式",
+      "answerPrimary": "format",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-129",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "以前的；前者",
+      "answerPrimary": "former / the former",
+      "answerAlts": [
+        "former",
+        "the former"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-130",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "两周",
+      "answerPrimary": "fortnight",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-131",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "幸运的；幸运地",
+      "answerPrimary": "fortunate / fortunately / fortune",
+      "answerAlts": [
+        "fortunate",
+        "fortunately",
+        "fortune"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-132",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "向前；转交",
+      "answerPrimary": "forward / look forward to",
+      "answerAlts": [
+        "forward",
+        "look forward to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-133",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "建立；创办",
+      "answerPrimary": "found / foundation",
+      "answerAlts": [
+        "found",
+        "foundation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-134",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "喷泉",
+      "answerPrimary": "fountain",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#134",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-135",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "狐狸",
+      "answerPrimary": "fox",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#135",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-136",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "易碎的；脆弱的",
+      "answerPrimary": "fragile",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#136",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-137",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "芳香的",
+      "answerPrimary": "fragrant",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#137",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-138",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "自由的；免费的",
+      "answerPrimary": "free / freedom / for free / be free from",
+      "answerAlts": [
+        "free",
+        "freedom",
+        "for free",
+        "be free of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#138",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-139",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "高速公路",
+      "answerPrimary": "freeway / highway",
+      "answerAlts": [
+        "freeway",
+        "highway"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#139",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-140",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "结冰；冷冻的",
+      "answerPrimary": "freeze / freezing / frozen",
+      "answerAlts": [
+        "freeze",
+        "freezing",
+        "frozen"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#140",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-141",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "法国；法语；法国人",
+      "answerPrimary": "France / French / Frenchman",
+      "answerAlts": [
+        "France",
+        "French"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#141",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-142",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "频繁的；经常的",
+      "answerPrimary": "frequent / frequently",
+      "answerAlts": [
+        "frequent",
+        "frequently"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#142",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-143",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "新鲜的",
+      "answerPrimary": "fresh",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#143",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-144",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "摩擦",
+      "answerPrimary": "friction",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#144",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-145",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "星期五；冰箱",
+      "answerPrimary": "Friday / fridge / refrigerator",
+      "answerAlts": [
+        "Friday",
+        "fridge",
+        "refrigerator"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#145",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-146",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "朋友；友好；友谊",
+      "answerPrimary": "friend / friendly / friendship",
+      "answerAlts": [
+        "friend",
+        "friendly",
+        "friendship",
+        "make friends with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#146",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-147",
+      "unitId": "23",
+      "type": "zh2en",
+      "prompt": "惊吓；青蛙",
+      "answerPrimary": "fright / frighten / frog",
+      "answerAlts": [
+        "fright",
+        "frighten",
+        "frightened",
+        "frog"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#147",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u23-148",
+      "unitId": "23",
+      "type": "cloze",
+      "prompt": "She is fond ____ classical music.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#148",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

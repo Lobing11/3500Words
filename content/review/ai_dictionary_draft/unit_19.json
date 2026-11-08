@@ -1,0 +1,570 @@
+{
+  "unitId": "19",
+  "name": "Unit 19 (election—equipment)",
+  "order": 19,
+  "rangeFrom": "election",
+  "rangeTo": "equipment",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u19-101",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "选举；推选",
+      "answerPrimary": "election / elect",
+      "answerAlts": [
+        "election",
+        "elect"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#101",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-102",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "电的；电气的；电",
+      "answerPrimary": "electric / electrical / electricity / electronic",
+      "answerAlts": [
+        "electric",
+        "electrical",
+        "electricity",
+        "electronic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#102",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-103",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "优雅的",
+      "answerPrimary": "elegant",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#103",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-104",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "大象",
+      "answerPrimary": "elephant",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#104",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-105",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "其他；别处",
+      "answerPrimary": "else / or else",
+      "answerAlts": [
+        "else",
+        "or else"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#105",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-106",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "使尴尬",
+      "answerPrimary": "embarrass / embarrassed / embarrassing",
+      "answerAlts": [
+        "embarrass",
+        "embarrassed",
+        "embarrassing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#106",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-107",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "大使馆",
+      "answerPrimary": "embassy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#107",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-108",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "紧急情况",
+      "answerPrimary": "emergency / in an emergency",
+      "answerAlts": [
+        "emergency",
+        "in an emergency"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#108",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-109",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "皇帝；帝国",
+      "answerPrimary": "emperor / empire",
+      "answerAlts": [
+        "emperor",
+        "empire"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#109",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-110",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "雇用；使用",
+      "answerPrimary": "employ / employee / employer / employment",
+      "answerAlts": [
+        "employ",
+        "employee",
+        "employer",
+        "employment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#110",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-111",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "空的；清空",
+      "answerPrimary": "empty",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#111",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-112",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "鼓励",
+      "answerPrimary": "encourage / encouragement",
+      "answerAlts": [
+        "encourage",
+        "encouragement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#112",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-113a",
+      "unitId": "19",
+      "type": "phrase_cluster",
+      "prompt": "结束；末端",
+      "answerPrimary": "end / in the end / at the end of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u19-end"
+    },
+    {
+      "id": "u19-113b",
+      "unitId": "19",
+      "type": "phrase_cluster",
+      "prompt": "以……结束",
+      "answerPrimary": "end up with / end up doing",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#113b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u19-end"
+    },
+    {
+      "id": "u19-114",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "无尽的",
+      "answerPrimary": "endless",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#114",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-115",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "敌人",
+      "answerPrimary": "enemy",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#115",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-116",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "精力充沛的；能量",
+      "answerPrimary": "energetic / energy",
+      "answerAlts": [
+        "energetic",
+        "energy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#116",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-117",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "发动机；工程师",
+      "answerPrimary": "engine / engineer",
+      "answerAlts": [
+        "engine",
+        "engineer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#117",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-118",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "英国；英语",
+      "answerPrimary": "England / English",
+      "answerAlts": [
+        "England",
+        "English"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#118",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-119",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "享受；喜爱",
+      "answerPrimary": "enjoy / enjoy oneself / enjoyable",
+      "answerAlts": [
+        "enjoy",
+        "enjoy oneself",
+        "enjoyable"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#119",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u19-120",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "扩大；放大",
+      "answerPrimary": "enlarge",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#120",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-121",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "足够的",
+      "answerPrimary": "enough",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#121",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-122",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "询问",
+      "answerPrimary": "enquiry / inquiry / enquire",
+      "answerAlts": [
+        "enquiry",
+        "inquiry",
+        "enquire"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#122",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-123",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "进入；企业",
+      "answerPrimary": "enter / enterprise / entrance / entry",
+      "answerAlts": [
+        "enter",
+        "enterprise",
+        "entrance",
+        "entry"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#123",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-124",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "娱乐",
+      "answerPrimary": "entertainment / entertain",
+      "answerAlts": [
+        "entertainment",
+        "entertain"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#124",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-125",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "热情的；热情",
+      "answerPrimary": "enthusiastic / enthusiasm",
+      "answerAlts": [
+        "enthusiastic",
+        "enthusiasm",
+        "be enthusiastic about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#125",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-126",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "全部的；整个的",
+      "answerPrimary": "entire / entirely",
+      "answerAlts": [
+        "entire",
+        "entirely"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#126",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-127",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "信封",
+      "answerPrimary": "envelope",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#127",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-128",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "环境",
+      "answerPrimary": "environment / environmental",
+      "answerAlts": [
+        "environment",
+        "environmental"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#128",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-129",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "羡慕；嫉妒",
+      "answerPrimary": "envy / envy sb sth",
+      "answerAlts": [
+        "envy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#129",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-130",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "相等的；平等",
+      "answerPrimary": "equal / equality / be equal to",
+      "answerAlts": [
+        "equal",
+        "equality",
+        "be equal to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#130",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-131",
+      "unitId": "19",
+      "type": "zh2en",
+      "prompt": "装备；设备",
+      "answerPrimary": "equip / equipment / be equipped with",
+      "answerAlts": [
+        "equip",
+        "equipment",
+        "be equipped with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#131",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-132",
+      "unitId": "19",
+      "type": "pattern",
+      "prompt": "他最后终于成功了",
+      "answerPrimary": "He succeeded in the end",
+      "answerAlts": [
+        "In the end he succeeded"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#132",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u19-133",
+      "unitId": "19",
+      "type": "cloze",
+      "prompt": "The lab is equipped ____ modern computers.",
+      "answerPrimary": "with",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#133",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "with",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

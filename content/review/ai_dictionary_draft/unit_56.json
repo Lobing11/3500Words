@@ -1,0 +1,866 @@
+{
+  "unitId": "56",
+  "name": "Unit 56 (too—turkey)",
+  "order": 56,
+  "items": [
+    {
+      "id": "u56-101",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "太……而不能……",
+      "answerPrimary": "too ... to",
+      "answerAlts": [
+        "too adj to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-102",
+      "unitId": "56",
+      "type": "pattern",
+      "prompt": "这本书太难，我读不懂（too ... to）",
+      "answerPrimary": "The book is too difficult for me to read",
+      "answerAlts": [
+        "The book is too hard for me to read"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-103",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "也；还（句末）",
+      "answerPrimary": "too",
+      "answerAlts": [
+        "as well",
+        "also"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-104",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "工具；手段",
+      "answerPrimary": "tool",
+      "answerAlts": [
+        "a tool"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-105",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "牙痛 / 牙膏 / 牙刷",
+      "answerPrimary": "toothache / toothpaste / toothbrush",
+      "answerAlts": [
+        "toothache",
+        "toothpaste",
+        "toothbrush"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-106",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "在顶端；居首位",
+      "answerPrimary": "on top of",
+      "answerAlts": [
+        "at the top of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-107",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "话题；主题",
+      "answerPrimary": "topic",
+      "answerAlts": [
+        "subject",
+        "theme"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-108",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "总计；合计为",
+      "answerPrimary": "total / add up to",
+      "answerAlts": [
+        "in total",
+        "amount to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-109a",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "接触；触摸",
+      "answerPrimary": "touch",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u56-touch"
+    },
+    {
+      "id": "u56-109b",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "与……保持联系",
+      "answerPrimary": "keep in touch with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u56-touch"
+    },
+    {
+      "id": "u56-109c",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "取得联系",
+      "answerPrimary": "get in touch with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u56-touch"
+    },
+    {
+      "id": "u56-109d",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "失去联系",
+      "answerPrimary": "lose touch with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#9d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u56-touch"
+    },
+    {
+      "id": "u56-110",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "艰难的；坚强的；棘手的",
+      "answerPrimary": "tough",
+      "answerAlts": [
+        "difficult",
+        "hard"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-111",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "旅游 / 旅游业 / 游客",
+      "answerPrimary": "tour / tourism / tourist",
+      "answerAlts": [
+        "tour",
+        "tourism",
+        "tourist"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-112",
+      "unitId": "56",
+      "type": "cloze",
+      "prompt": "____ the direction of / ____ town",
+      "answerPrimary": "in|towards",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#12",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "in",
+          "alts": [
+            "towards",
+            "toward"
+          ]
+        },
+        {
+          "index": 1,
+          "answer": "towards",
+          "alts": [
+            "toward",
+            "to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u56-113",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "朝；向；对于",
+      "answerPrimary": "towards / toward",
+      "answerAlts": [
+        "towards",
+        "toward"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-114",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "毛巾 / 塔；高楼",
+      "answerPrimary": "towel / tower",
+      "answerAlts": [
+        "towel",
+        "tower"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-115",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "追踪；踪迹；跑道",
+      "answerPrimary": "track",
+      "answerAlts": [
+        "keep track of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-116",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "跟上……的进展",
+      "answerPrimary": "keep track of",
+      "answerAlts": [
+        "keep track"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-117",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "贸易；交易；以……换……",
+      "answerPrimary": "trade / trade A for B",
+      "answerAlts": [
+        "trade",
+        "trade for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#17",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-118",
+      "unitId": "56",
+      "type": "word_form",
+      "prompt": "tradition（形容词）",
+      "answerPrimary": "traditional",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#18",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "traditional",
+          "alts": []
+        }
+      ],
+      "hint": "tradition"
+    },
+    {
+      "id": "u56-119",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "交通堵塞",
+      "answerPrimary": "traffic jam",
+      "answerAlts": [
+        "a traffic jam",
+        "heavy traffic"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#19",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-120",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "训练；培训",
+      "answerPrimary": "training",
+      "answerAlts": [
+        "train"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u56-121",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "使改观；变换",
+      "answerPrimary": "transform",
+      "answerAlts": [
+        "transform into",
+        "change into"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-122",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "把……翻译成……",
+      "answerPrimary": "translate ... into",
+      "answerAlts": [
+        "translate into"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-123",
+      "unitId": "56",
+      "type": "word_form",
+      "prompt": "translate（名词：译文/翻译）",
+      "answerPrimary": "translation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#23",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "translation",
+          "alts": []
+        }
+      ],
+      "hint": "translate"
+    },
+    {
+      "id": "u56-124",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "运输；交通工具",
+      "answerPrimary": "transport",
+      "answerAlts": [
+        "transportation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-125",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "使陷入困境；陷阱",
+      "answerPrimary": "trap / be trapped in",
+      "answerAlts": [
+        "be trapped",
+        "trap"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-126",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "旅行；游历",
+      "answerPrimary": "travel",
+      "answerAlts": [
+        "go travelling",
+        "go traveling"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-127",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "宝藏；珍惜",
+      "answerPrimary": "treasure",
+      "answerAlts": [
+        "cherish"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-128a",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "把……当作；治疗",
+      "answerPrimary": "treat ... as / treat",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u56-treat"
+    },
+    {
+      "id": "u56-128b",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "请客；款待",
+      "answerPrimary": "treat sb to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u56-treat"
+    },
+    {
+      "id": "u56-128c",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "治疗；疗法",
+      "answerPrimary": "treatment",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#28c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u56-treat"
+    },
+    {
+      "id": "u56-129",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "发抖；颤抖",
+      "answerPrimary": "tremble",
+      "answerAlts": [
+        "tremble with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-130",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "趋势；倾向",
+      "answerPrimary": "trend",
+      "answerAlts": [
+        "tendency"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-131",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "审判；试验；试用",
+      "answerPrimary": "trial",
+      "answerAlts": [
+        "on trial"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#31",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-132",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "捉弄；欺骗",
+      "answerPrimary": "play a trick on",
+      "answerAlts": [
+        "play tricks on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#32",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-133",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "旅行；短途行程",
+      "answerPrimary": "trip",
+      "answerAlts": [
+        "take a trip"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#33",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-134a",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "有麻烦；处于困境",
+      "answerPrimary": "in trouble",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u56-trouble"
+    },
+    {
+      "id": "u56-134b",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "麻烦某人做……",
+      "answerPrimary": "trouble sb to do",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u56-trouble"
+    },
+    {
+      "id": "u56-134c",
+      "unitId": "56",
+      "type": "phrase_cluster",
+      "prompt": "不辞辛劳做……",
+      "answerPrimary": "take the trouble to do",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "ai-gen-from-catalog#34c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u56-trouble"
+    },
+    {
+      "id": "u56-135",
+      "unitId": "56",
+      "type": "word_form",
+      "prompt": "trouble（形容词：麻烦的）",
+      "answerPrimary": "troublesome",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "ai-gen-from-catalog#35",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "troublesome",
+          "alts": []
+        }
+      ],
+      "hint": "trouble"
+    },
+    {
+      "id": "u56-136",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "真实地；真正地",
+      "answerPrimary": "truly",
+      "answerAlts": [
+        "really",
+        "genuinely"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#36",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-137",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "信任；信赖",
+      "answerPrimary": "trust",
+      "answerAlts": [
+        "have trust in",
+        "believe in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#37",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-138",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "说出真相；说实话",
+      "answerPrimary": "tell the truth",
+      "answerAlts": [
+        "speak the truth"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#38",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-139",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "试用；尝试；试穿",
+      "answerPrimary": "try on / try out",
+      "answerAlts": [
+        "try on",
+        "try out",
+        "have a try"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#39",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-140",
+      "unitId": "56",
+      "type": "cloze",
+      "prompt": "try ____ best ____ do sth",
+      "answerPrimary": "one's|to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "ai-gen-from-catalog#40",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "one's",
+          "alts": [
+            "your",
+            "his",
+            "her",
+            "their",
+            "my"
+          ]
+        },
+        {
+          "index": 1,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u56-141",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "曲调；调音；频道",
+      "answerPrimary": "tune",
+      "answerAlts": [
+        "tune in to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#41",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-142",
+      "unitId": "56",
+      "type": "zh2en",
+      "prompt": "火鸡；（大写）土耳其",
+      "answerPrimary": "turkey / Turkey",
+      "answerAlts": [
+        "turkey",
+        "Turkey"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "ai-gen-from-catalog#42",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u56-143",
+      "unitId": "56",
+      "type": "pattern",
+      "prompt": "再怎么仔细也不为过（cannot ... too）",
+      "answerPrimary": "One cannot be too careful",
+      "answerAlts": [
+        "You cannot be too careful",
+        "You can never be too careful"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "ai-gen-from-catalog#43",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ],
+  "rangeFrom": "too",
+  "rangeTo": "turkey",
+  "wordsPerUnit": 50
+}
