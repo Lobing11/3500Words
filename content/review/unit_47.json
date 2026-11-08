@@ -1,0 +1,551 @@
+{
+  "unitId": "47",
+  "name": "Unit 47",
+  "order": 47,
+  "items": [
+    {
+      "id": "u47-1",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "screen sb from",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u47-2",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "screen for disease",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u47-3",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "发出尖叫声",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u47-4",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "踢进一球",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u47-5",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "scissors",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u47-6",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "arts and science",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u47-7",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "获得奖学金",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u47-8",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "会议定于下周举行。",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u47-9",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "如期",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u47-10",
+      "unitId": "47",
+      "type": "word_form",
+      "prompt": "a __(scene) spot",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u47-11",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "burst on the scene",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u47-12",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "吓走",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u47-13",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "吓得某人做某事",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u47-14",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "常言道",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u47-15",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "发射卫星",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u47-16",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "一个满意的微笑",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u47-17",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "满足感",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u47-18",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "省得我跑一趟",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u47-19",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "open a ____ account 储蓄账户",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u47-20",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "that is to say",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u47-21",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "It goes without saying that=needless to say",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u47-2",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "rubber/ruler",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u47-3",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "沦为废墟",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u47-4",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "observe a rule",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u47-5",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "排除可能性",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u47-6",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "偶遇",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u47-7",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "追赶",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u47-8",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "用光",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u47-9",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "把sb 紧急送往医院",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u47-10",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "the Chrismas rush",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u47-11",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "a rush of anger",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u47-12",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "启航",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u47-13",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "在销售",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u47-14",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "品尝当地美食",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit47-1-25#14",
+      "needsReview": true
+    }
+  ]
+}

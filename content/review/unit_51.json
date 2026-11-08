@@ -1,0 +1,631 @@
+{
+  "unitId": "51",
+  "name": "Unit 51",
+  "order": 51,
+  "items": [
+    {
+      "id": "u51-1",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "to start with",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u51-2",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "make a start",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u51-3",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "die of __(starve)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u51-4",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "The film will star him",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u51-5",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "stand the test/stand by/ stand out against/stand as",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u51-6",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "在护照上盖戳",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u51-7",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "stamp one’s feet in anger",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u51-8",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "a flight of stairs",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u51-9",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "set the stage for/stage a ceremony",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u51-10",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "stable(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u51-11",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spring up/hot spring",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u51-12",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spring to one’s feet",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u51-13",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spread out the map spread medicine on the wound",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u51-14",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spot sb doing/hit the spot",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u51-15",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spoon(sdj.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u51-16",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "情绪高昂",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u51-17",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "fighting spirit",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u51-18",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spirit （adj.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u51-19",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "spell a disaster/your name",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u51-20",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "__ a speed of /pick up speed",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u51-1",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "feel somewhat/sort of  exhausted",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u51-2",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "我们刚出发就开始下雨（Soon）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u51-3",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "deliver an address",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u51-4",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "气得说不出话来",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u51-5",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "set specific goals",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u51-6",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "a disease specific to children",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u51-7",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "sorrow(adj.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u51-8",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "be sorry for sb",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u51-9",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "sort out the drawer/sort the apples by grade",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u51-10",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "keep body and soul together/serve sb heart and soul",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u51-11",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "source sth from … /the source of the conflict /the source of the sea",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u51-12",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "offer some sound advice /safe and sound / a sound sleep /sound the whistle",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u51-14",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "south(adj.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u51-15",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "sow (过去式、过去分词） 16.spare you a visit to the company/a sapre key sprare a thought for the homelesss",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u51-17",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "speak volumes for /speak ill of sb.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u51-18",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "a __(speak) angreement",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u51-19",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "Connect your phone to the speaker.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u51-20",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "be on speacial offer",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u51-21",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "专攻于，专门从事",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit51-1-25#21",
+      "needsReview": true
+    }
+  ]
+}

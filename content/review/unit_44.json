@@ -1,0 +1,807 @@
+{
+  "unitId": "44",
+  "name": "Unit 44",
+  "order": 44,
+  "items": [
+    {
+      "id": "u44-1",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "沦为乞丐",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u44-2",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "reduce(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u44-3",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "正视现实",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u44-4",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "reasoning ability",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u44-5",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "the reason__ sth=the cause__ sth",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u44-6",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "offer reasonable advice/reasonable price",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u44-7",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "recall my childhood/recall the fake product",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u44-8",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "a sales receipt/Payment will be made on receipt of the goods.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u44-9",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "很受欢迎",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u44-10",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "replace the receiver",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u44-11",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "hotel reception",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u44-12",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "The new policy met with a mixed reception.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u44-13",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "健康的秘诀",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u44-14",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "recite(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u44-15",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "无法辨认",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u44-16",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "I recognized the tune the moment she began to play.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u44-17",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "He failed to recognize the danger ahead.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u44-18",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "She received the medal in recognition of her courage",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u44-19",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "人们公认、普遍认为",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u44-20",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "这本书值得推荐。",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u44-21",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "The doctor recommended that he ____ (give) up staying up late.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u44-22",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "keep a record of/set a record/play a record",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#22",
+      "needsReview": true
+    },
+    {
+      "id": "u44-23",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "recover the lost antique",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#23",
+      "needsReview": true
+    },
+    {
+      "id": "u44-24",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "Reading is not only for recreation, but broadens our horizons.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#24",
+      "needsReview": true
+    },
+    {
+      "id": "u44-25",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "recreational facilities",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-26-50#25",
+      "needsReview": true
+    },
+    {
+      "id": "u44-1",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "over the radio",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u44-2",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "充分发挥你的潜能",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u44-3",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "ready money",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u44-4",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "Currently,the information is readily available online. She readily accepted my plan.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u44-5",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "制定一个切实可行的计划",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u44-6",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "lean against the rail",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u44-7",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "Troubles rained down.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u44-8",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "raise money/one’s spirits/a family/a ban on smoking",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u44-9",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "随机地（短语）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u44-10",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "涉及从....到...范围",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u44-11",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "within the range of my vision",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u44-12",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "属于...之列",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u44-13",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "__ an alarming rate 以惊人的速度",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u44-14",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "at any rate",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u44-15",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "rate sth highly",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u44-16",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "He is a scientist, or rather, a biologist.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u44-17",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "You are ill, so I would rather you __(stay) at home. I would rather you ____ (not make) that mistake yesterday.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u44-18",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "raw materials/a raw beginner",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u44-19",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "一线希望",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u44-20",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "reach me on the phone",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u44-21",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "reach out to",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#21",
+      "needsReview": true
+    },
+    {
+      "id": "u44-22",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "within the reach of",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#22",
+      "needsReview": true
+    },
+    {
+      "id": "u44-23",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "反应不一",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#23",
+      "needsReview": true
+    },
+    {
+      "id": "u44-24",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "看懂某人的想法",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#24",
+      "needsReview": true
+    },
+    {
+      "id": "u44-25",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "The sign reads, “No smoking”",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit44-1-25#25",
+      "needsReview": true
+    }
+  ]
+}

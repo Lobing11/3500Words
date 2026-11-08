@@ -1,0 +1,391 @@
+{
+  "unitId": "53",
+  "name": "Unit 53",
+  "order": 53,
+  "items": [
+    {
+      "id": "u53-4",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "a  __(sustain) effort/promote __ (sustain) development",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#4",
+      "needsReview": true
+    },
+    {
+      "id": "u53-5",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "He was suspended from office./suspend a lamp from the ceiling",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#5",
+      "needsReview": true
+    },
+    {
+      "id": "u53-6",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "survival of the fittest",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#6",
+      "needsReview": true
+    },
+    {
+      "id": "u53-7",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "He survived her husband by 5 years.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#7",
+      "needsReview": true
+    },
+    {
+      "id": "u53-8",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "survive __ my salary",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#8",
+      "needsReview": true
+    },
+    {
+      "id": "u53-9",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "the deadline for __(submit)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#9",
+      "needsReview": true
+    },
+    {
+      "id": "u53-10",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "submit an application/submit oneself to fate",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#10",
+      "needsReview": true
+    },
+    {
+      "id": "u53-11",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "subscribe  to the idea/the journal/the charity",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#11",
+      "needsReview": true
+    },
+    {
+      "id": "u53-12",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "订阅者/订阅(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#12",
+      "needsReview": true
+    },
+    {
+      "id": "u53-13",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "subsequent experiments 14.subway/substantial/superb/surgeon/surgery 15.the substance of the speech/a chemical substance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#13",
+      "needsReview": true
+    },
+    {
+      "id": "u53-16",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "perform a __(surgery) operation",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#16",
+      "needsReview": true
+    },
+    {
+      "id": "u53-17",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "succeed __ doing/succeed him as chairman",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#17",
+      "needsReview": true
+    },
+    {
+      "id": "u53-18",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "sufficient (oppo.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#18",
+      "needsReview": true
+    },
+    {
+      "id": "u53-19",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "__ one’s suggestion (根据）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#19",
+      "needsReview": true
+    },
+    {
+      "id": "u53-20",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "I suggest him __(accept) the plan. /I suggest that he _(calm) down, for his look suggests that he _(be) very anxious.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#20",
+      "needsReview": true
+    },
+    {
+      "id": "u53-21",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "be suited  _/be suitable _ 适合于",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#21",
+      "needsReview": true
+    },
+    {
+      "id": "u53-22",
+      "unitId": "53",
+      "type": "zh2en",
+      "prompt": "总结，归纳（两个）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#22",
+      "needsReview": true
+    },
+    {
+      "id": "u53-23",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "relief supplies",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#23",
+      "needsReview": true
+    },
+    {
+      "id": "u53-24",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "supply sb _ sth/supply sth _ sb.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#24",
+      "needsReview": true
+    },
+    {
+      "id": "u53-25",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "support(adj.)26.Everyone is supposed ____(obey) the school rules.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#25",
+      "needsReview": true
+    },
+    {
+      "id": "u53-27",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "He has a sense of __(superior), thinking he is superior __ everyone else.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#27",
+      "needsReview": true
+    },
+    {
+      "id": "u53-28",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "____(suppose) you are wrong, what will you do? 29.不足为奇",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#28",
+      "needsReview": true
+    },
+    {
+      "id": "u53-30",
+      "unitId": "53",
+      "type": "cloze",
+      "prompt": "take sth by surprise",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#30",
+      "needsReview": true
+    },
+    {
+      "id": "u53-31",
+      "unitId": "53",
+      "type": "word_form",
+      "prompt": "进行调查 He likes the ____ woods and enjoys the peaceful ___.(surround)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit53-all#31",
+      "needsReview": true
+    }
+  ]
+}

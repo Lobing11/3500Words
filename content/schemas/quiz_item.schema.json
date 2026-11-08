@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local/3500words/quiz_item.schema.json",
+  "title": "UnitQuizBank",
+  "type": "object",
+  "required": ["unitId", "name", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "unitId": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "order": { "type": "integer", "minimum": 0 },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/QuizItem" }
+    }
+  },
+  "$defs": {
+    "QuizItem": {
+      "type": "object",
+      "required": ["id", "unitId", "type", "prompt", "answerPrimary"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "unitId": { "type": "string", "minLength": 1 },
+        "type": {
+          "type": "string",
+          "enum": ["zh2en", "cloze", "word_form", "phrase_cluster", "pattern"]
+        },
+        "prompt": { "type": "string", "minLength": 1 },
+        "answerPrimary": { "type": "string", "minLength": 1 },
+        "answerAlts": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": []
+        },
+        "blanks": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Blank" },
+          "default": []
+        },
+        "hint": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": []
+        },
+        "relatedGroupId": { "type": "string" },
+        "sourceRef": { "type": "string" }
+      }
+    },
+    "Blank": {
+      "type": "object",
+      "required": ["index", "answer"],
+      "additionalProperties": false,
+      "properties": {
+        "index": { "type": "integer", "minimum": 0 },
+        "answer": { "type": "string", "minLength": 1 },
+        "alts": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": []
+        }
+      }
+    }
+  }
+}

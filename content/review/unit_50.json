@@ -1,0 +1,407 @@
+{
+  "unitId": "50",
+  "name": "Unit 50",
+  "order": 50,
+  "items": [
+    {
+      "id": "u50-1",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "与...打交道",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u50-2",
+      "unitId": "50",
+      "type": "word_form",
+      "prompt": "join  in the debating society 3.His words ____(soft) my anxiety.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u50-4",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "a solar panel/cell",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u50-5",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "The hall was packed solid.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u50-6",
+      "unitId": "50",
+      "type": "word_form",
+      "prompt": "The crisis strengthened the __(solid) among team members.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u50-7",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "打下坚实的基础",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u50-8",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "...的解决方法",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u50-9",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "解谜",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u50-10",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "We will somehow finish the task. I am familiar with the village, but somehow I got lost.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u50-11",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "He is something of an expert.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u50-1",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "逃课",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u50-2",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "skateboard/skier",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u50-3",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "瞌睡的",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u50-4",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "a slice of the profit/bread",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u50-5",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "溜进房间",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u50-6",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "不知不觉染上坏习惯",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u50-7",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "a slight increase/figure/not in the slightest",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u50-8",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "a slim chance of success",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u50-9",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "She is slimming down./slim down the staff",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u50-10",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "Time is slipping away./ His name slipped my mind. / The plate slipped from my hand./a slip of tounge",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u50-11",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "He set off at a smart pace./dress smartly",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u50-12",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "闻起来有油漆味",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u50-13",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "smelly socks",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u50-14",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "消除困难",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u50-15",
+      "unitId": "50",
+      "type": "cloze",
+      "prompt": "a snack bar",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit50-1-25#15",
+      "needsReview": true
+    }
+  ]
+}

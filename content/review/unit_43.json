@@ -1,0 +1,759 @@
+{
+  "unitId": "43",
+  "name": "Unit 43",
+  "order": 43,
+  "items": [
+    {
+      "id": "u43-1",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "She purchased the necklace ___ 800 yuan . /He made a purchase __ a valuable vase.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u43-2",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "by pure chance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u43-3",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "种族偏见",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u43-4",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "be equal to eveyone ____(不管他们的种族)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u43-5",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "race against sb",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u43-6",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "__(净化) yourself 净化心灵",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u43-7",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "故意地 (5个）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u43-8",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "The car is old, but it will serve the purpose.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u43-9",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "He quoted a line from the play.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u43-10",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "辍学",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u43-11",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "戒烟",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u43-13",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "__ (quick) the pace",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u43-14",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "The car is beyond one’s purse.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u43-15",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "符合资格",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u43-16",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "被取消比赛资格",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u43-17",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "胜任该职位",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u43-18",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "The product is __ high quliaty.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u43-19",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "buy sth __ large quantities",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u43-20",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "Unfortunately, large quantities of water __(pollute).",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u43-21",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "It costs three quarters./He gets paid by the quarter.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u43-22",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "out of question/out of the question The police questioned the witness about the accident./No one questioned his decision.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#22",
+      "needsReview": true
+    },
+    {
+      "id": "u43-23",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "逐梦",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#23",
+      "needsReview": true
+    },
+    {
+      "id": "u43-24",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "He travelled west __(追求) fortune.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#24",
+      "needsReview": true
+    },
+    {
+      "id": "u43-25",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "毅然推行、努力争取、催促某人做...",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#25",
+      "needsReview": true
+    },
+    {
+      "id": "u43-26",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "put away/down/off                         \t\t\tput on weight/put on music put me through to the manager             \t\t\tput up with put up a tent /put our heads togther               to put it simply",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "phrase_cluster"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-26-50#26",
+      "needsReview": true
+    },
+    {
+      "id": "u43-1",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "A timely snow __ a good harvest.  瑞雪兆丰年。",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u43-2",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "a __ writer 一个有前途的作家=a writer with p__",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u43-3",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "publish/punish",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u43-4",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "__ the protection of",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u43-5",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "Doing pull-ups builds strength in your back and arms.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u43-6",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "pull down the old buildings/pull out of the project/pull together/pull up/pull sb through",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u43-7",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "当众演讲",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u43-8",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "The plan was __(public)  announced last week",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u43-9",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "__(protect) suits",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u43-10",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "promote the product/the peace cause/晋升为经理",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u43-11",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "pronounce(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u43-12",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "有证据表明(句型)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u43-13",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "防水服",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u43-14",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "Her smile was a telling proof of her satisfaction.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u43-15",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "After months of investigation, he __ (prove) innocent.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u43-16",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "提交一个提议",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u43-17",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "proper(oppo.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u43-18",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "I propose __(hold) a class meeting this Friday.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u43-19",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "be proud _ =take pride _",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u43-20",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "provide sb._ sth=provide sth _sb.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u43-21",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "provide for a big family /The plan provides for possible risks.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#21",
+      "needsReview": true
+    },
+    {
+      "id": "u43-22",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "providing (conj.)=_______",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit43-1-25#22",
+      "needsReview": true
+    }
+  ]
+}

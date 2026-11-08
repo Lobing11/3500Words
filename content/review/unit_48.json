@@ -1,0 +1,711 @@
+{
+  "unitId": "48",
+  "name": "Unit 48",
+  "order": 48,
+  "items": [
+    {
+      "id": "u48-1",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "把...和...分开",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u48-2",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "分开(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u48-3",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "认真对待...",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u48-4",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "当床用",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u48-5",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "服兵役",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u48-6",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "供应早餐",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u48-7",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "My car is at your service.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u48-8",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "sharpen the rusting knife/writing skills",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u48-9",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "a sharp turn/increse/pain/sharp eyes",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u48-10",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "分担负担",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u48-11",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "共同的价值观",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u48-12",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "Everyone must do their share of the work.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u48-13",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "强身健体",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u48-14",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "以...的形状",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u48-15",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "What a shame？",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u48-16",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "以...为背景",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u48-17",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "着手做",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u48-18",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "set off a debate/fireworks",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u48-19",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "set the table",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u48-20",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "an ideal setting for a walk",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u48-21",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "settle for the price",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u48-22",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "He was unsettled.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#22",
+      "needsReview": true
+    },
+    {
+      "id": "u48-23",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "Dust settled on  the table.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#23",
+      "needsReview": true
+    },
+    {
+      "id": "u48-24",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "a permanent settlement/reach a seelement 25.在阴凉处",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#24",
+      "needsReview": true
+    },
+    {
+      "id": "u48-26",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "给...蒙上阴影",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#26",
+      "needsReview": true
+    },
+    {
+      "id": "u48-27",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "吓得发抖",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#27",
+      "needsReview": true
+    },
+    {
+      "id": "u48-28",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "shake off fear",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#28",
+      "needsReview": true
+    },
+    {
+      "id": "u48-29",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "shake one’s confidence in",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#29",
+      "needsReview": true
+    },
+    {
+      "id": "u48-30",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "a shallow stream/a shllow knowledge of sth",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-26-50#30",
+      "needsReview": true
+    },
+    {
+      "id": "u48-4",
+      "unitId": "48",
+      "type": "word_form",
+      "prompt": "___(seat) by the window, Mr. Henderson stared at the snow.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u48-5",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "second only to/second to none /a second chance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u48-6",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "a primary/secondary factor",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u48-7",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "a secure place to hide/feel secure about one’s future/secure the old man from the cold/secure a positon/Secure the door before leaving. 8.see to the emergency",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u48-9",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "Last year __(见证) the development of the city.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u48-10",
+      "unitId": "48",
+      "type": "word_form",
+      "prompt": "我设法安抚老人。(seek)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u48-11",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "似乎有",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u48-12",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "The kind of the books ___(畅销)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u48-13",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "send __ a doctor/send __ a rocket",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u48-14",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "be senior/junior/superior/inferior to",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u48-15",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "高三学生",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u48-16",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "senior citizens",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u48-17",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "come to one’s senses/There is no sense/point doing/the sense of touch /",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u48-18",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "对...体贴、敏感",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u48-19",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "be sentenced to death",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit48-1-25#19",
+      "needsReview": true
+    }
+  ]
+}

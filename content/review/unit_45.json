@@ -1,0 +1,1031 @@
+{
+  "unitId": "45",
+  "name": "Unit 45",
+  "order": 45,
+  "items": [
+    {
+      "id": "u45-1",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "She __(评论) that his work was __(非凡的).",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u45-2",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "be upset by his mean remarks",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u45-3",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "remember doing/to do",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u45-4",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "remind(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u45-5",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "a remote control/a remote relative remote education/There is only a remote chance that we will win.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u45-6",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "remove glasses",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u45-7",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "撤他的职",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u45-8",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "消除异议",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u45-9",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "remove （n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u45-10",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "The house is __ rent.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u45-11",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "__ repair 在修理中",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u45-12",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "beyond repair 13._(repeat) practice helps improve your English.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u45-14",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "Replace the books on the shelf after reading. We replaced the old equipment _ new ones./He will act as a _(replace) for our manager.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u45-15",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "Several residents reported _(hear) loud noises last night. He was reported __(donate) a large fortune to the Chrity, which helped a lot of pepople.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u45-16",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "The media represented him as a hero. / act as a sales __(represent)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u45-17",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "名副其实",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u45-18",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "按照某人的要求",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u45-19",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "make a request __ sth 请求",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u45-20",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "He made a request that we _(arrive) on time.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u45-21",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "The house requires _(mend).",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u45-22",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "来营救sb",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#22",
+      "needsReview": true
+    },
+    {
+      "id": "u45-23",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "do research __ eco-system",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#23",
+      "needsReview": true
+    },
+    {
+      "id": "u45-24",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "保留做...的权利",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#24",
+      "needsReview": true
+    },
+    {
+      "id": "u45-25",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "wildlife reserves",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#25",
+      "needsReview": true
+    },
+    {
+      "id": "u45-26",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "把位子留给残疾人",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#26",
+      "needsReview": true
+    },
+    {
+      "id": "u45-27",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "funds in reserve",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#27",
+      "needsReview": true
+    },
+    {
+      "id": "u45-28",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "make a __ __ a hotel 预定",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#28",
+      "needsReview": true
+    },
+    {
+      "id": "u45-29",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "顺从于",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#29",
+      "needsReview": true
+    },
+    {
+      "id": "u45-30",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "忍不住要笑",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#30",
+      "needsReview": true
+    },
+    {
+      "id": "u45-31",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "heat-resistant materials",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#31",
+      "needsReview": true
+    },
+    {
+      "id": "u45-31",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "对...有抵抗力",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#31",
+      "needsReview": true
+    },
+    {
+      "id": "u45-32",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "wind resistance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-26-50#32",
+      "needsReview": true
+    },
+    {
+      "id": "u45-1",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "拭目以待",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u45-2",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "依然坐着",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u45-3",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "You may rely on it that he will succeed.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u45-4",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "缓解焦虑",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u45-5",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "宽慰地叹了口气",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u45-6",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "survive on relief",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u45-7",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "与...相关",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u45-8",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "buy the book with the __ (remain) money",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u45-9",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "a relay race/She relayed his request to me.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u45-10",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "release a new album/CO2/the report/the hostage",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u45-11",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "把...称作/refer the patient to another specialist/refer to the notes",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u45-12",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "没提及/in reference to",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u45-13",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "反思，仔细思考",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u45-14",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "The thief decided to reform.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u45-15",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "refresh the document/my memory of sth",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u45-16",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "神清气爽",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u45-17",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "拒绝（n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u45-18",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "I have something to say __(regard) the matter =__短语",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u45-19",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "be equal to everyone ___ their backgrounds (不管，不顾)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u45-20",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "注册网上课程",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u45-21",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "register(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#21",
+      "needsReview": true
+    },
+    {
+      "id": "u45-22",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "a registered letter",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#22",
+      "needsReview": true
+    },
+    {
+      "id": "u45-23",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "a regular visitor",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#23",
+      "needsReview": true
+    },
+    {
+      "id": "u45-24",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "不规律的",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#24",
+      "needsReview": true
+    },
+    {
+      "id": "u45-25",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "定期（短语）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#25",
+      "needsReview": true
+    },
+    {
+      "id": "u45-26",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "reject the applicant",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#26",
+      "needsReview": true
+    },
+    {
+      "id": "u45-27",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "relate the accident to the policeman",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#27",
+      "needsReview": true
+    },
+    {
+      "id": "u45-28",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "与...有关",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#28",
+      "needsReview": true
+    },
+    {
+      "id": "u45-29",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "Many teenagers can relate to the main character in the novel.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#29",
+      "needsReview": true
+    },
+    {
+      "id": "u45-30",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "The report discusses pollution in relation to  climate change. The cost is low in relation to the benefit we get.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#30",
+      "needsReview": true
+    },
+    {
+      "id": "u45-31",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "relatively speaking",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#31",
+      "needsReview": true
+    },
+    {
+      "id": "u45-32",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "放松(n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit45-1-25#32",
+      "needsReview": true
+    }
+  ]
+}

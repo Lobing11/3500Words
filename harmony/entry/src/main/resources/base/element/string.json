@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "3500 words quiz entry"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "3500抽背"
+    }
+  ]
+}

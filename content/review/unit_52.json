@@ -1,0 +1,743 @@
+{
+  "unitId": "52",
+  "name": "Unit 52",
+  "order": 52,
+  "items": [
+    {
+      "id": "u52-1",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "易遭受",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u52-2",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "get off the subject",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u52-3",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "research sujects",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u52-4",
+      "unitId": "52",
+      "type": "word_form",
+      "prompt": "She looks very ___(style) in that dress.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u52-5",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "Put all that stuff away.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u52-6",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "往口袋塞了些零食",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u52-7",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "She studied his face carefully./He is reading in his study.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u52-8",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "art/science steudents",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u52-9",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "在雪中艰难跋涉",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u52-10",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "挣扎着站起来",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u52-11",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "强忍着不哭",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u52-12",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "It was a struggle for him to accept the change.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u52-13",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "a well-structured report",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u52-14",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "structure one’s argument",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u52-15",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "She has great physical strength.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u52-16",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "a strong will",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u52-17",
+      "unitId": "52",
+      "type": "word_form",
+      "prompt": "Knowing your ___will ____ your confidence.(strong)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u52-18",
+      "unitId": "52",
+      "type": "word_form",
+      "prompt": "the strings of a guitar/Lanterns were__(string)in the trees./shoe strings/stretch the string tight",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u52-19",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "be strange to foreign culture",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u52-20",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "a stream of visitors/顺着…… 流淌下来/a mountain stream",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u52-21",
+      "unitId": "52",
+      "type": "word_form",
+      "prompt": "I cant’ stress the importance of sth...too much. /__ stress/The _job made him feel _.(stress).",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u52-22",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "be strict _sb._ sth.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#22",
+      "needsReview": true
+    },
+    {
+      "id": "u52-23",
+      "unitId": "52",
+      "type": "word_form",
+      "prompt": "__(strike) features",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#23",
+      "needsReview": true
+    },
+    {
+      "id": "u52-24",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "An idea __ me. /be struck by her appearance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-26-50#24",
+      "needsReview": true
+    },
+    {
+      "id": "u52-1",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "__ one’s intention 说明意图",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u52-2",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "据称",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u52-3",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "起草声明",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u52-4",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "使驻扎",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u52-5",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "stay over in his home",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u52-6",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "steak/steel/the Taiwai straits",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u52-7",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "sticky notes",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u52-8",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "speak sth in a straightforward manner",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u52-9",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "a three‑story building",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u52-10",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "The paper ran a story about environmental protection.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u52-11",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "暴风雨的",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u52-12",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "storm out of the room without a word",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u52-13",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "溜出房间",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u52-14",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "加快研究",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u52-15",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "follow in one’s steps",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u52-16",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "The kettle steamed on the stove.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u52-17",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "stick out one‘s toungue/against the blue sky",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u52-18",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "陷在泥巴中",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u52-19",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "stand still",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u52-20",
+      "unitId": "52",
+      "type": "zh2en",
+      "prompt": "激发对...的兴趣",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u52-21",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "There are better days _____ you. 好日子等着我们",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#21",
+      "needsReview": true
+    },
+    {
+      "id": "u52-22",
+      "unitId": "52",
+      "type": "cloze",
+      "prompt": "The hotel is a stone’s throw from the beach.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit52-1-25#22",
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "unitId": "42",
+  "name": "Unit 42",
+  "order": 42,
+  "items": [
+    {
+      "id": "u42-001a",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "purchase sth ____ a high/low price",
+      "answerPrimary": "at",
+      "answerAlts": [],
+      "blanks": [{ "index": 0, "answer": "at", "alts": [] }],
+      "tags": ["collocation"],
+      "sourceRef": "unit42-26-50#1a"
+    },
+    {
+      "id": "u42-001b",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "The dress is priced ____ 500 yuan.",
+      "answerPrimary": "at",
+      "answerAlts": [],
+      "blanks": [{ "index": 0, "answer": "at", "alts": [] }],
+      "tags": ["collocation"],
+      "sourceRef": "unit42-26-50#1b"
+    },
+    {
+      "id": "u42-002",
+      "unitId": "42",
+      "type": "pattern",
+      "prompt": "He won success ____ the price of his health.（以……为代价）",
+      "answerPrimary": "at",
+      "answerAlts": ["at the price of"],
+      "blanks": [{ "index": 0, "answer": "at", "alts": [] }],
+      "hint": "at the price of",
+      "tags": ["pattern"],
+      "sourceRef": "unit42-26-50#2"
+    },
+    {
+      "id": "u42-003",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "The restaurant is nice but a bit ____(price).",
+      "answerPrimary": "pricey",
+      "answerAlts": ["pricy"],
+      "blanks": [{ "index": 0, "answer": "pricey", "alts": ["pricy"] }],
+      "hint": "price",
+      "tags": ["word_form"],
+      "sourceRef": "unit42-26-50#3"
+    },
+    {
+      "id": "u42-004a",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "The reception is ____ progress.（在进行中）",
+      "answerPrimary": "in",
+      "answerAlts": ["in progress"],
+      "blanks": [{ "index": 0, "answer": "in", "alts": [] }],
+      "tags": ["collocation"],
+      "sourceRef": "unit42-26-50#4a"
+    },
+    {
+      "id": "u42-004b",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "The reception is ____ way.（在进行中）",
+      "answerPrimary": "under",
+      "answerAlts": ["under way", "underway"],
+      "blanks": [{ "index": 0, "answer": "under", "alts": [] }],
+      "tags": ["collocation"],
+      "sourceRef": "unit42-26-50#4b"
+    },
+    {
+      "id": "u42-005",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "在……方面取得进步",
+      "answerPrimary": "make progress in",
+      "answerAlts": ["make progress in sth", "make progress with"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-26-50#5"
+    },
+    {
+      "id": "u42-016",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "从……当中受益",
+      "answerPrimary": "benefit from",
+      "answerAlts": ["benefit from sth", "benefit from doing"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-26-50#16"
+    },
+    {
+      "id": "u42-013",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "a highly ____(produce) meeting（富有成效的会议）",
+      "answerPrimary": "productive",
+      "answerAlts": [],
+      "blanks": [{ "index": 0, "answer": "productive", "alts": [] }],
+      "hint": "produce",
+      "tags": ["word_form"],
+      "sourceRef": "unit42-26-50#13"
+    },
+    {
+      "id": "u42-018",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "a ____(profit) deal",
+      "answerPrimary": "profitable",
+      "answerAlts": [],
+      "blanks": [{ "index": 0, "answer": "profitable", "alts": [] }],
+      "hint": "profit",
+      "tags": ["word_form"],
+      "sourceRef": "unit42-26-50#18"
+    },
+    {
+      "id": "u42-022",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "当务之急，重中之重",
+      "answerPrimary": "a top priority",
+      "answerAlts": ["the top priority", "priority", "be a top priority"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-26-50#22"
+    },
+    {
+      "id": "u42-023",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "给……以优先权",
+      "answerPrimary": "give priority to",
+      "answerAlts": ["give priority to sth", "prioritize"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-26-50#23"
+    },
+    {
+      "id": "u42-025",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "继续我们的任务",
+      "answerPrimary": "proceed with our task",
+      "answerAlts": ["proceed with the task", "continue with our task"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-26-50#25"
+    },
+    {
+      "id": "u42-101",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "倾诉不幸",
+      "answerPrimary": "pour out one's misfortunes",
+      "answerAlts": ["pour out misfortunes", "pour out one's sorrows"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#1"
+    },
+    {
+      "id": "u42-102",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "涌入大堂",
+      "answerPrimary": "pour into the lobby",
+      "answerAlts": ["pour into the hall"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#2"
+    },
+    {
+      "id": "u42-104",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "出席/缺席",
+      "answerPrimary": "be present / be absent",
+      "answerAlts": ["present / absent", "be present at / be absent from"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#4"
+    },
+    {
+      "id": "u42-111",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "解决实际问题",
+      "answerPrimary": "solve practical problems",
+      "answerAlts": ["settle practical problems"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#11"
+    },
+    {
+      "id": "u42-113",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "把……付诸实施",
+      "answerPrimary": "put ... into practice",
+      "answerAlts": ["put something into practice", "put sth into practice"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#13"
+    },
+    {
+      "id": "u42-115",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "祈求和平",
+      "answerPrimary": "pray for peace",
+      "answerAlts": [],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#15"
+    },
+    {
+      "id": "u42-116",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "the ____(prefer) choice（首选）",
+      "answerPrimary": "preferred",
+      "answerAlts": ["preferable"],
+      "blanks": [{ "index": 0, "answer": "preferred", "alts": ["preferable"] }],
+      "hint": "prefer",
+      "tags": ["word_form"],
+      "sourceRef": "unit42-1-25#16"
+    },
+    {
+      "id": "u42-118",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "She prefers ____(read) to watching TV.",
+      "answerPrimary": "reading",
+      "answerAlts": [],
+      "blanks": [{ "index": 0, "answer": "reading", "alts": [] }],
+      "hint": "read",
+      "tags": ["word_form", "pattern"],
+      "sourceRef": "unit42-1-25#18"
+    },
+    {
+      "id": "u42-119",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "对……偏爱",
+      "answerPrimary": "have a preference for",
+      "answerAlts": ["a preference for", "prefer ... to"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#19"
+    },
+    {
+      "id": "u42-121",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "对……有偏见",
+      "answerPrimary": "be prejudiced against",
+      "answerAlts": ["have a prejudice against", "be biased against"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#21"
+    },
+    {
+      "id": "u42-122",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "为……作准备（两个）",
+      "answerPrimary": "prepare for / make preparations for",
+      "answerAlts": ["prepare for", "make preparations for"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#22"
+    },
+    {
+      "id": "u42-124",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "催促某人做……",
+      "answerPrimary": "press sb to do",
+      "answerAlts": ["press someone to do sth", "urge sb to do"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#24"
+    },
+    {
+      "id": "u42-125",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "按按钮",
+      "answerPrimary": "press the button",
+      "answerAlts": ["push the button"],
+      "tags": ["zh2en"],
+      "sourceRef": "unit42-1-25#25"
+    },
+    {
+      "id": "u42-027",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "put pressure ____ sb. / sb. be ____ pressure",
+      "answerPrimary": "on|under",
+      "answerAlts": [],
+      "blanks": [
+        { "index": 0, "answer": "on", "alts": [] },
+        { "index": 1, "answer": "under", "alts": [] }
+      ],
+      "tags": ["collocation"],
+      "sourceRef": "unit42-1-25#27"
+    },
+    {
+      "id": "u42-028a",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "He pretended ____(read) when his mother came in.",
+      "answerPrimary": "to be reading",
+      "answerAlts": ["to read"],
+      "blanks": [{ "index": 0, "answer": "to be reading", "alts": ["to read"] }],
+      "hint": "read",
+      "tags": ["word_form", "pattern"],
+      "sourceRef": "unit42-1-25#28a"
+    },
+    {
+      "id": "u42-028b",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "He pretended ____(attend) the meeting, but in fact he knew nothing about it at all.",
+      "answerPrimary": "to have attended",
+      "answerAlts": [],
+      "blanks": [{ "index": 0, "answer": "to have attended", "alts": [] }],
+      "hint": "attend",
+      "tags": ["word_form", "pattern"],
+      "sourceRef": "unit42-1-25#28b"
+    }
+  ]
+}

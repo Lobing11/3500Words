@@ -1,0 +1,343 @@
+{
+  "unitId": "59",
+  "name": "Unit 59",
+  "order": 59,
+  "items": [
+    {
+      "id": "u59-3",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "be wrapped in the lecture",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#3",
+      "needsReview": true
+    },
+    {
+      "id": "u59-4",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "___ the problem 全力解决问题",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#4",
+      "needsReview": true
+    },
+    {
+      "id": "u59-5",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "书面语",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#5",
+      "needsReview": true
+    },
+    {
+      "id": "u59-6",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "do sb wrong",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#6",
+      "needsReview": true
+    },
+    {
+      "id": "u59-7",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "按年计算",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#7",
+      "needsReview": true
+    },
+    {
+      "id": "u59-8",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "He was withdrawn from school.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#8",
+      "needsReview": true
+    },
+    {
+      "id": "u59-9",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "奏效， 创造奇迹 10.The little boy finished all the housework __ himself. Don’t always rely on others. You should fight ___ yourself. I want to have a bedroom __ myself.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#9",
+      "needsReview": true
+    },
+    {
+      "id": "u59-11",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "I can do without coffee today.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#11",
+      "needsReview": true
+    },
+    {
+      "id": "u59-12",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "What in the world made you cry?",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#12",
+      "needsReview": true
+    },
+    {
+      "id": "u59-13",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "under way",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#13",
+      "needsReview": true
+    },
+    {
+      "id": "u59-14",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "by way of",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#14",
+      "needsReview": true
+    },
+    {
+      "id": "u59-15",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "be on the way to success",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#15",
+      "needsReview": true
+    },
+    {
+      "id": "u59-15",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "wear out",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#15",
+      "needsReview": true
+    },
+    {
+      "id": "u59-16",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "wear and tear",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#16",
+      "needsReview": true
+    },
+    {
+      "id": "u59-17",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "wear （pt/pp/adj.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#17",
+      "needsReview": true
+    },
+    {
+      "id": "u59-18",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "she is weeding in the garden.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#18",
+      "needsReview": true
+    },
+    {
+      "id": "u59-19",
+      "unitId": "59",
+      "type": "zh2en",
+      "prompt": "流下痛苦的眼泪",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#19",
+      "needsReview": true
+    },
+    {
+      "id": "u59-20",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "Without proper control, bad habits will grow like weeds.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#20",
+      "needsReview": true
+    },
+    {
+      "id": "u59-21",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "manage on welfare",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#21",
+      "needsReview": true
+    },
+    {
+      "id": "u59-22",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "The costs outweigh the rewards.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#22",
+      "needsReview": true
+    },
+    {
+      "id": "u59-23",
+      "unitId": "59",
+      "type": "cloze",
+      "prompt": "He hugged his wife， 热泪盈眶。",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit59-59-60#23",
+      "needsReview": true
+    }
+  ]
+}

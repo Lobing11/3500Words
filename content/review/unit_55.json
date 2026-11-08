@@ -1,0 +1,375 @@
+{
+  "unitId": "55",
+  "name": "Unit 55",
+  "order": 55,
+  "items": [
+    {
+      "id": "u55-1",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "theory （adj)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#1",
+      "needsReview": true
+    },
+    {
+      "id": "u55-2",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "我无论怎么感谢你都不为过",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#2",
+      "needsReview": true
+    },
+    {
+      "id": "u55-3",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "thick(v.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#3",
+      "needsReview": true
+    },
+    {
+      "id": "u55-4",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "for one thing",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#4",
+      "needsReview": true
+    },
+    {
+      "id": "u55-5",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "回想起",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#5",
+      "needsReview": true
+    },
+    {
+      "id": "u55-6",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "陷入沉思",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#6",
+      "needsReview": true
+    },
+    {
+      "id": "u55-7",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "对...造成威胁",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#7",
+      "needsReview": true
+    },
+    {
+      "id": "u55-8",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "威胁要....",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#8",
+      "needsReview": true
+    },
+    {
+      "id": "u55-9",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "一整夜、通宵",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#9",
+      "needsReview": true
+    },
+    {
+      "id": "u55-10",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "投身于",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#10",
+      "needsReview": true
+    },
+    {
+      "id": "u55-11",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "爆发出雷鸣般的掌声",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#11",
+      "needsReview": true
+    },
+    {
+      "id": "u55-12",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "a return ticket",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#12",
+      "needsReview": true
+    },
+    {
+      "id": "u55-13",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "把...绑到",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#13",
+      "needsReview": true
+    },
+    {
+      "id": "u55-14",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "for the time being",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#14",
+      "needsReview": true
+    },
+    {
+      "id": "u55-15",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "厌倦",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#15",
+      "needsReview": true
+    },
+    {
+      "id": "u55-16",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "a flat/burst tyre",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#16",
+      "needsReview": true
+    },
+    {
+      "id": "u55-17",
+      "unitId": "55",
+      "type": "zh2en",
+      "prompt": "被授予一个头衔",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#17",
+      "needsReview": true
+    },
+    {
+      "id": "u55-18",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "tolerate （adj./n.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#18",
+      "needsReview": true
+    },
+    {
+      "id": "u55-19",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "band together against",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#19",
+      "needsReview": true
+    },
+    {
+      "id": "u55-20",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "the tip of one’s tongue / give a generous tip to the waiter",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#20",
+      "needsReview": true
+    },
+    {
+      "id": "u55-21",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "get through to the manager",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#21",
+      "needsReview": true
+    },
+    {
+      "id": "u55-22",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "commit theft",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#22",
+      "needsReview": true
+    },
+    {
+      "id": "u55-23",
+      "unitId": "55",
+      "type": "cloze",
+      "prompt": "No more than 5 guests attende the meeting.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit55-all#23",
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "unitId": "49",
+  "name": "Unit 49",
+  "order": 49,
+  "items": [
+    {
+      "id": "u49-1",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "把这封信寄给校长。",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u49-2",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "Much work ____ (finish), I can’t go out.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u49-3",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "All things ____ (consider), he didn’t mean to hurt you.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u49-1",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "签协议",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u49-2",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "sign language",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u49-3",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "a traffic sign",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u49-4",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "示意某人做...(三个)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u49-5",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "genuine sigature",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u49-6",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "a significant improvement in academic performance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u49-7",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "It’s silly _ sb. to do",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u49-8",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "be similar __",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u49-9",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "___(simple) the concept/a __(simple) verision of the App",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u49-10",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "It is simply a matter of time.  Don’t worry./Huangshan is simply amazing!",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u49-11",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "表达由衷的感谢",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u49-12",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "a single/return ticket",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u49-13",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "我的心消沉下来。",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u49-14",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "sit up",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u49-15",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "营地",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u49-16",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "I encountered a situation __ I had to make a hard choice.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u49-17",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "The boxes are __ different sizes./",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u49-1",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "签协议",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#1",
+      "needsReview": true
+    },
+    {
+      "id": "u49-2",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "sign language",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u49-3",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "a traffic sign",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u49-4",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "示意某人做...9三个)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u49-5",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "genuine sigature",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u49-6",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "a significant improvement in academic performance",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u49-7",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "It’s silly _ sb. to do",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u49-8",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "be similar _",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u49-9",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "___(simple) the concept/a __(simple) verision of the App",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u49-1",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "___(一看到) his mother, the boy’s eyes lit up.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u49-2",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "观光",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u49-3",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "wash the stained sheet",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u49-4",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "避雨",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u49-5",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "an animal shelter",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u49-6",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "shift the blame",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u49-7",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "night shifts",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u49-8",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "He shines academically.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u49-9",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "ship  goods",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u49-10",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "an electric shock",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u49-11",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "换位思考",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u49-12",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "shoot a goal",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u49-13",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "The boy shot up over the summer holiday./The sales shot up after the advertisement.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u49-14",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "Every shot in this video was shot in Guilin.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u49-15",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "__ shore 离海岸不远处",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u49-16",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "缺少/是.. 的缩写/call sth __ short/take a short cut/ 学英语没捷径",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u49-17",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "There is a ___(short) of money.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u49-18",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "肩并肩(两个)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u49-19",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "带领某人参观/炫耀/到场，露面",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u49-18",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "a shower of applause/ People showered him with gifts.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u49-19",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "厌倦",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u49-20",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "seasick/homesick",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u49-21",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "be on one’s side",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit49-1-25#21",
+      "needsReview": true
+    }
+  ]
+}

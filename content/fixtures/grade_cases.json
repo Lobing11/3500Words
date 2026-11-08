@@ -1,0 +1,46 @@
+{
+  "cases": [
+    {
+      "id": "zh2en-benefit",
+      "itemId": "u42-016",
+      "input": "Benefit From",
+      "expected": "correct"
+    },
+    {
+      "id": "zh2en-benefit-alt",
+      "itemId": "u42-016",
+      "input": "benefit from sth",
+      "expected": "correct"
+    },
+    {
+      "id": "zh2en-benefit-wrong",
+      "itemId": "u42-016",
+      "input": "benefit to",
+      "expected": "wrong"
+    },
+    {
+      "id": "cloze-at-price",
+      "itemId": "u42-001a",
+      "input": "at",
+      "expected": "correct"
+    },
+    {
+      "id": "cloze-pressure-partial",
+      "itemId": "u42-027",
+      "input": "on",
+      "expected": "partial"
+    },
+    {
+      "id": "cloze-pressure-full",
+      "itemId": "u42-027",
+      "input": "on|under",
+      "expected": "correct"
+    },
+    {
+      "id": "word-form-productive",
+      "itemId": "u42-013",
+      "input": "productive",
+      "expected": "correct"
+    }
+  ]
+}

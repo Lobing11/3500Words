@@ -1,0 +1,50 @@
+{"rawId": "u44-1", "unitId": "44", "segment": "26-50", "seq": 1, "prompt": "沦为乞丐", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#1"}
+{"rawId": "u44-2", "unitId": "44", "segment": "26-50", "seq": 2, "prompt": "reduce(n.)", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#2"}
+{"rawId": "u44-3", "unitId": "44", "segment": "26-50", "seq": 3, "prompt": "正视现实", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#3"}
+{"rawId": "u44-4", "unitId": "44", "segment": "26-50", "seq": 4, "prompt": "reasoning ability", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#4"}
+{"rawId": "u44-5", "unitId": "44", "segment": "26-50", "seq": 5, "prompt": "the reason__ sth=the cause__ sth", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#5"}
+{"rawId": "u44-6", "unitId": "44", "segment": "26-50", "seq": 6, "prompt": "offer reasonable advice/reasonable price", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#6"}
+{"rawId": "u44-7", "unitId": "44", "segment": "26-50", "seq": 7, "prompt": "recall my childhood/recall the fake product", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#7"}
+{"rawId": "u44-8", "unitId": "44", "segment": "26-50", "seq": 8, "prompt": "a sales receipt/Payment will be made on receipt of the goods.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#8"}
+{"rawId": "u44-9", "unitId": "44", "segment": "26-50", "seq": 9, "prompt": "很受欢迎", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#9"}
+{"rawId": "u44-10", "unitId": "44", "segment": "26-50", "seq": 10, "prompt": "replace the receiver", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#10"}
+{"rawId": "u44-11", "unitId": "44", "segment": "26-50", "seq": 11, "prompt": "hotel reception", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#11"}
+{"rawId": "u44-12", "unitId": "44", "segment": "26-50", "seq": 12, "prompt": "The new policy met with a mixed reception.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#12"}
+{"rawId": "u44-13", "unitId": "44", "segment": "26-50", "seq": 13, "prompt": "健康的秘诀", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#13"}
+{"rawId": "u44-14", "unitId": "44", "segment": "26-50", "seq": 14, "prompt": "recite(n.)", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#14"}
+{"rawId": "u44-15", "unitId": "44", "segment": "26-50", "seq": 15, "prompt": "无法辨认", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#15"}
+{"rawId": "u44-16", "unitId": "44", "segment": "26-50", "seq": 16, "prompt": "I recognized the tune the moment she began to play.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#16"}
+{"rawId": "u44-17", "unitId": "44", "segment": "26-50", "seq": 17, "prompt": "He failed to recognize the danger ahead.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#17"}
+{"rawId": "u44-18", "unitId": "44", "segment": "26-50", "seq": 18, "prompt": "She received the medal in recognition of her courage", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#18"}
+{"rawId": "u44-19", "unitId": "44", "segment": "26-50", "seq": 19, "prompt": "人们公认、普遍认为", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#19"}
+{"rawId": "u44-20", "unitId": "44", "segment": "26-50", "seq": 20, "prompt": "这本书值得推荐。", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-26-50#20"}
+{"rawId": "u44-21", "unitId": "44", "segment": "26-50", "seq": 21, "prompt": "The doctor recommended that he ____ (give) up staying up late.", "typeGuess": "word_form", "answerPrimary": "", "sourceRef": "unit44-26-50#21"}
+{"rawId": "u44-22", "unitId": "44", "segment": "26-50", "seq": 22, "prompt": "keep a record of/set a record/play a record", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#22"}
+{"rawId": "u44-23", "unitId": "44", "segment": "26-50", "seq": 23, "prompt": "recover the lost antique", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#23"}
+{"rawId": "u44-24", "unitId": "44", "segment": "26-50", "seq": 24, "prompt": "Reading is not only for recreation, but broadens our horizons.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#24"}
+{"rawId": "u44-25", "unitId": "44", "segment": "26-50", "seq": 25, "prompt": "recreational facilities", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-26-50#25"}
+{"rawId": "u44-1", "unitId": "44", "segment": "1-25", "seq": 1, "prompt": "over the radio", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#1"}
+{"rawId": "u44-2", "unitId": "44", "segment": "1-25", "seq": 2, "prompt": "充分发挥你的潜能", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#2"}
+{"rawId": "u44-3", "unitId": "44", "segment": "1-25", "seq": 3, "prompt": "ready money", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#3"}
+{"rawId": "u44-4", "unitId": "44", "segment": "1-25", "seq": 4, "prompt": "Currently,the information is readily available online. She readily accepted my plan.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#4"}
+{"rawId": "u44-5", "unitId": "44", "segment": "1-25", "seq": 5, "prompt": "制定一个切实可行的计划", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#5"}
+{"rawId": "u44-6", "unitId": "44", "segment": "1-25", "seq": 6, "prompt": "lean against the rail", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#6"}
+{"rawId": "u44-7", "unitId": "44", "segment": "1-25", "seq": 7, "prompt": "Troubles rained down.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#7"}
+{"rawId": "u44-8", "unitId": "44", "segment": "1-25", "seq": 8, "prompt": "raise money/one’s spirits/a family/a ban on smoking", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#8"}
+{"rawId": "u44-9", "unitId": "44", "segment": "1-25", "seq": 9, "prompt": "随机地（短语）", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#9"}
+{"rawId": "u44-10", "unitId": "44", "segment": "1-25", "seq": 10, "prompt": "涉及从....到...范围", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#10"}
+{"rawId": "u44-11", "unitId": "44", "segment": "1-25", "seq": 11, "prompt": "within the range of my vision", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#11"}
+{"rawId": "u44-12", "unitId": "44", "segment": "1-25", "seq": 12, "prompt": "属于...之列", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#12"}
+{"rawId": "u44-13", "unitId": "44", "segment": "1-25", "seq": 13, "prompt": "__ an alarming rate 以惊人的速度", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#13"}
+{"rawId": "u44-14", "unitId": "44", "segment": "1-25", "seq": 14, "prompt": "at any rate", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#14"}
+{"rawId": "u44-15", "unitId": "44", "segment": "1-25", "seq": 15, "prompt": "rate sth highly", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#15"}
+{"rawId": "u44-16", "unitId": "44", "segment": "1-25", "seq": 16, "prompt": "He is a scientist, or rather, a biologist.", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#16"}
+{"rawId": "u44-17", "unitId": "44", "segment": "1-25", "seq": 17, "prompt": "You are ill, so I would rather you __(stay) at home. I would rather you ____ (not make) that mistake yesterday.", "typeGuess": "word_form", "answerPrimary": "", "sourceRef": "unit44-1-25#17"}
+{"rawId": "u44-18", "unitId": "44", "segment": "1-25", "seq": 18, "prompt": "raw materials/a raw beginner", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#18"}
+{"rawId": "u44-19", "unitId": "44", "segment": "1-25", "seq": 19, "prompt": "一线希望", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#19"}
+{"rawId": "u44-20", "unitId": "44", "segment": "1-25", "seq": 20, "prompt": "reach me on the phone", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#20"}
+{"rawId": "u44-21", "unitId": "44", "segment": "1-25", "seq": 21, "prompt": "reach out to", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#21"}
+{"rawId": "u44-22", "unitId": "44", "segment": "1-25", "seq": 22, "prompt": "within the reach of", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#22"}
+{"rawId": "u44-23", "unitId": "44", "segment": "1-25", "seq": 23, "prompt": "反应不一", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#23"}
+{"rawId": "u44-24", "unitId": "44", "segment": "1-25", "seq": 24, "prompt": "看懂某人的想法", "typeGuess": "zh2en", "answerPrimary": "", "sourceRef": "unit44-1-25#24"}
+{"rawId": "u44-25", "unitId": "44", "segment": "1-25", "seq": 25, "prompt": "The sign reads, “No smoking”", "typeGuess": "cloze", "answerPrimary": "", "sourceRef": "unit44-1-25#25"}

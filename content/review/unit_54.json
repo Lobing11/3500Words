@@ -1,0 +1,711 @@
+{
+  "unitId": "54",
+  "name": "Unit 54",
+  "order": 54,
+  "items": [
+    {
+      "id": "u54-1",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "摆背",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#1",
+      "needsReview": true
+    },
+    {
+      "id": "u54-2",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "switch on the radio",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#2",
+      "needsReview": true
+    },
+    {
+      "id": "u54-3",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "象征 （v/n./a.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#3",
+      "needsReview": true
+    },
+    {
+      "id": "u54-4",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "同情（v/n./a)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#4",
+      "needsReview": true
+    },
+    {
+      "id": "u54-5",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "系统的",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#5",
+      "needsReview": true
+    },
+    {
+      "id": "u54-6",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "摆桌子（吃饭）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#6",
+      "needsReview": true
+    },
+    {
+      "id": "u54-7",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "tablet",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#7",
+      "needsReview": true
+    },
+    {
+      "id": "u54-8",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "tackle",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#8",
+      "needsReview": true
+    },
+    {
+      "id": "u54-9",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "摇尾巴",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#9",
+      "needsReview": true
+    },
+    {
+      "id": "u54-10",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "按照你的需求定制",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#10",
+      "needsReview": true
+    },
+    {
+      "id": "u54-11",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "发短信告诉我最终结果",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#11",
+      "needsReview": true
+    },
+    {
+      "id": "u54-12",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "经受考验",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#12",
+      "needsReview": true
+    },
+    {
+      "id": "u54-13",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "把某人吓哭",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#13",
+      "needsReview": true
+    },
+    {
+      "id": "u54-14",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "the terms of the contract",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#14",
+      "needsReview": true
+    },
+    {
+      "id": "u54-15",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "in terms of",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#15",
+      "needsReview": true
+    },
+    {
+      "id": "u54-16",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "be on good terms with",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#16",
+      "needsReview": true
+    },
+    {
+      "id": "u54-17",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "a legal term",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#17",
+      "needsReview": true
+    },
+    {
+      "id": "u54-18",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "缓解紧张",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#18",
+      "needsReview": true
+    },
+    {
+      "id": "u54-19",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "泪流满面",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#19",
+      "needsReview": true
+    },
+    {
+      "id": "u54-20",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "抑制住眼泪",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#20",
+      "needsReview": true
+    },
+    {
+      "id": "u54-21",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "tear(adj.)",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#21",
+      "needsReview": true
+    },
+    {
+      "id": "u54-22",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "营销技巧",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#22",
+      "needsReview": true
+    },
+    {
+      "id": "u54-23",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "区分",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#23",
+      "needsReview": true
+    },
+    {
+      "id": "u54-24",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "算命",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#24",
+      "needsReview": true
+    },
+    {
+      "id": "u54-25",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "teller",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#25",
+      "needsReview": true
+    },
+    {
+      "id": "u54-26",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "量体温",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#26",
+      "needsReview": true
+    },
+    {
+      "id": "u54-27",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "tend to the sick",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#27",
+      "needsReview": true
+    },
+    {
+      "id": "u54-28",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "往往会",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#28",
+      "needsReview": true
+    },
+    {
+      "id": "u54-29",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "左右为难",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#29",
+      "needsReview": true
+    },
+    {
+      "id": "u54-30",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "tear down the historic heritage 31.依依不舍地离开",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#30",
+      "needsReview": true
+    },
+    {
+      "id": "u54-32",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "沏茶",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#32",
+      "needsReview": true
+    },
+    {
+      "id": "u54-33",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "征税 34.投合某人的口味",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#33",
+      "needsReview": true
+    },
+    {
+      "id": "u54-35",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "尝起来有..味",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#35",
+      "needsReview": true
+    },
+    {
+      "id": "u54-36",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "美味的，可口的",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#36",
+      "needsReview": true
+    },
+    {
+      "id": "u54-37",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "针对于",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#37",
+      "needsReview": true
+    },
+    {
+      "id": "u54-38",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "the finishing tape",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#38",
+      "needsReview": true
+    },
+    {
+      "id": "u54-39",
+      "unitId": "54",
+      "type": "zh2en",
+      "prompt": "劝服某人做...",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#39",
+      "needsReview": true
+    },
+    {
+      "id": "u54-40",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "have a talent __ sth/be talented __",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#40",
+      "needsReview": true
+    },
+    {
+      "id": "u54-41",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "take ... for",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#41",
+      "needsReview": true
+    },
+    {
+      "id": "u54-42",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "take in",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#42",
+      "needsReview": true
+    },
+    {
+      "id": "u54-43",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "take down",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#43",
+      "needsReview": true
+    },
+    {
+      "id": "u54-44",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "take over",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#44",
+      "needsReview": true
+    },
+    {
+      "id": "u54-45",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "take up the painting after retirement",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#45",
+      "needsReview": true
+    },
+    {
+      "id": "u54-46",
+      "unitId": "54",
+      "type": "cloze",
+      "prompt": "play the swing",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit54-all#46",
+      "needsReview": true
+    }
+  ]
+}

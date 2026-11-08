@@ -1,0 +1,915 @@
+{
+  "unitId": "42",
+  "name": "Unit 42",
+  "order": 42,
+  "items": [
+    {
+      "id": "u42-1",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "purchase sth __  a high/low price/ The dress is priced __ 500 yuan.",
+      "answerPrimary": "at",
+      "answerAlts": [],
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "at",
+          "alts": []
+        }
+      ],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#1",
+      "needsReview": false
+    },
+    {
+      "id": "u42-2",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "He won success at the price of his health.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#2",
+      "needsReview": true
+    },
+    {
+      "id": "u42-3",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "The restaurant is nice but a bit __(price).",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#3",
+      "needsReview": true
+    },
+    {
+      "id": "u42-4",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "The reception is _ progress/__way. 在进行中",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#4",
+      "needsReview": true
+    },
+    {
+      "id": "u42-5",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "在...方面取得进步",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#5",
+      "needsReview": true
+    },
+    {
+      "id": "u42-6",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "primitive tools",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#6",
+      "needsReview": true
+    },
+    {
+      "id": "u42-7",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "compromise one's principles",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#7",
+      "needsReview": true
+    },
+    {
+      "id": "u42-8",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "pick up a BBC programme",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#8",
+      "needsReview": true
+    },
+    {
+      "id": "u42-9",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "produce your permit/a play/a result",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#9",
+      "needsReview": true
+    },
+    {
+      "id": "u42-10",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "organic produce",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#10",
+      "needsReview": true
+    },
+    {
+      "id": "u42-11",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "The painting can’t be reproduced exactly./Most fish reproduce by laying eggs.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#11",
+      "needsReview": true
+    },
+    {
+      "id": "u42-12",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "mass production/cut down on production",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#12",
+      "needsReview": true
+    },
+    {
+      "id": "u42-13",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "a highly _ (produce) meeting 富有成效的会议",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#13",
+      "needsReview": true
+    },
+    {
+      "id": "u42-14",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "a visitng professor",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#14",
+      "needsReview": true
+    },
+    {
+      "id": "u42-15",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "the caring profession/ a professional player The tournament is open to both amateurs and __(professional).",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#15",
+      "needsReview": true
+    },
+    {
+      "id": "u42-16",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "从...当中受益",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#16",
+      "needsReview": true
+    },
+    {
+      "id": "u42-17",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "net profit",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#17",
+      "needsReview": true
+    },
+    {
+      "id": "u42-18",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "a __(profit) deal",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#18",
+      "needsReview": true
+    },
+    {
+      "id": "u42-19",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "company profile",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#19",
+      "needsReview": true
+    },
+    {
+      "id": "u42-20",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "She saw his profile against the window.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#20",
+      "needsReview": true
+    },
+    {
+      "id": "u42-21",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "prior experience/Safety is a prior consideration./Prior to leaving, he turned off all the lights.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#21",
+      "needsReview": true
+    },
+    {
+      "id": "u42-22",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "当务之急，重中之重",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#22",
+      "needsReview": true
+    },
+    {
+      "id": "u42-23",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "给... 以优先权 24.present a prize/This old medal is prized by him.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#23",
+      "needsReview": true
+    },
+    {
+      "id": "u42-25",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "继续我们的任务",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#25",
+      "needsReview": true
+    },
+    {
+      "id": "u42-26",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "We proceeded to the hall.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#26",
+      "needsReview": true
+    },
+    {
+      "id": "u42-27",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "process data/processed food",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#27",
+      "needsReview": true
+    },
+    {
+      "id": "u42-28",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "Follow the standard procedure.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-26-50#28",
+      "needsReview": true
+    },
+    {
+      "id": "u42-1",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "倾诉不幸",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#1",
+      "needsReview": true
+    },
+    {
+      "id": "u42-2",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "涌入大堂",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#2",
+      "needsReview": true
+    },
+    {
+      "id": "u42-3",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "pretty sure",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#3",
+      "needsReview": true
+    },
+    {
+      "id": "u42-4",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "出席/缺席",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#4",
+      "needsReview": true
+    },
+    {
+      "id": "u42-5",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "presenter",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#5",
+      "needsReview": true
+    },
+    {
+      "id": "u42-6",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "present sb with a bunch of flowers",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#6",
+      "needsReview": true
+    },
+    {
+      "id": "u42-7",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "prepare for a presentation/presentation of awards",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#7",
+      "needsReview": true
+    },
+    {
+      "id": "u42-8",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "I had been anxious before, but his ___(present) put me at ease.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#8",
+      "needsReview": true
+    },
+    {
+      "id": "u42-9",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "People present are concerned about the present situation.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#9",
+      "needsReview": true
+    },
+    {
+      "id": "u42-10",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "nuclear power/power failure",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#10",
+      "needsReview": true
+    },
+    {
+      "id": "u42-11",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "解决实际问题",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#11",
+      "needsReview": true
+    },
+    {
+      "id": "u42-12",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "in practice",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#12",
+      "needsReview": true
+    },
+    {
+      "id": "u42-13",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "把...付诸实施",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#13",
+      "needsReview": true
+    },
+    {
+      "id": "u42-14",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "practise as a lawyer",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#14",
+      "needsReview": true
+    },
+    {
+      "id": "u42-15",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "祈求和平",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#15",
+      "needsReview": true
+    },
+    {
+      "id": "u42-16",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "the __(prefer) choice首选",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#16",
+      "needsReview": true
+    },
+    {
+      "id": "u42-17",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "precise measurement /to be precise",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#17",
+      "needsReview": true
+    },
+    {
+      "id": "u42-18",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "She prefers __(read) to watching TV.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#18",
+      "needsReview": true
+    },
+    {
+      "id": "u42-19",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "对...偏爱",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#19",
+      "needsReview": true
+    },
+    {
+      "id": "u42-20",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "in preference to",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#20",
+      "needsReview": true
+    },
+    {
+      "id": "u42-21",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "对...有偏见",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#21",
+      "needsReview": true
+    },
+    {
+      "id": "u42-22",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "为...作准备 （两个）",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#22",
+      "needsReview": true
+    },
+    {
+      "id": "u42-23",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "preserve food/preserve peace",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#23",
+      "needsReview": true
+    },
+    {
+      "id": "u42-24",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "催促某人做....",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#24",
+      "needsReview": true
+    },
+    {
+      "id": "u42-24",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "handle the pressing problem",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#24",
+      "needsReview": true
+    },
+    {
+      "id": "u42-25",
+      "unitId": "42",
+      "type": "zh2en",
+      "prompt": "按按钮",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "zh2en"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#25",
+      "needsReview": true
+    },
+    {
+      "id": "u42-26",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "press conference",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#26",
+      "needsReview": true
+    },
+    {
+      "id": "u42-27",
+      "unitId": "42",
+      "type": "cloze",
+      "prompt": "put pressure  _ sb./sb. be __ pressure",
+      "answerPrimary": "on",
+      "answerAlts": [],
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": []
+        }
+      ],
+      "hint": "",
+      "tags": [
+        "cloze"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#27",
+      "needsReview": false
+    },
+    {
+      "id": "u42-28",
+      "unitId": "42",
+      "type": "word_form",
+      "prompt": "He pretended __(read) when his mother came in. He pretended ___(attend) the meeting, but in fact he knew nothing about it at all.",
+      "answerPrimary": "TODO",
+      "answerAlts": [],
+      "blanks": [],
+      "hint": "",
+      "tags": [
+        "word_form"
+      ],
+      "relatedGroupId": "",
+      "sourceRef": "unit42-1-25#28",
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "units": [
+    {
+      "unitId": "42",
+      "name": "Unit 42",
+      "order": 42,
+      "file": "unit_42.json"
+    }
+  ]
+}
