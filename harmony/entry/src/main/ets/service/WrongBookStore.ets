@@ -1,21 +1,29 @@
 import { preferences } from '@kit.ArkData';
 import { common } from '@kit.AbilityKit';
+import { BusinessError } from '@kit.BasicServicesKit';
+import { hilog } from '@kit.PerformanceAnalysisKit';
 
 export class WrongBookStore {
   private pref: preferences.Preferences | null = null;
   private ids: Array<string> = [];
 
   async init(context: common.UIAbilityContext): Promise<void> {
-    this.pref = await preferences.getPreferences(context, 'wrong_book');
-    const saved: preferences.ValueType = await this.pref.get('ids', '[]');
-    const text: string = saved as string;
-    const parsed: Object = JSON.parse(text) as Object;
-    const arr: Array<Object> = parsed as Array<Object>;
-    const next: Array<string> = [];
-    for (let i: number = 0; i < arr.length; i++) {
-      next.push(arr[i] as string);
+    try {
+      this.pref = await preferences.getPreferences(context, 'wrong_book');
+      const saved: preferences.ValueType = await this.pref.get('ids', '[]');
+      const text: string = saved as string;
+      const parsed: Object = JSON.parse(text) as Object;
+      const arr: Array<Object> = parsed as Array<Object>;
+      const next: Array<string> = [];
+      for (let i: number = 0; i < arr.length; i++) {
+        next.push(arr[i] as string);
+      }
+      this.ids = next;
+    } catch (e) {
+      const err: BusinessError = e as BusinessError;
+      hilog.error(0x0000, 'Words3500', 'WrongBookStore init failed %{public}s', err.message);
+      this.ids = [];
     }
-    this.ids = next;
   }
 
   wrongIds(): Array<string> {
@@ -57,7 +65,12 @@ export class WrongBookStore {
     if (this.pref === null) {
       return;
     }
-    await this.pref.put('ids', JSON.stringify(this.ids));
-    await this.pref.flush();
+    try {
+      await this.pref.put('ids', JSON.stringify(this.ids));
+      await this.pref.flush();
+    } catch (e) {
+      const err: BusinessError = e as BusinessError;
+      hilog.error(0x0000, 'Words3500', 'WrongBookStore persist failed %{public}s', err.message);
+    }
   }
 }

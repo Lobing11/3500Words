@@ -1,4 +1,6 @@
 import { common } from '@kit.AbilityKit';
+import { BusinessError } from '@kit.BasicServicesKit';
+import { hilog } from '@kit.PerformanceAnalysisKit';
 import { util } from '@kit.ArkTS';
 import { Blank, QuizItem, UnitBank, UnitMeta } from '../model/QuizModels';
 
@@ -124,10 +126,17 @@ export class ContentRepository {
   }
 
   private async readRawFile(relativePath: string): Promise<string> {
-    const resourceManager = this.context.resourceManager;
-    const fileData: Uint8Array = await resourceManager.getRawFileContent(relativePath);
-    const textDecoder: util.TextDecoder = util.TextDecoder.create('utf-8', { ignoreBOM: true });
-    const text: string = textDecoder.decodeWithStream(fileData, { stream: false });
-    return text;
+    try {
+      const resourceManager = this.context.resourceManager;
+      const fileData: Uint8Array = await resourceManager.getRawFileContent(relativePath);
+      const textDecoder: util.TextDecoder = util.TextDecoder.create('utf-8', {
+        ignoreBOM: true
+      });
+      return textDecoder.decodeToString(fileData);
+    } catch (e) {
+      const err: BusinessError = e as BusinessError;
+      hilog.error(0x0000, 'Words3500', 'readRawFile failed %{public}s %{public}s', relativePath, err.message);
+      throw new Error(`readRawFile failed: ${relativePath}`);
+    }
   }
 }

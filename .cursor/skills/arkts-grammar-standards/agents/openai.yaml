@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArkTS Grammar Standards"
+  short_description: "Write valid ArkTS and ArkUI code with verified rules"
+  default_prompt: "Use $arkts-grammar-standards to implement ArkTS code and verify it with the configured DevEco Harmony MCP."

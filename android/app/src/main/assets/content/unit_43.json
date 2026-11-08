@@ -1,0 +1,1315 @@
+{
+  "unitId": "43",
+  "name": "Unit 43 (prohibit—radiation)",
+  "order": 43,
+  "rangeFrom": "prohibit",
+  "rangeTo": "radiation",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u43-101",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "A timely snow ____ a good harvest.（瑞雪兆丰年）",
+      "answerPrimary": "promises",
+      "answerAlts": [
+        "promise"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-1-25#1",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "promises",
+          "alts": [
+            "promise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u43-102a",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "a ____ writer（一个有前途的作家）",
+      "answerPrimary": "promising",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-1-25#2a",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "promising",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-102b",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "a writer with ____（一个有前途的作家）",
+      "answerPrimary": "promise",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-1-25#2b",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "promise",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-103a",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "出版；发表",
+      "answerPrimary": "publish",
+      "answerAlts": [
+        "publication"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#3a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-103b",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "惩罚；处罚",
+      "answerPrimary": "punish",
+      "answerAlts": [
+        "punishment"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#3b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-104",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "____ the protection of",
+      "answerPrimary": "under",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-1-25#4",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "under",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-105",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "引体向上（锻炼）",
+      "answerPrimary": "pull-ups",
+      "answerAlts": [
+        "do pull-ups",
+        "pull-up"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-106a",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "拆除（旧建筑）",
+      "answerPrimary": "pull down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-1-25#6a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u43-pull"
+    },
+    {
+      "id": "u43-106b",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "退出（项目）",
+      "answerPrimary": "pull out of",
+      "answerAlts": [
+        "pull out"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-1-25#6b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u43-pull"
+    },
+    {
+      "id": "u43-106c",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "齐心协力",
+      "answerPrimary": "pull together",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-1-25#6c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u43-pull"
+    },
+    {
+      "id": "u43-106d",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "停车；停下",
+      "answerPrimary": "pull up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-1-25#6d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u43-pull"
+    },
+    {
+      "id": "u43-106e",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "帮助某人渡过难关",
+      "answerPrimary": "pull sb through",
+      "answerAlts": [
+        "pull through",
+        "pull someone through"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-1-25#6e",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u43-pull"
+    },
+    {
+      "id": "u43-107",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "当众演讲",
+      "answerPrimary": "make a speech in public",
+      "answerAlts": [
+        "speak in public",
+        "give a public speech",
+        "speak publicly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-108",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "The plan was ____(public) announced last week.",
+      "answerPrimary": "publicly",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-1-25#8",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "publicly",
+          "alts": []
+        }
+      ],
+      "hint": "public"
+    },
+    {
+      "id": "u43-109",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "____(protect) suits",
+      "answerPrimary": "protective",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-1-25#9",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "protective",
+          "alts": []
+        }
+      ],
+      "hint": "protect"
+    },
+    {
+      "id": "u43-110a",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "推广产品",
+      "answerPrimary": "promote the product",
+      "answerAlts": [
+        "promote products"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#10a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-110b",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "促进和平事业",
+      "answerPrimary": "promote the peace cause",
+      "answerAlts": [
+        "promote peace",
+        "promote the cause of peace"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#10b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-110c",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "晋升为经理",
+      "answerPrimary": "be promoted to manager",
+      "answerAlts": [
+        "promote sb to manager",
+        "get promoted to manager"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#10c",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-111",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "pronounce（名词）",
+      "answerPrimary": "pronunciation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-1-25#11",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "pronunciation",
+          "alts": []
+        }
+      ],
+      "hint": "pronounce"
+    },
+    {
+      "id": "u43-112",
+      "unitId": "43",
+      "type": "pattern",
+      "prompt": "有证据表明……（句型）",
+      "answerPrimary": "There is evidence that",
+      "answerAlts": [
+        "There is evidence that...",
+        "Evidence shows that",
+        "Evidence indicates that"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "unit43-1-25#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-113",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "防水服",
+      "answerPrimary": "waterproof suit",
+      "answerAlts": [
+        "waterproof clothing",
+        "a waterproof"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-114",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "有力的证明；说明问题的证据（telling proof）",
+      "answerPrimary": "a telling proof",
+      "answerAlts": [
+        "telling proof"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-115",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "After months of investigation, he ____(prove) innocent.",
+      "answerPrimary": "was proved",
+      "answerAlts": [
+        "proved",
+        "was proven",
+        "proved to be"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-1-25#15",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "was proved",
+          "alts": [
+            "proved",
+            "was proven",
+            "proved to be"
+          ]
+        }
+      ],
+      "hint": "prove"
+    },
+    {
+      "id": "u43-116",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "提交一个提议",
+      "answerPrimary": "put forward a proposal",
+      "answerAlts": [
+        "make a proposal",
+        "submit a proposal",
+        "propose a proposal"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-117",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "proper（反义词）",
+      "answerPrimary": "improper",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-1-25#17",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "improper",
+          "alts": []
+        }
+      ],
+      "hint": "proper"
+    },
+    {
+      "id": "u43-118",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "I propose ____(hold) a class meeting this Friday.",
+      "answerPrimary": "holding",
+      "answerAlts": [
+        "to hold"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit43-1-25#18",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "holding",
+          "alts": [
+            "to hold"
+          ]
+        }
+      ],
+      "hint": "hold"
+    },
+    {
+      "id": "u43-119",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "be proud ____ = take pride ____",
+      "answerPrimary": "of|in",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-1-25#19",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "in",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-120",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "provide sb. ____ sth. = provide sth. ____ sb.",
+      "answerPrimary": "with|for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-1-25#20",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "with",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-121a",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "供养一大家子",
+      "answerPrimary": "provide for a big family",
+      "answerAlts": [
+        "provide for the family"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#21a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-121b",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "计划为可能的风险做好准备（provide for）",
+      "answerPrimary": "provide for possible risks",
+      "answerAlts": [
+        "The plan provides for possible risks"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-1-25#21b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u43-122",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "providing (conj.) = ____",
+      "answerPrimary": "provided that",
+      "answerAlts": [
+        "provided",
+        "as long as"
+      ],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "unit43-1-25#22",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "provided that",
+          "alts": [
+            "provided",
+            "as long as"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u43-201a",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "She purchased the necklace ____ 800 yuan.",
+      "answerPrimary": "for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-26-50#1a",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-201b",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "He made a purchase ____ a valuable vase.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-26-50#1b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-202",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "纯属偶然；碰巧",
+      "answerPrimary": "by pure chance",
+      "answerAlts": [
+        "by chance",
+        "purely by chance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#2",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-203",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "种族偏见",
+      "answerPrimary": "racial prejudice",
+      "answerAlts": [
+        "race prejudice",
+        "prejudice against race"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#3",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-204",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "be equal to everyone ____（不管他们的种族）",
+      "answerPrimary": "regardless of their race",
+      "answerAlts": [
+        "regardless of race",
+        "irrespective of their race"
+      ],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "unit43-26-50#4",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "regardless of their race",
+          "alts": [
+            "regardless of race",
+            "irrespective of their race"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u43-205",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "与某人赛跑；与……竞争",
+      "answerPrimary": "race against sb",
+      "answerAlts": [
+        "race against someone",
+        "race against"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#5",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-206",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "____(净化) yourself / 净化心灵",
+      "answerPrimary": "purify",
+      "answerAlts": [
+        "purify your mind",
+        "purify oneself"
+      ],
+      "tags": [
+        "word_form",
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#6",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "purify",
+          "alts": [
+            "purify your mind"
+          ]
+        }
+      ],
+      "hint": "pure"
+    },
+    {
+      "id": "u43-207",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "故意地（写出常见说法）",
+      "answerPrimary": "on purpose",
+      "answerAlts": [
+        "purposely",
+        "deliberately",
+        "intentionally",
+        "by design",
+        "with intent"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-208",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "能解决问题；管用；达到目的",
+      "answerPrimary": "serve the purpose",
+      "answerAlts": [
+        "serve one's purpose",
+        "serve its purpose"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#8",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-209",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "引用剧本中的一句台词",
+      "answerPrimary": "quote a line from the play",
+      "answerAlts": [
+        "quote a line from a play"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#9",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-210",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "辍学",
+      "answerPrimary": "drop out of school",
+      "answerAlts": [
+        "quit school",
+        "drop out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#10",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-211",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "戒烟",
+      "answerPrimary": "quit smoking",
+      "answerAlts": [
+        "give up smoking",
+        "stop smoking"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#11",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-212",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "____(quick) the pace",
+      "answerPrimary": "quicken",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-26-50#13",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "quicken",
+          "alts": []
+        }
+      ],
+      "hint": "quick"
+    },
+    {
+      "id": "u43-213",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "买不起；超出某人的经济能力",
+      "answerPrimary": "beyond one's purse",
+      "answerAlts": [
+        "beyond my purse",
+        "beyond sb's purse"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#14",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-214",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "符合资格",
+      "answerPrimary": "qualify",
+      "answerAlts": [
+        "be qualified",
+        "qualify for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#15",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-215",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "被取消比赛资格",
+      "answerPrimary": "be disqualified from the competition",
+      "answerAlts": [
+        "be disqualified",
+        "disqualify sb from the competition",
+        "be disqualified for the game"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-216",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "胜任该职位",
+      "answerPrimary": "be qualified for the position",
+      "answerAlts": [
+        "qualify for the position",
+        "be equal to the position",
+        "be competent for the post"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-217",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "The product is ____ high quality.（修正原文拼写 quliaty）",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-26-50#18",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-218",
+      "unitId": "43",
+      "type": "cloze",
+      "prompt": "buy sth ____ large quantities",
+      "answerPrimary": "in",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit43-26-50#19",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "in",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u43-219",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "Unfortunately, large quantities of water ____(pollute).",
+      "answerPrimary": "are polluted",
+      "answerAlts": [
+        "have been polluted",
+        "is polluted"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit43-26-50#20",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "are polluted",
+          "alts": [
+            "have been polluted",
+            "is polluted"
+          ]
+        }
+      ],
+      "hint": "pollute"
+    },
+    {
+      "id": "u43-220a",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "它值三个季度/四分之三（three quarters）",
+      "answerPrimary": "It costs three quarters",
+      "answerAlts": [
+        "three quarters"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#21a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-220b",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "他按季度领工资",
+      "answerPrimary": "He gets paid by the quarter",
+      "answerAlts": [
+        "get paid by the quarter",
+        "be paid by the quarter"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#21b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-221a",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "毫无疑问（out of question）",
+      "answerPrimary": "out of question",
+      "answerAlts": [
+        "beyond question"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#22a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-221b",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "不可能；办不到（out of the question）",
+      "answerPrimary": "out of the question",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#22b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-221c",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "警察就事故询问了目击者",
+      "answerPrimary": "The police questioned the witness about the accident",
+      "answerAlts": [
+        "question sb about sth"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#22c",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-222",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "逐梦",
+      "answerPrimary": "pursue one's dream",
+      "answerAlts": [
+        "chase one's dream",
+        "pursue a dream",
+        "go after one's dream"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-223",
+      "unitId": "43",
+      "type": "word_form",
+      "prompt": "He travelled west ____(追求) fortune.",
+      "answerPrimary": "in pursuit of",
+      "answerAlts": [
+        "pursuing",
+        "to pursue"
+      ],
+      "tags": [
+        "word_form",
+        "collocation"
+      ],
+      "sourceRef": "unit43-26-50#24",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "in pursuit of",
+          "alts": [
+            "pursuing",
+            "to pursue"
+          ]
+        }
+      ],
+      "hint": "pursue"
+    },
+    {
+      "id": "u43-224a",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "毅然推行；努力争取",
+      "answerPrimary": "push for",
+      "answerAlts": [
+        "push ahead with",
+        "push through"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#25a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-224b",
+      "unitId": "43",
+      "type": "zh2en",
+      "prompt": "催促某人做……",
+      "answerPrimary": "push sb to do",
+      "answerAlts": [
+        "push someone to do sth",
+        "urge sb to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit43-26-50#25b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u43-225a",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "把……收起/放好",
+      "answerPrimary": "put away",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225b",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "放下；写下；镇压",
+      "answerPrimary": "put down",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225c",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "推迟",
+      "answerPrimary": "put off",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225d",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "增加体重",
+      "answerPrimary": "put on weight",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225e",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "播放音乐",
+      "answerPrimary": "put on music",
+      "answerAlts": [
+        "put on some music"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26e",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225f",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "请帮我接通经理",
+      "answerPrimary": "put me through to the manager",
+      "answerAlts": [
+        "put sb through to"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26f",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225g",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "忍受",
+      "answerPrimary": "put up with",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26g",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225h",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "搭帐篷",
+      "answerPrimary": "put up a tent",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26h",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225i",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "一起商量；集思广益",
+      "answerPrimary": "put our heads together",
+      "answerAlts": [
+        "put your heads together"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26i",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    },
+    {
+      "id": "u43-225j",
+      "unitId": "43",
+      "type": "phrase_cluster",
+      "prompt": "简单地说",
+      "answerPrimary": "to put it simply",
+      "answerAlts": [
+        "put simply"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit43-26-50#26j",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u43-put"
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "unitId": "49",
+  "name": "Unit 49 (sheet—size)",
+  "order": 49,
+  "rangeFrom": "sheet",
+  "rangeTo": "size",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u49-101",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "____(一看到) his mother, the boy's eyes lit up.",
+      "answerPrimary": "At the sight of",
+      "answerAlts": [
+        "On seeing",
+        "Seeing"
+      ],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "unit49-1-25#1",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "At the sight of",
+          "alts": [
+            "On seeing",
+            "Seeing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u49-102",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "观光",
+      "answerPrimary": "go sightseeing",
+      "answerAlts": [
+        "sightseeing",
+        "do sightseeing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-103",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "洗掉床单上的污渍",
+      "answerPrimary": "wash the stained sheet",
+      "answerAlts": [
+        "wash the stained sheets"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-104",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "避雨",
+      "answerPrimary": "take shelter from the rain",
+      "answerAlts": [
+        "shelter from the rain",
+        "seek shelter from the rain"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-105",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "动物收容所",
+      "answerPrimary": "an animal shelter",
+      "answerAlts": [
+        "animal shelter"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-106",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "推卸责任",
+      "answerPrimary": "shift the blame",
+      "answerAlts": [
+        "shift the blame onto"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-107",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "夜班",
+      "answerPrimary": "night shifts",
+      "answerAlts": [
+        "night shift",
+        "work the night shift"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-108",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "他学业出色",
+      "answerPrimary": "He shines academically",
+      "answerAlts": [
+        "shine academically"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-109",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "运送货物；发货",
+      "answerPrimary": "ship goods",
+      "answerAlts": [
+        "ship the goods"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-110",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "电击",
+      "answerPrimary": "an electric shock",
+      "answerAlts": [
+        "electric shock"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-111",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "换位思考",
+      "answerPrimary": "put oneself in sb's shoes",
+      "answerAlts": [
+        "put yourself in someone's shoes",
+        "stand in sb's shoes"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-112",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "射门得分",
+      "answerPrimary": "shoot a goal",
+      "answerAlts": [
+        "score a goal"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-113a",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "猛长；蹿高",
+      "answerPrimary": "shoot up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#13a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-shoot"
+    },
+    {
+      "id": "u49-113b",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "销售额飙升",
+      "answerPrimary": "The sales shot up",
+      "answerAlts": [
+        "sales shot up"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#13b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-shoot"
+    },
+    {
+      "id": "u49-114",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "这段视频的每个镜头都在桂林拍摄",
+      "answerPrimary": "Every shot in this video was shot in Guilin",
+      "answerAlts": [
+        "shot in Guilin"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-115",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "____ shore（离海岸不远处）",
+      "answerPrimary": "off",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit49-1-25#15",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "off",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u49-116a",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "缺少",
+      "answerPrimary": "be short of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#16a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-short"
+    },
+    {
+      "id": "u49-116b",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "是……的缩写",
+      "answerPrimary": "be short for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#16b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-short"
+    },
+    {
+      "id": "u49-116c",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "简称某物",
+      "answerPrimary": "call sth for short",
+      "answerAlts": [
+        "call sth short"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#16c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-short"
+    },
+    {
+      "id": "u49-116d",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "走捷径",
+      "answerPrimary": "take a short cut",
+      "answerAlts": [
+        "take a shortcut"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#16d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-short"
+    },
+    {
+      "id": "u49-116e",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "学英语没捷径",
+      "answerPrimary": "There is no short cut to learning English",
+      "answerAlts": [
+        "no shortcut to learning English"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#16e",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-117",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "There is a ____(short) of money.",
+      "answerPrimary": "shortage",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit49-1-25#17",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "shortage",
+          "alts": []
+        }
+      ],
+      "hint": "short"
+    },
+    {
+      "id": "u49-118",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "肩并肩（两个）",
+      "answerPrimary": "shoulder to shoulder / side by side",
+      "answerAlts": [
+        "shoulder to shoulder",
+        "side by side"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-119a",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "带领某人参观",
+      "answerPrimary": "show sb around",
+      "answerAlts": [
+        "show someone around"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#19a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-show"
+    },
+    {
+      "id": "u49-119b",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "炫耀",
+      "answerPrimary": "show off",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#19b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-show"
+    },
+    {
+      "id": "u49-119c",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "到场；露面",
+      "answerPrimary": "show up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#19c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-show"
+    },
+    {
+      "id": "u49-120a",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "一阵掌声",
+      "answerPrimary": "a shower of applause",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#18b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-shower"
+    },
+    {
+      "id": "u49-120b",
+      "unitId": "49",
+      "type": "phrase_cluster",
+      "prompt": "送他大量礼物",
+      "answerPrimary": "People showered him with gifts",
+      "answerAlts": [
+        "shower sb with"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit49-1-25#18c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u49-shower"
+    },
+    {
+      "id": "u49-121",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "厌倦",
+      "answerPrimary": "be sick of",
+      "answerAlts": [
+        "be tired of",
+        "be fed up with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#19b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-122",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "晕船 / 想家",
+      "answerPrimary": "seasick / homesick",
+      "answerAlts": [
+        "seasick",
+        "homesick"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-123",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "站在某人一边；支持某人",
+      "answerPrimary": "be on one's side",
+      "answerAlts": [
+        "be on sb's side",
+        "take one's side"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-1-25#21",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u49-201",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "把这封信寄给校长。",
+      "answerPrimary": "Send this letter to the headmaster",
+      "answerAlts": [
+        "Post this letter to the principal"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#1a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-202",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "Much work ____(finish), I can't go out.",
+      "answerPrimary": "unfinished",
+      "answerAlts": [
+        "having been unfinished",
+        "not finished"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit49-26-50#2",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "unfinished",
+          "alts": [
+            "not finished"
+          ]
+        }
+      ],
+      "hint": "finish / 独立主格"
+    },
+    {
+      "id": "u49-203",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "All things ____(consider), he didn't mean to hurt you.",
+      "answerPrimary": "considered",
+      "answerAlts": [],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit49-26-50#3",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "considered",
+          "alts": []
+        }
+      ],
+      "hint": "consider / 独立主格"
+    },
+    {
+      "id": "u49-204",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "签协议",
+      "answerPrimary": "sign an agreement",
+      "answerAlts": [
+        "sign a contract"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#1b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-205",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "手语",
+      "answerPrimary": "sign language",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#2b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-206",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "交通标志",
+      "answerPrimary": "a traffic sign",
+      "answerAlts": [
+        "traffic sign"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#3b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-207",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "示意某人做……（三个）",
+      "answerPrimary": "sign to sb to do / signal sb to do / motion to sb to do",
+      "answerAlts": [
+        "sign to sb to do",
+        "signal sb to do",
+        "motion to sb to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#4",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-208",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "真实签名",
+      "answerPrimary": "genuine signature",
+      "answerAlts": [
+        "a genuine signature"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#5",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-209",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "学业表现显著提升",
+      "answerPrimary": "a significant improvement in academic performance",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#6",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-210",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "It's silly ____ sb. to do",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit49-26-50#7",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u49-211",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "be similar ____",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit49-26-50#8",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u49-212a",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "____(simple) the concept",
+      "answerPrimary": "simplify",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit49-26-50#9a",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "simplify",
+          "alts": []
+        }
+      ],
+      "hint": "simple"
+    },
+    {
+      "id": "u49-212b",
+      "unitId": "49",
+      "type": "word_form",
+      "prompt": "a ____(simple) version of the App",
+      "answerPrimary": "simplified",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit49-26-50#9b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "simplified",
+          "alts": []
+        }
+      ],
+      "hint": "simple"
+    },
+    {
+      "id": "u49-213a",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "这只是时间问题，别担心",
+      "answerPrimary": "It is simply a matter of time",
+      "answerAlts": [
+        "simply a matter of time"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#10a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-213b",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "黄山简直太美了",
+      "answerPrimary": "Huangshan is simply amazing",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#10b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-214",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "表达由衷的感谢",
+      "answerPrimary": "express sincere thanks",
+      "answerAlts": [
+        "express heartfelt thanks",
+        "express sincere gratitude"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#11",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-215",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "单程票 / 往返票",
+      "answerPrimary": "a single/return ticket",
+      "answerAlts": [
+        "single ticket",
+        "return ticket",
+        "one-way ticket",
+        "round-trip ticket"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#12",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-216",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "我的心消沉下来。",
+      "answerPrimary": "My heart sank",
+      "answerAlts": [
+        "one's heart sinks"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#13",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-217",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "坐直；熬夜",
+      "answerPrimary": "sit up",
+      "answerAlts": [
+        "sit up late"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#14",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-218",
+      "unitId": "49",
+      "type": "zh2en",
+      "prompt": "营地",
+      "answerPrimary": "campsite",
+      "answerAlts": [
+        "camp site",
+        "camping site"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit49-26-50#15",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u49-219",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "I encountered a situation ____ I had to make a hard choice.",
+      "answerPrimary": "where",
+      "answerAlts": [
+        "in which"
+      ],
+      "tags": [
+        "collocation",
+        "pattern"
+      ],
+      "sourceRef": "unit49-26-50#16",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "where",
+          "alts": [
+            "in which"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u49-220",
+      "unitId": "49",
+      "type": "cloze",
+      "prompt": "The boxes are ____ different sizes.",
+      "answerPrimary": "of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit49-26-50#17",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1021 @@
+{
+  "unitId": "48",
+  "name": "Unit 48 (sea—sheep)",
+  "order": 48,
+  "rangeFrom": "sea",
+  "rangeTo": "sheep",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u48-101",
+      "unitId": "48",
+      "type": "word_form",
+      "prompt": "____(seat) by the window, Mr. Henderson stared at the snow.",
+      "answerPrimary": "Seated",
+      "answerAlts": [
+        "seated"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit48-1-25#4",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "Seated",
+          "alts": [
+            "seated"
+          ]
+        }
+      ],
+      "hint": "seat"
+    },
+    {
+      "id": "u48-102a",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "仅次于",
+      "answerPrimary": "second only to",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#5a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-second"
+    },
+    {
+      "id": "u48-102b",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "首屈一指；不亚于任何人",
+      "answerPrimary": "second to none",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#5b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-second"
+    },
+    {
+      "id": "u48-102c",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "第二次机会",
+      "answerPrimary": "a second chance",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#5c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-second"
+    },
+    {
+      "id": "u48-103",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "主要 / 次要因素",
+      "answerPrimary": "a primary/secondary factor",
+      "answerAlts": [
+        "primary factor",
+        "secondary factor"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-104a",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "安全的藏身之处",
+      "answerPrimary": "a secure place to hide",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#7a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-secure"
+    },
+    {
+      "id": "u48-104b",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "对未来感到安心",
+      "answerPrimary": "feel secure about one's future",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#7b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-secure"
+    },
+    {
+      "id": "u48-104c",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "使老人免受寒冷",
+      "answerPrimary": "secure the old man from the cold",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#7c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-secure"
+    },
+    {
+      "id": "u48-104d",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "获得一个职位",
+      "answerPrimary": "secure a position",
+      "answerAlts": [
+        "secure a positon"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#7d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-secure"
+    },
+    {
+      "id": "u48-104e",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "离开前把门关牢",
+      "answerPrimary": "Secure the door before leaving",
+      "answerAlts": [
+        "secure the door"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#7e",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-secure"
+    },
+    {
+      "id": "u48-105",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "处理紧急情况；照料",
+      "answerPrimary": "see to the emergency",
+      "answerAlts": [
+        "see to",
+        "attend to the emergency"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-106",
+      "unitId": "48",
+      "type": "word_form",
+      "prompt": "Last year ____(见证) the development of the city.",
+      "answerPrimary": "witnessed",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit48-1-25#9",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "witnessed",
+          "alts": []
+        }
+      ],
+      "hint": "witness"
+    },
+    {
+      "id": "u48-107",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "我设法安抚老人。（seek）",
+      "answerPrimary": "I sought to comfort the old man",
+      "answerAlts": [
+        "seek to comfort the old man",
+        "I tried to soothe the old man"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-108",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "似乎有",
+      "answerPrimary": "there seems to be",
+      "answerAlts": [
+        "seem to have",
+        "there seem to be"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-109",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "The kind of books ____（畅销）",
+      "answerPrimary": "sells well",
+      "answerAlts": [
+        "sell well",
+        "are best-sellers"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit48-1-25#12",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "sells well",
+          "alts": [
+            "sell well",
+            "are best-sellers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u48-110",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "send ____ a doctor / send ____ a rocket",
+      "answerPrimary": "for|up",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit48-1-25#13",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "up",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u48-111",
+      "unitId": "48",
+      "type": "cloze",
+      "prompt": "be senior/junior/superior/inferior ____",
+      "answerPrimary": "to",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit48-1-25#14",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u48-112",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "高三学生",
+      "answerPrimary": "senior students",
+      "answerAlts": [
+        "Senior Three students",
+        "students in Senior 3"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-113",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "老年人",
+      "answerPrimary": "senior citizens",
+      "answerAlts": [
+        "the elderly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-114a",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "恢复理智；醒悟过来",
+      "answerPrimary": "come to one's senses",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#17a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-sense"
+    },
+    {
+      "id": "u48-114b",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "做某事没意义",
+      "answerPrimary": "There is no sense/point doing",
+      "answerAlts": [
+        "there is no sense in doing",
+        "there is no point doing"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#17b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-sense"
+    },
+    {
+      "id": "u48-114c",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "触觉",
+      "answerPrimary": "the sense of touch",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-1-25#17c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u48-sense"
+    },
+    {
+      "id": "u48-115",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "对……体贴、敏感",
+      "answerPrimary": "be sensitive to",
+      "answerAlts": [
+        "be considerate of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#18",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-116",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "被判处死刑",
+      "answerPrimary": "be sentenced to death",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-1-25#19",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u48-201",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "把……和……分开",
+      "answerPrimary": "separate ... from",
+      "answerAlts": [
+        "separate A from B"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#1",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-202",
+      "unitId": "48",
+      "type": "word_form",
+      "prompt": "分开（名词）",
+      "answerPrimary": "separation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit48-26-50#2",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "separation",
+          "alts": []
+        }
+      ],
+      "hint": "separate"
+    },
+    {
+      "id": "u48-203",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "认真对待……",
+      "answerPrimary": "take ... seriously",
+      "answerAlts": [
+        "take sth seriously"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#3",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-204",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "当床用",
+      "answerPrimary": "serve as a bed",
+      "answerAlts": [
+        "serve as"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#4",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-205",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "服兵役",
+      "answerPrimary": "serve in the army",
+      "answerAlts": [
+        "do military service",
+        "serve the army"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#5",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-206",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "供应早餐",
+      "answerPrimary": "serve breakfast",
+      "answerAlts": [
+        "serve breakfast to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#6",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-207",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "我的车随时为你效劳",
+      "answerPrimary": "My car is at your service",
+      "answerAlts": [
+        "at your service"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-208a",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "把生锈的刀磨锋利",
+      "answerPrimary": "sharpen the rusting knife",
+      "answerAlts": [
+        "sharpen a knife"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#8a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-208b",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "提高写作技巧",
+      "answerPrimary": "sharpen writing skills",
+      "answerAlts": [
+        "sharpen one's writing skills"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#8b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-209a",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "急转弯",
+      "answerPrimary": "a sharp turn",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-26-50#9a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u48-sharp"
+    },
+    {
+      "id": "u48-209b",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "急剧增加",
+      "answerPrimary": "a sharp increase",
+      "answerAlts": [
+        "sharp increse"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-26-50#9b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u48-sharp"
+    },
+    {
+      "id": "u48-209c",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "剧痛",
+      "answerPrimary": "a sharp pain",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-26-50#9c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u48-sharp"
+    },
+    {
+      "id": "u48-209d",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "敏锐的眼睛",
+      "answerPrimary": "sharp eyes",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-26-50#9d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u48-sharp"
+    },
+    {
+      "id": "u48-210",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "分担负担",
+      "answerPrimary": "share the burden",
+      "answerAlts": [
+        "share burdens"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#10",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-211",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "共同的价值观",
+      "answerPrimary": "shared values",
+      "answerAlts": [
+        "common values"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#11",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-212",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "人人都必须做好自己那份工作",
+      "answerPrimary": "Everyone must do their share of the work",
+      "answerAlts": [
+        "do one's share of the work"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#12",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-213",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "强身健体",
+      "answerPrimary": "keep fit",
+      "answerAlts": [
+        "build up one's body",
+        "strengthen the body"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#13",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-214",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "以……的形状",
+      "answerPrimary": "in the shape of",
+      "answerAlts": [
+        "in shape of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#14",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-215",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "真遗憾",
+      "answerPrimary": "What a shame",
+      "answerAlts": [
+        "What a pity"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#15",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-216",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "以……为背景",
+      "answerPrimary": "be set in",
+      "answerAlts": [
+        "set in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-217",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "着手做",
+      "answerPrimary": "set about doing",
+      "answerAlts": [
+        "set out to do",
+        "set about"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-218a",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "引发辩论",
+      "answerPrimary": "set off a debate",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-26-50#18a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u48-set"
+    },
+    {
+      "id": "u48-218b",
+      "unitId": "48",
+      "type": "phrase_cluster",
+      "prompt": "燃放烟花",
+      "answerPrimary": "set off fireworks",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit48-26-50#18b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u48-set"
+    },
+    {
+      "id": "u48-219",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "摆餐具",
+      "answerPrimary": "set the table",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-220",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "理想的散步环境",
+      "answerPrimary": "an ideal setting for a walk",
+      "answerAlts": [
+        "ideal setting"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-221",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "勉强接受这个价格",
+      "answerPrimary": "settle for the price",
+      "answerAlts": [
+        "settle for"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#21",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-222",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "他心神不宁",
+      "answerPrimary": "He was unsettled",
+      "answerAlts": [
+        "feel unsettled"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-223",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "灰尘落在桌上",
+      "answerPrimary": "Dust settled on the table",
+      "answerAlts": [
+        "settle on"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-224a",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "永久定居点",
+      "answerPrimary": "a permanent settlement",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#24a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-224b",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "达成协议",
+      "answerPrimary": "reach a settlement",
+      "answerAlts": [
+        "reach an agreement"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#24b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-225",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "在阴凉处",
+      "answerPrimary": "in the shade",
+      "answerAlts": [
+        "in the shadow"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-226",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "给……蒙上阴影",
+      "answerPrimary": "cast a shadow on",
+      "answerAlts": [
+        "cast a shadow over",
+        "overshadow"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-227",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "吓得发抖",
+      "answerPrimary": "shake with fear",
+      "answerAlts": [
+        "tremble with fear"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-228",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "摆脱恐惧",
+      "answerPrimary": "shake off fear",
+      "answerAlts": [
+        "shake off"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#28",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-229",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "动摇某人对……的信心",
+      "answerPrimary": "shake one's confidence in",
+      "answerAlts": [
+        "shake sb's confidence in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-230a",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "浅溪",
+      "answerPrimary": "a shallow stream",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#30a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u48-230b",
+      "unitId": "48",
+      "type": "zh2en",
+      "prompt": "对某事一知半解",
+      "answerPrimary": "a shallow knowledge of sth",
+      "answerAlts": [
+        "shallow knowledge"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit48-26-50#30b",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ]
+}

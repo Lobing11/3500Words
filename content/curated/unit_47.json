@@ -1,0 +1,579 @@
+{
+  "unitId": "47",
+  "name": "Unit 47 (row—sculpture)",
+  "order": 47,
+  "rangeFrom": "row",
+  "rangeTo": "sculpture",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u47-101",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "橡皮 / 尺子（区分）",
+      "answerPrimary": "rubber / ruler",
+      "answerAlts": [
+        "rubber",
+        "ruler"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-102",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "沦为废墟",
+      "answerPrimary": "lie in ruins",
+      "answerAlts": [
+        "be in ruins",
+        "fall into ruin",
+        "be reduced to ruins"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-103",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "遵守规则",
+      "answerPrimary": "observe a rule",
+      "answerAlts": [
+        "obey a rule",
+        "follow a rule"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-104",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "排除可能性",
+      "answerPrimary": "rule out the possibility",
+      "answerAlts": [
+        "rule out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-105",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "偶遇",
+      "answerPrimary": "run into",
+      "answerAlts": [
+        "come across",
+        "run across"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-106",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "追赶",
+      "answerPrimary": "run after",
+      "answerAlts": [
+        "chase"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-107",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "用光",
+      "answerPrimary": "run out of",
+      "answerAlts": [
+        "run out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-108",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "把某人紧急送往医院",
+      "answerPrimary": "rush sb to hospital",
+      "answerAlts": [
+        "rush someone to the hospital",
+        "rush sb to the hospital"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-109",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "圣诞购物高峰",
+      "answerPrimary": "the Christmas rush",
+      "answerAlts": [
+        "Christmas rush"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-110",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "一阵怒火",
+      "answerPrimary": "a rush of anger",
+      "answerAlts": [
+        "a rush of rage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-111",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "启航",
+      "answerPrimary": "set sail",
+      "answerAlts": [
+        "sail"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-112",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "在销售；降价出售",
+      "answerPrimary": "on sale",
+      "answerAlts": [
+        "for sale"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-113",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "品尝当地美食",
+      "answerPrimary": "sample local food",
+      "answerAlts": [
+        "taste local food",
+        "sample the local cuisine"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-1-25#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u47-201",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "庇护某人免受……；掩护",
+      "answerPrimary": "screen sb from",
+      "answerAlts": [
+        "screen someone from"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#1",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-202",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "筛查疾病",
+      "answerPrimary": "screen for disease",
+      "answerAlts": [
+        "screen for diseases"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#2",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-203",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "发出尖叫声",
+      "answerPrimary": "let out a scream",
+      "answerAlts": [
+        "scream",
+        "give a scream"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#3",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-204",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "踢进一球",
+      "answerPrimary": "score a goal",
+      "answerAlts": [
+        "score"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#4",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-205",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "剪刀",
+      "answerPrimary": "scissors",
+      "answerAlts": [
+        "a pair of scissors"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#5",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-206",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "文科和理科",
+      "answerPrimary": "arts and science",
+      "answerAlts": [
+        "arts and sciences"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#6",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-207",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "获得奖学金",
+      "answerPrimary": "win a scholarship",
+      "answerAlts": [
+        "get a scholarship",
+        "be awarded a scholarship"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-208",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "会议定于下周举行。",
+      "answerPrimary": "The meeting is scheduled for next week",
+      "answerAlts": [
+        "The meeting is scheduled to be held next week"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#8",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-209",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "如期；按时",
+      "answerPrimary": "on schedule",
+      "answerAlts": [
+        "ahead of schedule",
+        "behind schedule"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#9",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-210",
+      "unitId": "47",
+      "type": "word_form",
+      "prompt": "a ____(scene) spot",
+      "answerPrimary": "scenic",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit47-26-50#10",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "scenic",
+          "alts": []
+        }
+      ],
+      "hint": "scene"
+    },
+    {
+      "id": "u47-211",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "突然出现；登场",
+      "answerPrimary": "burst on the scene",
+      "answerAlts": [
+        "burst onto the scene",
+        "come on the scene"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#11",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-212",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "吓走",
+      "answerPrimary": "scare away",
+      "answerAlts": [
+        "scare off",
+        "frighten away"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#12",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-213",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "吓得某人做某事",
+      "answerPrimary": "scare sb into doing",
+      "answerAlts": [
+        "scare someone into doing sth",
+        "frighten sb into doing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#13",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-214",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "常言道",
+      "answerPrimary": "as the saying goes",
+      "answerAlts": [
+        "as a saying goes"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#14",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-215",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "发射卫星",
+      "answerPrimary": "launch a satellite",
+      "answerAlts": [
+        "send up a satellite"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#15",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-216",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "一个满意的微笑",
+      "answerPrimary": "a satisfied smile",
+      "answerAlts": [
+        "a satisfying smile"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-217",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "满足感",
+      "answerPrimary": "a sense of satisfaction",
+      "answerAlts": [
+        "satisfaction"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-218",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "省得我跑一趟",
+      "answerPrimary": "save me a trip",
+      "answerAlts": [
+        "save me the trip",
+        "save sb a journey"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-219",
+      "unitId": "47",
+      "type": "cloze",
+      "prompt": "open a ____ account（储蓄账户）",
+      "answerPrimary": "savings",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit47-26-50#19",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "savings",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u47-220",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "也就是说",
+      "answerPrimary": "that is to say",
+      "answerAlts": [
+        "namely",
+        "in other words"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u47-221",
+      "unitId": "47",
+      "type": "zh2en",
+      "prompt": "不言而喻；不用说",
+      "answerPrimary": "It goes without saying that",
+      "answerAlts": [
+        "needless to say",
+        "it goes without saying"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit47-26-50#21",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ]
+}

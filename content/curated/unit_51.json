@@ -1,0 +1,963 @@
+{
+  "unitId": "51",
+  "name": "Unit 51 (somewhat—starve)",
+  "order": 51,
+  "rangeFrom": "somewhat",
+  "rangeTo": "starve",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u51-101",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "有几分；有点儿累",
+      "answerPrimary": "feel somewhat/sort of exhausted",
+      "answerAlts": [
+        "somewhat exhausted",
+        "sort of exhausted"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-102",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "我们刚出发就开始下雨（Soon）",
+      "answerPrimary": "We had hardly set off when it began to rain",
+      "answerAlts": [
+        "Soon after we set off, it began to rain",
+        "No sooner had we set off than it began to rain"
+      ],
+      "tags": [
+        "zh2en",
+        "pattern"
+      ],
+      "sourceRef": "unit51-1-25#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-103",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "发表演讲；致辞",
+      "answerPrimary": "deliver an address",
+      "answerAlts": [
+        "make an address",
+        "give an address"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-104",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "气得说不出话来",
+      "answerPrimary": "be speechless with anger",
+      "answerAlts": [
+        "speechless with rage"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-105",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "设定具体目标",
+      "answerPrimary": "set specific goals",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-106",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "儿童特有的疾病",
+      "answerPrimary": "a disease specific to children",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-107",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "sorrow（形容词）",
+      "answerPrimary": "sorrowful",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-1-25#7",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "sorrowful",
+          "alts": []
+        }
+      ],
+      "hint": "sorrow"
+    },
+    {
+      "id": "u51-108",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "同情某人",
+      "answerPrimary": "be sorry for sb",
+      "answerAlts": [
+        "feel sorry for sb"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-109a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "整理抽屉",
+      "answerPrimary": "sort out the drawer",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#9a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-sort"
+    },
+    {
+      "id": "u51-109b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "按等级给苹果分类",
+      "answerPrimary": "sort the apples by grade",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#9b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-sort"
+    },
+    {
+      "id": "u51-110a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "勉强糊口",
+      "answerPrimary": "keep body and soul together",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#10a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-soul"
+    },
+    {
+      "id": "u51-110b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "全心全意为某人服务",
+      "answerPrimary": "serve sb heart and soul",
+      "answerAlts": [
+        "heart and soul"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#10b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-soul"
+    },
+    {
+      "id": "u51-111a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "从……采购",
+      "answerPrimary": "source sth from",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#11a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-source"
+    },
+    {
+      "id": "u51-111b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "冲突的根源",
+      "answerPrimary": "the source of the conflict",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#11b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-source"
+    },
+    {
+      "id": "u51-111c",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "海的源头；源头",
+      "answerPrimary": "the source of the sea",
+      "answerAlts": [
+        "the source of a river"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#11c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-source"
+    },
+    {
+      "id": "u51-112a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "提出合理建议",
+      "answerPrimary": "offer some sound advice",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#12a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-sound"
+    },
+    {
+      "id": "u51-112b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "安然无恙",
+      "answerPrimary": "safe and sound",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#12b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-sound"
+    },
+    {
+      "id": "u51-112c",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "酣睡",
+      "answerPrimary": "a sound sleep",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#12c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-sound"
+    },
+    {
+      "id": "u51-112d",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "鸣笛",
+      "answerPrimary": "sound the whistle",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#12d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-sound"
+    },
+    {
+      "id": "u51-113",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "south（形容词）",
+      "answerPrimary": "southern",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-1-25#14",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "southern",
+          "alts": []
+        }
+      ],
+      "hint": "south"
+    },
+    {
+      "id": "u51-114a",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "sow（过去式、过去分词）",
+      "answerPrimary": "sowed/sown",
+      "answerAlts": [
+        "sowed",
+        "sown"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-1-25#15a",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "sowed/sown",
+          "alts": [
+            "sowed",
+            "sown"
+          ]
+        }
+      ],
+      "hint": "sow"
+    },
+    {
+      "id": "u51-114b",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "省得你跑一趟公司",
+      "answerPrimary": "spare you a visit to the company",
+      "answerAlts": [
+        "spare sb a visit"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#15b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-114c",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "备用钥匙",
+      "answerPrimary": "a spare key",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#15c",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-114d",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "为无家可归者想一想",
+      "answerPrimary": "spare a thought for the homeless",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#15d",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-115a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "充分说明",
+      "answerPrimary": "speak volumes for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#17a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-speak"
+    },
+    {
+      "id": "u51-115b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "说某人坏话",
+      "answerPrimary": "speak ill of sb",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-1-25#17b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u51-speak"
+    },
+    {
+      "id": "u51-116",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "a ____(speak) agreement",
+      "answerPrimary": "spoken",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-1-25#18",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "spoken",
+          "alts": []
+        }
+      ],
+      "hint": "speak"
+    },
+    {
+      "id": "u51-117",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "把手机接到扬声器上",
+      "answerPrimary": "Connect your phone to the speaker",
+      "answerAlts": [
+        "connect to the speaker"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#19",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-118",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "特价出售",
+      "answerPrimary": "be on special offer",
+      "answerAlts": [
+        "on special offer"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-119",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "专攻于；专门从事",
+      "answerPrimary": "specialize in",
+      "answerAlts": [
+        "specialise in",
+        "be specialized in"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-1-25#21",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u51-201",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "首先；第一",
+      "answerPrimary": "to start with",
+      "answerAlts": [
+        "for a start",
+        "first of all"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#1",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-202",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "开始；起步",
+      "answerPrimary": "make a start",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#2",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-203",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "die of ____(starve)",
+      "answerPrimary": "starvation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-26-50#3",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "starvation",
+          "alts": []
+        }
+      ],
+      "hint": "starve"
+    },
+    {
+      "id": "u51-204",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "这部电影将由他主演",
+      "answerPrimary": "The film will star him",
+      "answerAlts": [
+        "star in a film"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#4",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-205a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "经受考验",
+      "answerPrimary": "stand the test",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#5a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-stand"
+    },
+    {
+      "id": "u51-205b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "支持；袖手旁观",
+      "answerPrimary": "stand by",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#5b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-stand"
+    },
+    {
+      "id": "u51-205c",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "在……衬托下醒目；突出",
+      "answerPrimary": "stand out against",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#5c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-stand"
+    },
+    {
+      "id": "u51-205d",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "作为……竞选/担任",
+      "answerPrimary": "stand as",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#5d",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-stand"
+    },
+    {
+      "id": "u51-206",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "在护照上盖戳",
+      "answerPrimary": "stamp the passport",
+      "answerAlts": [
+        "stamp on the passport"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#6",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-207",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "气得跺脚",
+      "answerPrimary": "stamp one's feet in anger",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-208",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "一段楼梯",
+      "answerPrimary": "a flight of stairs",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#8",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-209a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "为……创造条件",
+      "answerPrimary": "set the stage for",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#9a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-stage"
+    },
+    {
+      "id": "u51-209b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "举办仪式",
+      "answerPrimary": "stage a ceremony",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#9b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-stage"
+    },
+    {
+      "id": "u51-210",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "stable（名词：马厩 / 稳定性相关按语境）",
+      "answerPrimary": "stable / stability",
+      "answerAlts": [
+        "stable",
+        "stability"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-26-50#10",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "stable / stability",
+          "alts": [
+            "stable",
+            "stability"
+          ]
+        }
+      ],
+      "hint": "stable"
+    },
+    {
+      "id": "u51-211a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "涌现；突然出现",
+      "answerPrimary": "spring up",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#11a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spring"
+    },
+    {
+      "id": "u51-211b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "温泉",
+      "answerPrimary": "hot spring",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#11b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spring"
+    },
+    {
+      "id": "u51-212",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "一跃而起",
+      "answerPrimary": "spring to one's feet",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#12",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-213a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "展开地图",
+      "answerPrimary": "spread out the map",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#13a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spread"
+    },
+    {
+      "id": "u51-213b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "把药涂在伤口上",
+      "answerPrimary": "spread medicine on the wound",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#13b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spread"
+    },
+    {
+      "id": "u51-214a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "发现某人正在做",
+      "answerPrimary": "spot sb doing",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#14a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spot"
+    },
+    {
+      "id": "u51-214b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "恰到好处；正合需要",
+      "answerPrimary": "hit the spot",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#14b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spot"
+    },
+    {
+      "id": "u51-215",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "spoon（形容词）",
+      "answerPrimary": "spoonful",
+      "answerAlts": [
+        "spoon-shaped"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-26-50#15",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "spoonful",
+          "alts": [
+            "spoon-shaped"
+          ]
+        }
+      ],
+      "hint": "spoon"
+    },
+    {
+      "id": "u51-216",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "情绪高昂",
+      "answerPrimary": "in high spirits",
+      "answerAlts": [
+        "in good spirits"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-217",
+      "unitId": "51",
+      "type": "zh2en",
+      "prompt": "斗志",
+      "answerPrimary": "fighting spirit",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit51-26-50#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u51-218",
+      "unitId": "51",
+      "type": "word_form",
+      "prompt": "spirit（形容词）",
+      "answerPrimary": "spiritual",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit51-26-50#18",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "spiritual",
+          "alts": []
+        }
+      ],
+      "hint": "spirit"
+    },
+    {
+      "id": "u51-219a",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "招致灾难",
+      "answerPrimary": "spell a disaster",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#19a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spell"
+    },
+    {
+      "id": "u51-219b",
+      "unitId": "51",
+      "type": "phrase_cluster",
+      "prompt": "拼写你的名字",
+      "answerPrimary": "spell your name",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit51-26-50#19b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u51-spell"
+    },
+    {
+      "id": "u51-220",
+      "unitId": "51",
+      "type": "cloze",
+      "prompt": "____ a speed of / pick up speed",
+      "answerPrimary": "at",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit51-26-50#20",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "at",
+          "alts": []
+        }
+      ]
+    }
+  ]
+}

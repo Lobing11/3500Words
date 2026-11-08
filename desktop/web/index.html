@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>3500 词汇抽背 · Windows</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <div>
+        <h1>3500 词汇抽背</h1>
+        <p class="sub">Windows 桌面版 · 与手机端共用 curated 词库</p>
+      </div>
+      <div class="top-meta">
+        <span id="wrongBadge" class="badge">错题 0</span>
+      </div>
+    </header>
+
+    <section id="homeView" class="panel">
+      <div class="grid-2">
+        <label class="field">
+          <span>Unit</span>
+          <select id="unitSelect"></select>
+        </label>
+        <label class="field">
+          <span>分段</span>
+          <select id="segmentSelect">
+            <option value="all">整 Unit</option>
+            <option value="1-25">前 25 词</option>
+            <option value="26-50">后 25 词</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>模式</span>
+          <select id="modeSelect">
+            <option value="mixed">混合抽查</option>
+            <option value="zh2en">中译英</option>
+            <option value="cloze">填空 / 词形</option>
+            <option value="wrong_only">错题强化</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>题量</span>
+          <select id="countSelect">
+            <option value="10">10</option>
+            <option value="25" selected>25</option>
+            <option value="50">50</option>
+          </select>
+        </label>
+      </div>
+      <p id="unitHint" class="hint"></p>
+      <div class="actions">
+        <button id="startBtn" class="btn primary">开始抽背</button>
+        <button id="clearWrongBtn" class="btn ghost">清空错题本</button>
+      </div>
+    </section>
+
+    <section id="quizView" class="panel hidden">
+      <div class="quiz-head">
+        <span id="progressText">1 / 25</span>
+        <span id="modeTag" class="tag"></span>
+      </div>
+      <p id="promptText" class="prompt"></p>
+      <p id="hintText" class="hint"></p>
+      <label class="field">
+        <span>你的答案（多空用 | 分隔）</span>
+        <input id="answerInput" type="text" autocomplete="off" placeholder="输入英文答案…" />
+      </label>
+      <div class="actions">
+        <button id="checkBtn" class="btn primary">判分</button>
+        <button id="revealBtn" class="btn">揭晓</button>
+        <button id="speakBtn" class="btn">朗读</button>
+        <button id="nextBtn" class="btn" disabled>下一题</button>
+        <button id="exitBtn" class="btn ghost">结束</button>
+      </div>
+      <div id="resultBox" class="result hidden"></div>
+    </section>
+
+    <section id="doneView" class="panel hidden">
+      <h2>本轮结束</h2>
+      <p id="summaryText"></p>
+      <div class="actions">
+        <button id="againBtn" class="btn primary">再来一轮</button>
+        <button id="homeBtn" class="btn">返回首页</button>
+      </div>
+    </section>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

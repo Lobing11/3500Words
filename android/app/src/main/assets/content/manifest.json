@@ -430,7 +430,7 @@
       "rangeTo": "radiation",
       "wordsPerUnit": 50,
       "file": "unit_43.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "44",
@@ -440,7 +440,7 @@
       "rangeTo": "reduce",
       "wordsPerUnit": 50,
       "file": "unit_44.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "45",
@@ -450,7 +450,7 @@
       "rangeTo": "resistance",
       "wordsPerUnit": 50,
       "file": "unit_45.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "46",
@@ -470,7 +470,7 @@
       "rangeTo": "sculpture",
       "wordsPerUnit": 50,
       "file": "unit_47.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "48",
@@ -480,7 +480,7 @@
       "rangeTo": "sheep",
       "wordsPerUnit": 50,
       "file": "unit_48.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "49",
@@ -490,7 +490,7 @@
       "rangeTo": "size",
       "wordsPerUnit": 50,
       "file": "unit_49.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "50",
@@ -500,7 +500,7 @@
       "rangeTo": "sometimes",
       "wordsPerUnit": 50,
       "file": "unit_50.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "51",
@@ -510,7 +510,7 @@
       "rangeTo": "starve",
       "wordsPerUnit": 50,
       "file": "unit_51.json",
-      "hasContent": false
+      "hasContent": true
     },
     {
       "unitId": "52",

@@ -1,0 +1,1484 @@
+{
+  "unitId": "45",
+  "name": "Unit 45 (refer—resistance)",
+  "order": 45,
+  "rangeFrom": "refer",
+  "rangeTo": "resistance",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u45-101",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "拭目以待",
+      "answerPrimary": "wait and see",
+      "answerAlts": [
+        "wait to see"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-102",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "依然坐着；继续坐着",
+      "answerPrimary": "remain seated",
+      "answerAlts": [
+        "stay seated",
+        "remain sitting"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-103",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "你可以放心他会成功",
+      "answerPrimary": "You may rely on it that he will succeed",
+      "answerAlts": [
+        "rely on it that",
+        "rely on sb to succeed"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-104",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "缓解焦虑",
+      "answerPrimary": "relieve anxiety",
+      "answerAlts": [
+        "ease anxiety",
+        "relieve one's anxiety"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-105",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "宽慰地叹了口气",
+      "answerPrimary": "sigh with relief",
+      "answerAlts": [
+        "breathe a sigh of relief",
+        "heave a sigh of relief"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-106",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "靠救济维生",
+      "answerPrimary": "survive on relief",
+      "answerAlts": [
+        "live on relief"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-107",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "与……相关",
+      "answerPrimary": "be related to",
+      "answerAlts": [
+        "relate to",
+        "be relevant to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-108",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "buy the book with the ____(remain) money",
+      "answerPrimary": "remaining",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-1-25#8",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "remaining",
+          "alts": []
+        }
+      ],
+      "hint": "remain"
+    },
+    {
+      "id": "u45-109a",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "接力赛",
+      "answerPrimary": "a relay race",
+      "answerAlts": [
+        "relay race"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#9a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-109b",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "把他的请求转告给我",
+      "answerPrimary": "She relayed his request to me",
+      "answerAlts": [
+        "relay sth to sb"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#9b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-110a",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "发行新专辑",
+      "answerPrimary": "release a new album",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#10a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-release"
+    },
+    {
+      "id": "u45-110b",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "排放二氧化碳",
+      "answerPrimary": "release CO2",
+      "answerAlts": [
+        "release carbon dioxide"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#10b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-release"
+    },
+    {
+      "id": "u45-110c",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "发布报告",
+      "answerPrimary": "release the report",
+      "answerAlts": [
+        "release a report"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#10c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-release"
+    },
+    {
+      "id": "u45-110d",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "释放人质",
+      "answerPrimary": "release the hostage",
+      "answerAlts": [
+        "release hostages"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#10d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-release"
+    },
+    {
+      "id": "u45-111a",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "把……称作",
+      "answerPrimary": "refer to ... as",
+      "answerAlts": [
+        "refer to sb as",
+        "refer to sth as"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#11a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-refer"
+    },
+    {
+      "id": "u45-111b",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "把病人转诊给另一位专家",
+      "answerPrimary": "refer the patient to another specialist",
+      "answerAlts": [
+        "refer sb to"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#11b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-refer"
+    },
+    {
+      "id": "u45-111c",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "参考笔记",
+      "answerPrimary": "refer to the notes",
+      "answerAlts": [
+        "refer to one's notes"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#11c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-refer"
+    },
+    {
+      "id": "u45-112a",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "没提及",
+      "answerPrimary": "make no reference to",
+      "answerAlts": [
+        "without reference to",
+        "no reference to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#12a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-112b",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "关于；就……而言（in reference to）",
+      "answerPrimary": "in reference to",
+      "answerAlts": [
+        "with reference to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#12b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-113",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "反思；仔细思考",
+      "answerPrimary": "reflect on",
+      "answerAlts": [
+        "reflect upon",
+        "think over"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-114",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "小偷决定改过自新",
+      "answerPrimary": "The thief decided to reform",
+      "answerAlts": [
+        "reform",
+        "decide to reform"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-115a",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "刷新文档",
+      "answerPrimary": "refresh the document",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#15a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-refresh"
+    },
+    {
+      "id": "u45-115b",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "唤起我对某事的记忆",
+      "answerPrimary": "refresh my memory of sth",
+      "answerAlts": [
+        "refresh one's memory"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-1-25#15b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u45-refresh"
+    },
+    {
+      "id": "u45-116",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "神清气爽",
+      "answerPrimary": "feel refreshed",
+      "answerAlts": [
+        "be refreshed",
+        "refreshing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-117",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "拒绝（名词）",
+      "answerPrimary": "refusal",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-1-25#17",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "refusal",
+          "alts": []
+        }
+      ],
+      "hint": "refuse"
+    },
+    {
+      "id": "u45-118",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "I have something to say ____(regard) the matter.（= 短语）",
+      "answerPrimary": "regarding",
+      "answerAlts": [
+        "with regard to",
+        "in regard to",
+        "as regards"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-1-25#18",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "regarding",
+          "alts": [
+            "with regard to",
+            "in regard to",
+            "as regards"
+          ]
+        }
+      ],
+      "hint": "regard"
+    },
+    {
+      "id": "u45-119",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "be equal to everyone ____ their backgrounds（不管，不顾）",
+      "answerPrimary": "regardless of",
+      "answerAlts": [
+        "irrespective of"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-1-25#19",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "regardless of",
+          "alts": [
+            "irrespective of"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u45-120",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "注册网上课程",
+      "answerPrimary": "register for an online course",
+      "answerAlts": [
+        "sign up for an online course",
+        "enroll in an online course"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-121",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "register（名词）",
+      "answerPrimary": "registration",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-1-25#21",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "registration",
+          "alts": []
+        }
+      ],
+      "hint": "register"
+    },
+    {
+      "id": "u45-122",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "挂号信",
+      "answerPrimary": "a registered letter",
+      "answerAlts": [
+        "registered mail"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#22",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-123",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "常客；定期访客",
+      "answerPrimary": "a regular visitor",
+      "answerAlts": [
+        "regular visitor"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#23",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-124",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "不规律的",
+      "answerPrimary": "irregular",
+      "answerAlts": [
+        "not regular"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#24",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-125",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "定期（短语）",
+      "answerPrimary": "on a regular basis",
+      "answerAlts": [
+        "regularly",
+        "at regular intervals"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#25",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-126",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "拒绝申请者",
+      "answerPrimary": "reject the applicant",
+      "answerAlts": [
+        "reject an applicant"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#26",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-127",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "向警察讲述事故经过",
+      "answerPrimary": "relate the accident to the policeman",
+      "answerAlts": [
+        "relate sth to sb"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#27",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-128",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "与……有关",
+      "answerPrimary": "be related to",
+      "answerAlts": [
+        "have relation to",
+        "be connected with"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#28",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-129",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "许多青少年能与小说主角产生共鸣",
+      "answerPrimary": "Many teenagers can relate to the main character in the novel",
+      "answerAlts": [
+        "relate to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#29",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-130a",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "就……而言；与……相关（in relation to）",
+      "answerPrimary": "in relation to",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#30a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-130b",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "相对而言；相对来说",
+      "answerPrimary": "relatively speaking",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-1-25#31",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u45-131",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "放松（名词）",
+      "answerPrimary": "relaxation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-1-25#32",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "relaxation",
+          "alts": []
+        }
+      ],
+      "hint": "relax"
+    },
+    {
+      "id": "u45-201",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "She ____(评论) that his work was ____(非凡的).",
+      "answerPrimary": "remarked|remarkable",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-26-50#1",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "remarked",
+          "alts": [
+            "commented"
+          ]
+        },
+        {
+          "index": 1,
+          "answer": "remarkable",
+          "alts": []
+        }
+      ],
+      "hint": "remark / remarkable"
+    },
+    {
+      "id": "u45-202",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "被他刻薄的话弄得心烦",
+      "answerPrimary": "be upset by his mean remarks",
+      "answerAlts": [
+        "upset by mean remarks"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#2",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-203a",
+      "unitId": "45",
+      "type": "pattern",
+      "prompt": "记得做过某事",
+      "answerPrimary": "remember doing",
+      "answerAlts": [
+        "remember having done"
+      ],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "unit45-26-50#3a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-203b",
+      "unitId": "45",
+      "type": "pattern",
+      "prompt": "记得要去做某事",
+      "answerPrimary": "remember to do",
+      "answerAlts": [],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "unit45-26-50#3b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-204",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "remind（名词）",
+      "answerPrimary": "reminder",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-26-50#4",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "reminder",
+          "alts": []
+        }
+      ],
+      "hint": "remind"
+    },
+    {
+      "id": "u45-205a",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "遥控器",
+      "answerPrimary": "a remote control",
+      "answerAlts": [
+        "remote control"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-26-50#5a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u45-remote"
+    },
+    {
+      "id": "u45-205b",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "远亲",
+      "answerPrimary": "a remote relative",
+      "answerAlts": [
+        "distant relative"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-26-50#5b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u45-remote"
+    },
+    {
+      "id": "u45-205c",
+      "unitId": "45",
+      "type": "phrase_cluster",
+      "prompt": "远程教育",
+      "answerPrimary": "remote education",
+      "answerAlts": [
+        "distance education"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit45-26-50#5c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u45-remote"
+    },
+    {
+      "id": "u45-205d",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "我们获胜的可能性微乎其微",
+      "answerPrimary": "There is only a remote chance that we will win",
+      "answerAlts": [
+        "a remote chance"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#5d",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-206",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "摘掉眼镜",
+      "answerPrimary": "remove glasses",
+      "answerAlts": [
+        "take off one's glasses"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#6",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-207",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "撤他的职",
+      "answerPrimary": "remove him from office",
+      "answerAlts": [
+        "remove sb from office",
+        "dismiss him from his post"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-208",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "消除异议",
+      "answerPrimary": "remove objections",
+      "answerAlts": [
+        "remove the objections",
+        "clear up objections"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#8",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-209",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "remove（名词）",
+      "answerPrimary": "removal",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-26-50#9",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "removal",
+          "alts": []
+        }
+      ],
+      "hint": "remove"
+    },
+    {
+      "id": "u45-210",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "The house is ____ rent.",
+      "answerPrimary": "for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-26-50#10",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u45-211",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "____ repair（在修理中）",
+      "answerPrimary": "under",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-26-50#11",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "under",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u45-212a",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "无法修理；坏到不能修",
+      "answerPrimary": "beyond repair",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#12a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-212b",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "____(repeat) practice helps improve your English.",
+      "answerPrimary": "Repeated",
+      "answerAlts": [
+        "repeated"
+      ],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-26-50#12b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "Repeated",
+          "alts": [
+            "repeated"
+          ]
+        }
+      ],
+      "hint": "repeat"
+    },
+    {
+      "id": "u45-213a",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "读完后把书放回书架",
+      "answerPrimary": "Replace the books on the shelf after reading",
+      "answerAlts": [
+        "replace the books on the shelf"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#14a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-213b",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "We replaced the old equipment ____ new ones.",
+      "answerPrimary": "with",
+      "answerAlts": [
+        "by"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-26-50#14b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "with",
+          "alts": [
+            "by"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u45-213c",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "He will act as a ____(replace) for our manager.",
+      "answerPrimary": "replacement",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-26-50#14c",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "replacement",
+          "alts": []
+        }
+      ],
+      "hint": "replace"
+    },
+    {
+      "id": "u45-214a",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "Several residents reported ____(hear) loud noises last night.",
+      "answerPrimary": "hearing",
+      "answerAlts": [],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit45-26-50#15a",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "hearing",
+          "alts": []
+        }
+      ],
+      "hint": "hear"
+    },
+    {
+      "id": "u45-214b",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "He was reported ____(donate) a large fortune to the charity.",
+      "answerPrimary": "to have donated",
+      "answerAlts": [
+        "to donate"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit45-26-50#15b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "to have donated",
+          "alts": [
+            "to donate"
+          ]
+        }
+      ],
+      "hint": "donate"
+    },
+    {
+      "id": "u45-215a",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "媒体把他描绘成英雄",
+      "answerPrimary": "The media represented him as a hero",
+      "answerAlts": [
+        "represent sb as"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#16a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-215b",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "act as a sales ____(represent)",
+      "answerPrimary": "representative",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit45-26-50#16b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "representative",
+          "alts": []
+        }
+      ],
+      "hint": "represent"
+    },
+    {
+      "id": "u45-216",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "名副其实",
+      "answerPrimary": "deserve the reputation",
+      "answerAlts": [
+        "live up to one's reputation",
+        "worthy of the name",
+        "deserve one's reputation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-217",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "按照某人的要求",
+      "answerPrimary": "at one's request",
+      "answerAlts": [
+        "at sb's request",
+        "by request"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-218",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "make a request ____ sth（请求）",
+      "answerPrimary": "for",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-26-50#19",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u45-219",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "He made a request that we ____(arrive) on time.",
+      "answerPrimary": "arrive",
+      "answerAlts": [
+        "should arrive"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit45-26-50#20",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "arrive",
+          "alts": [
+            "should arrive"
+          ]
+        }
+      ],
+      "hint": "arrive / request that 虚拟"
+    },
+    {
+      "id": "u45-220",
+      "unitId": "45",
+      "type": "word_form",
+      "prompt": "The house requires ____(mend).",
+      "answerPrimary": "mending",
+      "answerAlts": [
+        "to be mended"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit45-26-50#21",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "mending",
+          "alts": [
+            "to be mended"
+          ]
+        }
+      ],
+      "hint": "mend"
+    },
+    {
+      "id": "u45-221",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "来营救某人",
+      "answerPrimary": "come to sb's rescue",
+      "answerAlts": [
+        "come to one's rescue",
+        "rescue sb"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#22",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-222",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "do research ____ eco-system",
+      "answerPrimary": "on",
+      "answerAlts": [
+        "into"
+      ],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-26-50#23",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "on",
+          "alts": [
+            "into"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u45-223",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "保留做……的权利",
+      "answerPrimary": "reserve the right to do",
+      "answerAlts": [
+        "reserve one's right to do"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-224",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "野生动物保护区",
+      "answerPrimary": "wildlife reserves",
+      "answerAlts": [
+        "wildlife reserve",
+        "nature reserve"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#25",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-225",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "把位子留给残疾人",
+      "answerPrimary": "reserve seats for the disabled",
+      "answerAlts": [
+        "reserve a seat for the disabled"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#26",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-226",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "备用资金；储备金",
+      "answerPrimary": "funds in reserve",
+      "answerAlts": [
+        "money in reserve"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#27",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-227",
+      "unitId": "45",
+      "type": "cloze",
+      "prompt": "make a ____ ____ a hotel（预定）",
+      "answerPrimary": "reservation|at",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit45-26-50#28",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "reservation",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "at",
+          "alts": [
+            "in",
+            "with"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u45-228",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "顺从于；听任",
+      "answerPrimary": "resign oneself to",
+      "answerAlts": [
+        "be resigned to",
+        "resign to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#29",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-229",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "忍不住要笑",
+      "answerPrimary": "can't resist laughing",
+      "answerAlts": [
+        "cannot resist laughing",
+        "can't help laughing"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#30",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-230",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "耐热材料",
+      "answerPrimary": "heat-resistant materials",
+      "answerAlts": [
+        "heat resistant materials"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#31a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-231",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "对……有抵抗力",
+      "answerPrimary": "be resistant to",
+      "answerAlts": [
+        "have resistance to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#31b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u45-232",
+      "unitId": "45",
+      "type": "zh2en",
+      "prompt": "风阻；空气阻力",
+      "answerPrimary": "wind resistance",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit45-26-50#32",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ]
+}

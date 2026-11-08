@@ -1,6 +1,6 @@
 # QUIZ_SPEC — 双端抽背契约
 
-Android (Kotlin) 与 HarmonyOS (ArkTS) 必须按本规格实现判分与抽题，保证同一输入得到同一 verdict。
+Android (Kotlin)、HarmonyOS (ArkTS) 与 Windows 桌面版（`desktop/quiz_core.py`）必须按本规格实现判分与抽题，保证同一输入得到同一 verdict。
 
 ## 题型
 

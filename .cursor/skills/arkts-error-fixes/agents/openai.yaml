@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArkTS Error Fixes"
+  short_description: "Diagnose and fix ArkTS compile and type errors"
+  default_prompt: "Use $arkts-error-fixes to diagnose this ArkTS error and validate the fix with the configured DevEco Harmony MCP."

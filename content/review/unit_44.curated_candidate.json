@@ -1,0 +1,1072 @@
+{
+  "unitId": "44",
+  "name": "Unit 44 (radio—reduce)",
+  "order": 44,
+  "rangeFrom": "radio",
+  "rangeTo": "reduce",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u44-101",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "通过无线电；在广播中",
+      "answerPrimary": "over the radio",
+      "answerAlts": [
+        "on the radio"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-102",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "充分发挥你的潜能",
+      "answerPrimary": "realize your full potential",
+      "answerAlts": [
+        "fulfil your potential",
+        "fulfill your potential",
+        "reach your full potential",
+        "develop your potential to the full"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-103",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "现金；现钱（ready money）",
+      "answerPrimary": "ready money",
+      "answerAlts": [
+        "cash"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-104a",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "很容易获得；现成可用",
+      "answerPrimary": "readily available",
+      "answerAlts": [
+        "be readily available"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#4a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-104b",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "欣然接受；爽快答应",
+      "answerPrimary": "readily accept",
+      "answerAlts": [
+        "readily accepted",
+        "accept readily"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#4b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-105",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "制定一个切实可行的计划",
+      "answerPrimary": "make a realistic plan",
+      "answerAlts": [
+        "work out a realistic plan",
+        "draw up a practical plan",
+        "make a workable plan"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-106",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "靠着栏杆",
+      "answerPrimary": "lean against the rail",
+      "answerAlts": [
+        "lean on the rail"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-107",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "麻烦接踵而至；祸不单行",
+      "answerPrimary": "Troubles rained down",
+      "answerAlts": [
+        "troubles rain down",
+        "rain down"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#7",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-108a",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "筹款",
+      "answerPrimary": "raise money",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-1-25#8a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u44-raise"
+    },
+    {
+      "id": "u44-108b",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "振作精神；提高士气",
+      "answerPrimary": "raise one's spirits",
+      "answerAlts": [
+        "raise sb's spirits"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-1-25#8b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u44-raise"
+    },
+    {
+      "id": "u44-108c",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "养家",
+      "answerPrimary": "raise a family",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-1-25#8c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u44-raise"
+    },
+    {
+      "id": "u44-108d",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "取消禁烟令",
+      "answerPrimary": "raise a ban on smoking",
+      "answerAlts": [
+        "lift a ban on smoking"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-1-25#8d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u44-raise"
+    },
+    {
+      "id": "u44-109",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "随机地（短语）",
+      "answerPrimary": "at random",
+      "answerAlts": [
+        "randomly"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#9",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-110",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "涉及从……到……的范围",
+      "answerPrimary": "range from ... to ...",
+      "answerAlts": [
+        "range from A to B",
+        "range between ... and ..."
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#10",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-111",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "在我的视野范围内",
+      "answerPrimary": "within the range of my vision",
+      "answerAlts": [
+        "within my range of vision",
+        "in the range of my vision"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#11",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-112",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "属于……之列；在……范围内",
+      "answerPrimary": "rank among",
+      "answerAlts": [
+        "rank with",
+        "be ranked among",
+        "be among"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-113",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "____ an alarming rate（以惊人的速度）",
+      "answerPrimary": "at",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit44-1-25#13",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "at",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u44-114",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "无论如何；至少",
+      "answerPrimary": "at any rate",
+      "answerAlts": [
+        "in any case",
+        "anyway"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-115",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "对某事评价很高",
+      "answerPrimary": "rate sth highly",
+      "answerAlts": [
+        "rate something highly",
+        "think highly of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-116",
+      "unitId": "44",
+      "type": "pattern",
+      "prompt": "更确切地说（or rather）",
+      "answerPrimary": "or rather",
+      "answerAlts": [],
+      "tags": [
+        "pattern"
+      ],
+      "sourceRef": "unit44-1-25#16",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-117a",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "You are ill, so I would rather you ____(stay) at home.",
+      "answerPrimary": "stayed",
+      "answerAlts": [],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit44-1-25#17a",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "stayed",
+          "alts": []
+        }
+      ],
+      "hint": "stay / would rather 虚拟"
+    },
+    {
+      "id": "u44-117b",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "I would rather you ____(not make) that mistake yesterday.",
+      "answerPrimary": "had not made",
+      "answerAlts": [
+        "hadn't made"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit44-1-25#17b",
+      "segment": "1-25",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "had not made",
+          "alts": [
+            "hadn't made"
+          ]
+        }
+      ],
+      "hint": "not make / would rather 对过去虚拟"
+    },
+    {
+      "id": "u44-118a",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "原材料",
+      "answerPrimary": "raw materials",
+      "answerAlts": [
+        "raw material"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#18a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-118b",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "生手；新手",
+      "answerPrimary": "a raw beginner",
+      "answerAlts": [
+        "raw beginner"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#18b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-119",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "一线希望",
+      "answerPrimary": "a ray of hope",
+      "answerAlts": [
+        "a gleam of hope",
+        "a flicker of hope"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#19",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-120",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "打电话找我；电话联系到我",
+      "answerPrimary": "reach me on the phone",
+      "answerAlts": [
+        "reach me by phone",
+        "reach sb by telephone"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#20",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-121",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "向……伸出援手；联系",
+      "answerPrimary": "reach out to",
+      "answerAlts": [
+        "reach out"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#21",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-122",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "在……能力/范围之内",
+      "answerPrimary": "within the reach of",
+      "answerAlts": [
+        "within reach of",
+        "within one's reach"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#22",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-123",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "反应不一",
+      "answerPrimary": "meet with mixed reactions",
+      "answerAlts": [
+        "get mixed reactions",
+        "receive mixed reactions",
+        "a mixed reaction",
+        "reactions vary"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#23",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-124",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "看懂某人的想法；读懂心思",
+      "answerPrimary": "read one's mind",
+      "answerAlts": [
+        "read sb's mind",
+        "read someone's thoughts"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#24",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-125",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "牌子上写着「禁止吸烟」",
+      "answerPrimary": "The sign reads, \"No smoking\"",
+      "answerAlts": [
+        "The sign reads No smoking",
+        "The sign says No smoking"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-1-25#25",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u44-201",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "沦为乞丐",
+      "answerPrimary": "be reduced to a beggar",
+      "answerAlts": [
+        "be reduced to begging",
+        "reduce sb to a beggar"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#1",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-202",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "reduce（名词）",
+      "answerPrimary": "reduction",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit44-26-50#2",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "reduction",
+          "alts": []
+        }
+      ],
+      "hint": "reduce"
+    },
+    {
+      "id": "u44-203",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "正视现实",
+      "answerPrimary": "face reality",
+      "answerAlts": [
+        "face up to reality",
+        "look reality in the face"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#3",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-204",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "推理能力",
+      "answerPrimary": "reasoning ability",
+      "answerAlts": [
+        "the ability to reason"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#4",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-205",
+      "unitId": "44",
+      "type": "cloze",
+      "prompt": "the reason ____ sth = the cause ____ sth",
+      "answerPrimary": "for|of",
+      "answerAlts": [],
+      "tags": [
+        "collocation"
+      ],
+      "sourceRef": "unit44-26-50#5",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "for",
+          "alts": []
+        },
+        {
+          "index": 1,
+          "answer": "of",
+          "alts": []
+        }
+      ]
+    },
+    {
+      "id": "u44-206a",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "提出合理的建议",
+      "answerPrimary": "offer reasonable advice",
+      "answerAlts": [
+        "give reasonable advice"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#6a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-206b",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "合理的价格",
+      "answerPrimary": "reasonable price",
+      "answerAlts": [
+        "a reasonable price"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#6b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-207a",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "回忆童年",
+      "answerPrimary": "recall my childhood",
+      "answerAlts": [
+        "recall one's childhood"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#7a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-207b",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "召回假冒产品",
+      "answerPrimary": "recall the fake product",
+      "answerAlts": [
+        "recall fake products",
+        "product recall"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#7b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-208a",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "销售收据；购物小票",
+      "answerPrimary": "a sales receipt",
+      "answerAlts": [
+        "sales receipt",
+        "receipt"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#8a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-208b",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "货到付款；收到货物后付款",
+      "answerPrimary": "on receipt of the goods",
+      "answerAlts": [
+        "Payment will be made on receipt of the goods"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#8b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-209",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "很受欢迎",
+      "answerPrimary": "be well received",
+      "answerAlts": [
+        "receive a warm welcome",
+        "be popular",
+        "be warmly received"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#9",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-210",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "挂上听筒；放回听筒",
+      "answerPrimary": "replace the receiver",
+      "answerAlts": [
+        "put down the receiver",
+        "hang up the receiver"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#10",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-211",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "酒店前台；接待处",
+      "answerPrimary": "hotel reception",
+      "answerAlts": [
+        "reception desk",
+        "the reception"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#11",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-212",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "这项新政策反响不一",
+      "answerPrimary": "The new policy met with a mixed reception",
+      "answerAlts": [
+        "meet with a mixed reception",
+        "receive a mixed reception"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#12",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-213",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "健康的秘诀",
+      "answerPrimary": "the recipe for health",
+      "answerAlts": [
+        "a recipe for good health",
+        "the secret of health"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#13",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-214",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "recite（名词）",
+      "answerPrimary": "recitation",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit44-26-50#14",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "recitation",
+          "alts": []
+        }
+      ],
+      "hint": "recite"
+    },
+    {
+      "id": "u44-215",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "无法辨认",
+      "answerPrimary": "beyond recognition",
+      "answerAlts": [
+        "unrecognizable",
+        "can't be recognized",
+        "cannot be recognized"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#15",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-216",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "她一开始演奏我就听出了那支曲子",
+      "answerPrimary": "I recognized the tune the moment she began to play",
+      "answerAlts": [
+        "recognize the tune"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#16",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-217",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "他未能意识到前方的危险",
+      "answerPrimary": "He failed to recognize the danger ahead",
+      "answerAlts": [
+        "fail to recognize the danger",
+        "not recognize the danger"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#17",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-218",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "为表彰她的勇气而授予奖牌",
+      "answerPrimary": "in recognition of her courage",
+      "answerAlts": [
+        "receive ... in recognition of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#18",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-219",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "人们公认；普遍认为",
+      "answerPrimary": "It is generally recognized that",
+      "answerAlts": [
+        "It is widely recognized that",
+        "It is universally acknowledged that",
+        "People generally recognize that"
+      ],
+      "tags": [
+        "zh2en",
+        "pattern"
+      ],
+      "sourceRef": "unit44-26-50#19",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-220",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "这本书值得推荐。",
+      "answerPrimary": "This book is worth recommending",
+      "answerAlts": [
+        "The book is worth recommending",
+        "This book deserves to be recommended",
+        "I recommend this book"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#20",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-221",
+      "unitId": "44",
+      "type": "word_form",
+      "prompt": "The doctor recommended that he ____(give) up staying up late.",
+      "answerPrimary": "give",
+      "answerAlts": [
+        "should give"
+      ],
+      "tags": [
+        "word_form",
+        "pattern"
+      ],
+      "sourceRef": "unit44-26-50#21",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "give",
+          "alts": [
+            "should give"
+          ]
+        }
+      ],
+      "hint": "give / recommend that 虚拟语气"
+    },
+    {
+      "id": "u44-222a",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "记录；做记录",
+      "answerPrimary": "keep a record of",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-26-50#22a",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u44-record"
+    },
+    {
+      "id": "u44-222b",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "创纪录",
+      "answerPrimary": "set a record",
+      "answerAlts": [
+        "break a record"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-26-50#22b",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u44-record"
+    },
+    {
+      "id": "u44-222c",
+      "unitId": "44",
+      "type": "phrase_cluster",
+      "prompt": "播放唱片",
+      "answerPrimary": "play a record",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit44-26-50#22c",
+      "segment": "26-50",
+      "blanks": [],
+      "relatedGroupId": "u44-record"
+    },
+    {
+      "id": "u44-223",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "找回丢失的古董",
+      "answerPrimary": "recover the lost antique",
+      "answerAlts": [
+        "recover a lost antique"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#23",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-224",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "阅读不仅是为了消遣，还能开阔视野",
+      "answerPrimary": "Reading is not only for recreation, but broadens our horizons",
+      "answerAlts": [
+        "for recreation",
+        "recreation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#24",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u44-225",
+      "unitId": "44",
+      "type": "zh2en",
+      "prompt": "娱乐设施",
+      "answerPrimary": "recreational facilities",
+      "answerAlts": [
+        "recreation facilities"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit44-26-50#25",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ]
+}

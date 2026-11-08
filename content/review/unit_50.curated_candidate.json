@@ -1,0 +1,566 @@
+{
+  "unitId": "50",
+  "name": "Unit 50 (skate—sometimes)",
+  "order": 50,
+  "rangeFrom": "skate",
+  "rangeTo": "sometimes",
+  "wordsPerUnit": 50,
+  "items": [
+    {
+      "id": "u50-101",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "逃课",
+      "answerPrimary": "skip class",
+      "answerAlts": [
+        "cut class",
+        "play truant",
+        "skip school"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#1",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-102",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "滑板 / 滑雪者",
+      "answerPrimary": "skateboard / skier",
+      "answerAlts": [
+        "skateboard",
+        "skier"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#2",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-103",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "瞌睡的",
+      "answerPrimary": "sleepy",
+      "answerAlts": [
+        "drowsy"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#3",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-104",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "一份利润 / 一片面包",
+      "answerPrimary": "a slice of the profit / a slice of bread",
+      "answerAlts": [
+        "a slice of the profit",
+        "a slice of bread"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#4",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-105",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "溜进房间",
+      "answerPrimary": "slip into the room",
+      "answerAlts": [
+        "sneak into the room"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#5",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-106",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "不知不觉染上坏习惯",
+      "answerPrimary": "slip into a bad habit",
+      "answerAlts": [
+        "fall into a bad habit"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#6",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-107a",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "略微增加",
+      "answerPrimary": "a slight increase",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#7a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slight"
+    },
+    {
+      "id": "u50-107b",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "苗条身材",
+      "answerPrimary": "a slight figure",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#7b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slight"
+    },
+    {
+      "id": "u50-107c",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "一点儿也不",
+      "answerPrimary": "not in the slightest",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#7c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slight"
+    },
+    {
+      "id": "u50-108",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "成功的希望渺茫",
+      "answerPrimary": "a slim chance of success",
+      "answerAlts": [
+        "slim chances"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#8",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-109a",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "她在减肥",
+      "answerPrimary": "She is slimming down",
+      "answerAlts": [
+        "slim down"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#9a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slim"
+    },
+    {
+      "id": "u50-109b",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "精简人员",
+      "answerPrimary": "slim down the staff",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#9b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slim"
+    },
+    {
+      "id": "u50-110a",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "时间悄然流逝",
+      "answerPrimary": "Time is slipping away",
+      "answerAlts": [
+        "slip away"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#10a",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slip"
+    },
+    {
+      "id": "u50-110b",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "他的名字我一时想不起来了",
+      "answerPrimary": "His name slipped my mind",
+      "answerAlts": [
+        "slip one's mind"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#10b",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slip"
+    },
+    {
+      "id": "u50-110c",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "盘子从我手里滑落",
+      "answerPrimary": "The plate slipped from my hand",
+      "answerAlts": [],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#10c",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slip"
+    },
+    {
+      "id": "u50-110d",
+      "unitId": "50",
+      "type": "phrase_cluster",
+      "prompt": "口误",
+      "answerPrimary": "a slip of the tongue",
+      "answerAlts": [
+        "a slip of tounge"
+      ],
+      "tags": [
+        "phrase"
+      ],
+      "sourceRef": "unit50-1-25#10d",
+      "segment": "1-25",
+      "blanks": [],
+      "relatedGroupId": "u50-slip"
+    },
+    {
+      "id": "u50-111a",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "他迈着轻快的步伐出发了",
+      "answerPrimary": "He set off at a smart pace",
+      "answerAlts": [
+        "at a smart pace"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#11a",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-111b",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "穿着得体",
+      "answerPrimary": "dress smartly",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#11b",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-112",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "闻起来有油漆味",
+      "answerPrimary": "smell of paint",
+      "answerAlts": [
+        "smell like paint"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#12",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-113",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "臭袜子",
+      "answerPrimary": "smelly socks",
+      "answerAlts": [],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#13",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-114",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "消除困难；扫清障碍",
+      "answerPrimary": "smooth away difficulties",
+      "answerAlts": [
+        "smooth out difficulties",
+        "remove difficulties"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#14",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-115",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "小吃店；快餐柜台",
+      "answerPrimary": "a snack bar",
+      "answerAlts": [
+        "snack bar"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-1-25#15",
+      "segment": "1-25",
+      "blanks": []
+    },
+    {
+      "id": "u50-201",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "与……打交道",
+      "answerPrimary": "deal with",
+      "answerAlts": [
+        "do with",
+        "handle"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#1",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-202",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "加入辩论社",
+      "answerPrimary": "join the debating society",
+      "answerAlts": [
+        "join in the debating society"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#2a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-203",
+      "unitId": "50",
+      "type": "word_form",
+      "prompt": "His words ____(soft) my anxiety.",
+      "answerPrimary": "softened",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit50-26-50#2b",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "softened",
+          "alts": []
+        }
+      ],
+      "hint": "soft"
+    },
+    {
+      "id": "u50-204",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "太阳能电池板 / 太阳能电池",
+      "answerPrimary": "a solar panel / a solar cell",
+      "answerAlts": [
+        "solar panel",
+        "solar cell"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#4",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-205",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "大厅挤得满满当当",
+      "answerPrimary": "The hall was packed solid",
+      "answerAlts": [
+        "packed solid"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#5",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-206",
+      "unitId": "50",
+      "type": "word_form",
+      "prompt": "The crisis strengthened the ____(solid) among team members.",
+      "answerPrimary": "solidarity",
+      "answerAlts": [],
+      "tags": [
+        "word_form"
+      ],
+      "sourceRef": "unit50-26-50#6",
+      "segment": "26-50",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "solidarity",
+          "alts": []
+        }
+      ],
+      "hint": "solid"
+    },
+    {
+      "id": "u50-207",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "打下坚实的基础",
+      "answerPrimary": "lay a solid foundation",
+      "answerAlts": [
+        "build a solid foundation"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#7",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-208",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "……的解决方法",
+      "answerPrimary": "a solution to",
+      "answerAlts": [
+        "the solution to"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#8",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-209",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "解谜",
+      "answerPrimary": "solve a puzzle",
+      "answerAlts": [
+        "solve the puzzle"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#9",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-210a",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "我们总会设法完成任务",
+      "answerPrimary": "We will somehow finish the task",
+      "answerAlts": [
+        "somehow"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#10a",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-210b",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "我对村子很熟，但不知怎的还是迷路了",
+      "answerPrimary": "somehow I got lost",
+      "answerAlts": [
+        "but somehow I got lost"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#10b",
+      "segment": "26-50",
+      "blanks": []
+    },
+    {
+      "id": "u50-211",
+      "unitId": "50",
+      "type": "zh2en",
+      "prompt": "他算得上是个专家",
+      "answerPrimary": "He is something of an expert",
+      "answerAlts": [
+        "something of"
+      ],
+      "tags": [
+        "zh2en"
+      ],
+      "sourceRef": "unit50-26-50#11",
+      "segment": "26-50",
+      "blanks": []
+    }
+  ]
+}
